@@ -1,0 +1,115 @@
+    ['Yokan' 0]
+
+['Gionbo' 1]
+['Gyuhi' 1]
+['Higashi' 1]
+['Beika' 1]
+['Senbei' 1]
+    ['Yatsuhashi' 1]
+    ['Karinto' 1]
+    ['Arare' 1]
+
+['Namagashi' 2]
+    ['Mizuame' 2]
+    ['Amanatto' 2]
+    ['Konpeito' 2]
+    ['Wasanbon' 2]
+
+['Yubeshi' 3]
+
+['Daifuku' 4]
+['Dango' 4]
+['Kuzumochi' 4]
+['Manju' 4]
+['Uiro' 4]
+['Warabimochi' 4]
+    ['Botamochi' 4]
+    ['Sakuramochi' 4]
+
+['Akumaki' 5]
+
+    ['Tokoroten' 6]
+
+['Hishi' 7]
+
+['Monaka' 8]
+
+['Hanabiramochi' 9]
+
+['Imagawayaki' 10]
+    ['Dorayaki' 10]
+    ['Taiyaki' 10]
+
+---------------------------
+['Akumaki' 0]
+['Beika' 0]
+['Gionbo' 0]
+['Gyuhi' 0]
+['Higashi' 0]
+['Karinto' 0]
+['Namagashi' 0]
+['Senbei' 1]
+
+['Daifuku' 1]
+['Dango' 1]
+['Dorayaki' 1]
+['Konpeito' 1]
+['Kuzumochi' 1]
+['Manju' 1]
+['Amanatto' 1]
+['Arare' 1]
+['Yokan' 1]
+['Yubeshi' 1]
+['Tokoroten' 1]
+['Uiro' 1]
+['Warabimochi' 1]
+
+['Botamochi' 2]
+['Hanabiramochi' 2]
+['Hishi' 2]
+['Imagawayaki' 2]
+['Monaka' 2]
+['Yatsuhashi' 2]
+['Taiyaki' 2]
+['Sakuramochi' 2]
+
+
+['Mizuame' 3]
+['Wasanbon' 3]
+
+--------------------
+
+['Akumaki' 0]
+['Yatsuhashi' 0]
+['Beika' 0]
+['Gionbo' 0]
+['Gyuhi' 0]
+['Higashi' 0]
+['Karinto' 0]
+['Monaka' 0]
+['Namagashi' 0]
+
+['Amanatto' 1]
+['Arare' 1]
+['Senbei' 1]
+['Taiyaki' 1]
+['Tokoroten' 1]
+['Uiro' 1]
+['Warabimochi' 1]
+['Daifuku' 1]
+['Dango' 1]
+['Dorayaki' 1]
+['Konpeito' 1]
+['Kuzumochi' 1]
+['Manju' 1]
+['Yokan' 1]
+
+['Botamochi' 2]
+['Hanabiramochi' 2]
+['Hishi' 2]
+['Imagawayaki' 2]
+['Sakuramochi' 2]
+
+['Mizuame' 3]
+['Wasanbon' 3]
+['Yubeshi' 3]
