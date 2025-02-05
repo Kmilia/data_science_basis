@@ -1,0 +1,2457 @@
+,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Global_Sales
+0,Wii,2006.0,Sports,Nintendo,41.49,29.02,3.77,82.74
+2,Wii,2008.0,Racing,Nintendo,15.85,12.88,3.79,35.82
+3,Wii,2009.0,Sports,Nintendo,15.75,11.01,3.28,33.0
+6,DS,2006.0,Platform,Nintendo,11.38,9.23,6.5,30.01
+7,Wii,2006.0,Misc,Nintendo,14.03,9.2,2.93,29.02
+8,Wii,2009.0,Platform,Nintendo,14.59,7.06,4.7,28.62
+10,DS,2005.0,Simulation,Nintendo,9.07,11.0,1.93,24.76
+11,DS,2005.0,Racing,Nintendo,9.81,7.57,4.13,23.42
+13,Wii,2007.0,Sports,Nintendo,8.94,8.03,3.6,22.72
+14,Wii,2009.0,Sports,Nintendo,9.09,8.59,2.53,22.0
+19,DS,2005.0,Misc,Nintendo,4.75,9.26,4.16,20.22
+20,DS,2006.0,Role-Playing,Nintendo,6.42,4.52,6.04,18.36
+26,DS,2010.0,Role-Playing,Nintendo,5.57,3.28,5.65,15.32
+27,DS,2005.0,Puzzle,Nintendo,3.44,5.36,5.32,15.3
+39,Wii,2008.0,Fighting,Nintendo,6.75,2.61,2.66,13.04
+41,DS,2005.0,Simulation,Nintendo,2.55,3.52,5.33,12.27
+45,DS,2009.0,Action,Nintendo,4.4,2.77,3.96,11.9
+48,Wii,2007.0,Platform,Nintendo,6.16,3.4,1.2,11.52
+59,DS,2004.0,Platform,Nintendo,5.08,3.11,1.25,10.42
+60,Wii,2011.0,Misc,Ubisoft,6.05,3.15,0.0,10.26
+68,Wii,2010.0,Misc,Ubisoft,5.84,2.89,0.01,9.52
+74,DS,2007.0,Misc,Nintendo,4.46,1.88,1.98,9.02
+78,Wii,2010.0,Misc,Nintendo,1.79,3.53,2.49,8.49
+80,Wii,2007.0,Misc,Nintendo,3.81,2.3,1.58,8.42
+81,DS,2012.0,Role-Playing,Nintendo,2.91,1.86,3.14,8.33
+83,PC,2009.0,Simulation,Electronic Arts,0.98,6.42,0.0,8.11
+85,Wii,2007.0,Sports,Sega,2.58,3.9,0.66,8.06
+88,DS,2008.0,Role-Playing,Nintendo,2.82,1.78,2.69,7.84
+91,Wii,2010.0,Platform,Nintendo,3.66,2.42,0.98,7.69
+100,Wii,2006.0,Action,Nintendo,3.83,2.19,0.6,7.31
+102,Wii,2009.0,Misc,Ubisoft,3.51,3.03,0.0,7.27
+111,Wii,2012.0,Misc,Ubisoft,4.14,2.21,0.0,6.91
+122,DS,2005.0,Misc,Nintendo,1.67,2.78,1.6,6.67
+125,Wii,2010.0,Platform,Nintendo,3.25,1.84,1.03,6.59
+137,PC,2004.0,Role-Playing,Activision,0.07,6.21,0.0,6.28
+149,DS,2009.0,Role-Playing,Nintendo,0.66,0.69,4.35,5.84
+177,DS,2007.0,Puzzle,Nintendo,1.22,2.48,1.03,5.26
+181,PC,2012.0,Role-Playing,Activision,2.43,2.15,0.0,5.2
+186,DS,2007.0,Action,Nintendo,1.9,1.83,0.95,5.17
+189,DS,2008.0,Sports,Sega,1.64,2.48,0.44,5.14
+206,Wii,2007.0,Shooter,Nintendo,3.06,1.18,0.29,5.0
+209,DS,2007.0,Role-Playing,Nintendo,1.85,1.2,1.54,4.96
+217,PC,2010.0,Strategy,Activision,2.56,1.68,0.0,4.83
+226,Wii,2008.0,Simulation,Nintendo,1.87,1.12,1.32,4.68
+230,Wii,2007.0,Misc,Activision,3.06,1.12,0.0,4.62
+233,Wii,2009.0,Sports,Sega,1.89,1.99,0.22,4.58
+247,Wii,2010.0,Misc,Ubisoft,2.67,1.35,0.01,4.42
+266,PSP,2006.0,Platform,Sony Computer Entertainment,2.45,1.02,0.0,4.22
+284,Wii,2011.0,Action,Nintendo,2.14,1.2,0.37,4.1
+288,PC,2007.0,Role-Playing,Activision,2.57,1.52,0.0,4.09
+300,DS,2007.0,Puzzle,Nintendo,0.92,1.78,0.92,4.0
+303,Wii,2009.0,Sports,Electronic Arts,2.1,1.36,0.06,3.92
+316,DS,2007.0,Misc,Nintendo,0.87,1.57,1.05,3.84
+319,DS,2009.0,Role-Playing,Nintendo,2.26,0.48,0.81,3.83
+320,Wii,2007.0,Misc,Nintendo,1.06,1.93,0.41,3.82
+323,Wii,2011.0,Sports,Sega,1.14,1.91,0.27,3.78
+326,PSP,2007.0,Platform,Sony Computer Entertainment,1.4,1.4,0.1,3.77
+327,Wii,2013.0,Misc,Ubisoft,1.98,1.47,0.0,3.76
+328,PC,2002.0,Simulation,Electronic Arts,2.03,1.56,0.0,3.76
+329,Wii,2007.0,Platform,Nintendo,1.98,0.88,0.59,3.76
+337,DS,2007.0,Simulation,Electronic Arts,1.59,1.61,0.08,3.69
+338,DS,2009.0,Misc,Nintendo,0.0,0.0,3.67,3.67
+343,Wii,2008.0,Misc,Activision,2.33,0.97,0.0,3.65
+370,DS,2009.0,Sports,Sega,1.22,1.66,0.27,3.52
+376,DS,2006.0,Misc,Nintendo,0.59,1.83,0.73,3.5
+380,DS,2008.0,Misc,Activision,2.11,1.01,0.01,3.48
+396,DS,2009.0,Action,Nintendo,1.43,0.94,0.74,3.38
+399,DS,2008.0,Puzzle,Nintendo,0.65,1.61,0.82,3.36
+402,DS,2006.0,Misc,Nintendo,0.0,0.99,2.32,3.33
+405,Wii,2012.0,Misc,Nintendo,1.15,1.17,0.76,3.32
+412,Wii,2008.0,Misc,Nintendo,1.36,1.13,0.46,3.27
+413,PSP,2009.0,Racing,Sony Computer Entertainment,0.5,1.59,0.31,3.27
+425,PSP,2008.0,Action,Sony Computer Entertainment,1.48,1.01,0.04,3.19
+432,DS,2008.0,Misc,Nintendo,0.58,0.51,1.93,3.17
+437,DS,2005.0,Platform,Sega,1.22,1.57,0.06,3.15
+444,DS,2006.0,Misc,Nintendo,0.91,1.0,1.03,3.12
+456,PC,2002.0,Simulation,Electronic Arts,1.72,1.21,0.0,3.07
+473,PC,2000.0,Misc,Electronic Arts,1.67,1.18,0.0,2.99
+478,PC,2014.0,Simulation,Electronic Arts,0.96,1.72,0.0,2.97
+479,PC,2011.0,Role-Playing,Electronic Arts,1.58,1.01,0.0,2.97
+481,DS,2008.0,Platform,Nintendo,1.57,0.04,1.19,2.96
+490,Wii,2006.0,Puzzle,Nintendo,0.87,1.06,0.73,2.92
+503,DS,2007.0,Simulation,Ubisoft,1.3,1.27,0.0,2.88
+512,Wii,2011.0,Action,Activision,1.4,1.14,0.0,2.85
+523,DS,2007.0,Simulation,Ubisoft,1.32,1.19,0.0,2.81
+526,DS,2006.0,Platform,Nintendo,1.47,0.07,1.1,2.8
+533,PC,2011.0,Shooter,Electronic Arts,0.89,1.43,0.0,2.79
+535,DS,2009.0,Puzzle,Nintendo,0.3,1.47,0.68,2.79
+542,Wii,2007.0,Platform,Sega,1.24,1.2,0.04,2.77
+558,DS,2010.0,Puzzle,Nintendo,1.63,0.52,0.35,2.69
+571,Wii,2012.0,Action,Activision,1.56,0.88,0.0,2.65
+572,PSP,2006.0,Shooter,Electronic Arts,0.86,1.11,0.01,2.65
+577,PSP,2006.0,Fighting,Sony Computer Entertainment,0.76,1.1,0.12,2.63
+581,Wii,2007.0,Sports,Nintendo,1.07,1.06,0.24,2.62
+585,DS,2008.0,Simulation,Nintendo,0.63,0.84,0.96,2.61
+587,Wii,2010.0,Platform,Nintendo,1.02,0.52,0.92,2.6
+592,PSP,2009.0,Platform,Sony Computer Entertainment,0.64,1.24,0.01,2.58
+598,DS,2010.0,Misc,Nintendo,0.28,1.68,0.33,2.57
+605,Wii,2008.0,Sports,Konami Digital Entertainment,1.13,0.87,0.29,2.54
+627,Wii,2010.0,Misc,THQ,1.67,0.58,0.0,2.46
+633,PSP,2006.0,Racing,Electronic Arts,0.87,0.98,0.0,2.44
+675,Wii,2013.0,Platform,Activision,1.32,0.83,0.0,2.34
+677,Wii,2008.0,Sports,Ubisoft,1.2,0.9,0.0,2.34
+682,Wii,2010.0,Misc,Ubisoft,1.57,0.56,0.0,2.32
+686,DS,2004.0,Puzzle,Nintendo,0.52,0.45,1.21,2.31
+692,DS,2008.0,Role-Playing,Nintendo,0.95,0.54,0.62,2.3
+698,Wii,2014.0,Misc,Ubisoft,1.11,0.98,0.0,2.28
+707,Wii,2006.0,Misc,Sega,1.07,0.92,0.04,2.27
+718,Wii,2009.0,Role-Playing,Nintendo,0.67,0.41,1.05,2.25
+723,DS,2008.0,Action,Activision,1.42,0.61,0.0,2.23
+738,Wii,2008.0,Platform,Sega,1.28,0.68,0.02,2.2
+750,DS,2006.0,Role-Playing,Nintendo,1.29,0.04,0.73,2.18
+755,PC,2001.0,Simulation,Electronic Arts,1.23,0.83,0.0,2.16
+756,Wii,2009.0,Sports,Ubisoft,1.51,0.47,0.0,2.16
+761,PSP,2007.0,Shooter,Activision,0.52,1.03,0.0,2.14
+768,DS,2006.0,Puzzle,Nintendo,0.64,0.07,1.35,2.13
+773,Wii,2010.0,Platform,Nintendo,1.47,0.09,0.45,2.12
+781,Wii,2010.0,Sports,Nintendo,0.9,0.45,0.63,2.11
+788,PSP,2005.0,Racing,Electronic Arts,1.77,0.13,0.02,2.1
+796,DS,2006.0,Simulation,Electronic Arts,0.92,0.94,0.0,2.09
+798,PSP,2010.0,Action,Konami Digital Entertainment,0.46,0.42,0.96,2.09
+799,PC,2010.0,Role-Playing,Activision,1.77,0.32,0.0,2.08
+802,Wii,2007.0,Simulation,Konami Digital Entertainment,1.36,0.52,0.0,2.08
+824,DS,2005.0,Role-Playing,Nintendo,1.16,0.06,0.83,2.05
+831,Wii,2008.0,Misc,Ubisoft,0.73,1.09,0.0,2.04
+859,DS,2010.0,Platform,Sega,0.99,0.8,0.0,1.97
+861,Wii,2008.0,Shooter,Activision,1.2,0.59,0.0,1.97
+866,PSP,2004.0,Sports,Sony Computer Entertainment,0.5,0.5,0.63,1.96
+869,DS,2006.0,Platform,Nintendo,0.79,0.03,1.05,1.96
+892,Wii,2008.0,Sports,Nintendo,1.51,0.0,0.29,1.93
+896,Wii,2008.0,Misc,Electronic Arts,0.87,0.85,0.0,1.92
+898,PC,2003.0,Simulation,Electronic Arts,1.03,0.8,0.0,1.92
+933,Wii,2010.0,Action,Activision,0.85,0.71,0.13,1.86
+936,Wii,2007.0,Misc,Ubisoft,0.83,0.82,0.0,1.85
+945,PC,2012.0,Role-Playing,Activision,0.84,0.76,0.0,1.83
+954,PC,2001.0,Simulation,Electronic Arts,1.81,0.0,0.0,1.82
+955,Wii,2007.0,Shooter,Nintendo,0.91,0.74,0.07,1.82
+956,DS,2010.0,Role-Playing,Nintendo,0.22,0.21,1.35,1.81
+1019,Wii,2010.0,Platform,Sega,0.96,0.61,0.01,1.74
+1036,DS,2008.0,Simulation,Ubisoft,0.7,0.83,0.0,1.72
+1037,PC,2011.0,Shooter,Activision,0.41,0.98,0.0,1.72
+1040,PC,2010.0,Simulation,Electronic Arts,0.59,0.87,0.0,1.71
+1046,DS,2006.0,Misc,Nintendo,0.0,0.0,1.71,1.71
+1051,Wii,2008.0,Sports,Namco Bandai Games,0.99,0.42,0.14,1.7
+1052,DS,2007.0,Puzzle,Nintendo,0.49,1.12,0.0,1.7
+1053,Wii,2011.0,Platform,Nintendo,0.62,0.21,0.79,1.7
+1078,PC,2003.0,Simulation,Electronic Arts,1.67,0.0,0.0,1.68
+1080,Wii,2007.0,Simulation,Electronic Arts,0.91,0.55,0.04,1.68
+1082,Wii,2008.0,Sports,Ubisoft,0.94,0.57,0.0,1.67
+1084,Wii,2008.0,Sports,THQ,0.45,1.02,0.0,1.67
+1092,PC,2013.0,Strategy,Activision,0.82,0.65,0.0,1.67
+1109,Wii,2011.0,Misc,Namco Bandai Games,0.48,0.68,0.33,1.65
+1136,DS,2006.0,Sports,Nintendo,0.99,0.04,0.49,1.62
+1139,Wii,2006.0,Role-Playing,Nintendo,0.8,0.38,0.3,1.61
+1146,DS,2007.0,Action,THQ,1.5,0.0,0.0,1.61
+1148,Wii,2008.0,Simulation,Konami Digital Entertainment,0.95,0.48,0.01,1.6
+1149,DS,2011.0,Misc,Activision,0.4,0.99,0.0,1.6
+1170,DS,2008.0,Misc,Activision,0.85,0.58,0.0,1.58
+1171,DS,2008.0,Simulation,Electronic Arts,0.81,0.6,0.01,1.58
+1174,Wii,2009.0,Misc,Activision,0.94,0.49,0.0,1.58
+1178,DS,2009.0,Role-Playing,Nintendo,0.58,0.44,0.44,1.58
+1212,PC,2003.0,Strategy,Activision,0.58,0.87,0.0,1.54
+1217,PC,2012.0,Shooter,Activision,0.63,0.69,0.0,1.53
+1219,Wii,2008.0,Simulation,Electronic Arts,0.71,0.65,0.01,1.53
+1220,DS,2007.0,Action,Electronic Arts,0.57,0.79,0.0,1.53
+1223,Wii,2009.0,Shooter,Activision,0.95,0.43,0.0,1.53
+1229,PSP,2007.0,Racing,Sega,0.44,0.69,0.0,1.52
+1242,Wii,2010.0,Racing,Sega,0.65,0.71,0.0,1.51
+1244,PC,2011.0,Sports,Sega,0.02,1.16,0.0,1.51
+1270,DS,2008.0,Adventure,THQ,1.0,0.36,0.0,1.49
+1274,Wii,2010.0,Simulation,Electronic Arts,0.61,0.73,0.0,1.49
+1275,Wii,2009.0,Sports,Nintendo,0.37,0.69,0.28,1.48
+1276,DS,2006.0,Adventure,THQ,0.43,0.88,0.0,1.48
+1285,DS,2007.0,Simulation,Ubisoft,0.39,0.92,0.0,1.47
+1294,Wii,2008.0,Shooter,Sega,0.78,0.5,0.03,1.47
+1302,DS,2008.0,Platform,THQ,0.46,0.83,0.0,1.46
+1313,PSP,2006.0,Fighting,Sega,0.53,0.58,0.0,1.46
+1320,PC,2011.0,Strategy,Ubisoft,0.0,1.13,0.0,1.45
+1322,Wii,2007.0,Misc,Electronic Arts,0.53,0.76,0.0,1.45
+1328,Wii,2008.0,Puzzle,Electronic Arts,0.97,0.34,0.0,1.45
+1331,DS,2007.0,Misc,Ubisoft,0.37,0.9,0.0,1.45
+1334,PSP,2006.0,Racing,Sega,0.73,0.42,0.0,1.44
+1335,PC,2013.0,Simulation,Electronic Arts,0.48,0.77,0.0,1.44
+1340,Wii,2006.0,Misc,Ubisoft,1.23,0.07,0.02,1.44
+1347,Wii,2009.0,Action,Activision,0.91,0.39,0.0,1.43
+1349,Wii,2008.0,Sports,Electronic Arts,0.81,0.48,0.0,1.43
+1364,DS,2009.0,Role-Playing,Nintendo,0.0,0.21,1.18,1.42
+1373,PSP,2004.0,Racing,Sony Computer Entertainment,0.36,0.45,0.32,1.41
+1374,Wii,2010.0,Action,Nintendo,0.87,0.31,0.13,1.41
+1379,Wii,2010.0,Shooter,Activision,0.82,0.47,0.0,1.4
+1386,PC,2013.0,Shooter,Electronic Arts,0.38,0.86,0.0,1.4
+1391,DS,2009.0,Action,Activision,1.27,0.02,0.0,1.39
+1400,PSP,2005.0,Simulation,Electronic Arts,0.49,0.56,0.0,1.38
+1407,Wii,2009.0,Misc,Electronic Arts,0.71,0.53,0.0,1.38
+1418,DS,2010.0,Platform,Sega,0.74,0.5,0.01,1.37
+1438,PSP,2008.0,Sports,Electronic Arts,0.23,0.73,0.02,1.35
+1440,PSP,2007.0,Sports,Electronic Arts,0.2,0.76,0.0,1.35
+1456,DS,2005.0,Role-Playing,Nintendo,0.77,0.07,0.43,1.34
+1463,PC,2000.0,Strategy,Electronic Arts,1.32,0.02,0.0,1.34
+1480,DS,2007.0,Simulation,Ubisoft,0.71,0.48,0.0,1.33
+1481,DS,2010.0,Role-Playing,Nintendo,0.51,0.17,0.58,1.33
+1483,PSP,2005.0,Racing,Electronic Arts,0.69,0.38,0.02,1.32
+1486,PC,2008.0,Role-Playing,Activision,0.01,0.13,0.0,1.32
+1511,Wii,2008.0,Sports,Ubisoft,1.11,0.04,0.06,1.31
+1519,Wii,2007.0,Sports,Electronic Arts,0.69,0.48,0.0,1.3
+1522,Wii,2010.0,Sports,Electronic Arts,0.78,0.4,0.0,1.3
+1525,Wii,2006.0,Racing,Electronic Arts,0.46,0.66,0.02,1.29
+1534,Wii,2008.0,Misc,Activision,1.04,0.14,0.0,1.29
+1535,DS,2008.0,Adventure,Nintendo,0.76,0.4,0.0,1.29
+1540,DS,2008.0,Simulation,Ubisoft,0.55,0.59,0.0,1.28
+1552,PC,2005.0,Simulation,Electronic Arts,1.22,0.05,0.0,1.27
+1569,DS,2008.0,Action,Activision,0.56,0.57,0.0,1.26
+1571,PC,2010.0,Sports,Sega,0.0,1.01,0.0,1.26
+1578,DS,2007.0,Action,THQ,0.5,0.62,0.0,1.26
+1599,DS,2007.0,Action,Activision,1.12,0.03,0.0,1.24
+1601,DS,2007.0,Racing,Nintendo,1.1,0.04,0.0,1.24
+1603,PSP,2009.0,Action,Ubisoft,0.43,0.48,0.05,1.24
+1629,Wii,2008.0,Puzzle,Electronic Arts,0.72,0.38,0.0,1.23
+1631,Wii,2007.0,Simulation,Electronic Arts,0.45,0.64,0.0,1.23
+1641,PSP,2006.0,Racing,THQ,0.72,0.29,0.0,1.22
+1654,PSP,2010.0,Sports,Electronic Arts,0.13,0.7,0.01,1.21
+1656,DS,2009.0,Action,Activision,0.66,0.43,0.0,1.21
+1664,PSP,2006.0,Sports,Electronic Arts,0.24,0.65,0.0,1.21
+1665,PSP,2005.0,Sports,Konami Digital Entertainment,0.01,0.88,0.31,1.2
+1670,Wii,2015.0,Misc,Ubisoft,0.52,0.59,0.0,1.2
+1681,DS,2006.0,Puzzle,Nintendo,0.74,0.03,0.36,1.2
+1682,Wii,2009.0,Adventure,Nintendo,0.55,0.17,0.42,1.2
+1685,PSP,2006.0,Action,Konami Digital Entertainment,0.38,0.35,0.38,1.19
+1688,PSP,2007.0,Fighting,THQ,0.45,0.47,0.0,1.19
+1690,Wii,2008.0,Sports,Konami Digital Entertainment,0.09,0.84,0.11,1.19
+1717,PC,2008.0,Strategy,Electronic Arts,0.03,1.06,0.0,1.17
+1723,Wii,2008.0,Platform,Nintendo,0.6,0.31,0.15,1.17
+1724,DS,2007.0,Platform,Sega,0.54,0.49,0.01,1.17
+1734,PC,2012.0,Sports,Sega,0.0,0.95,0.0,1.17
+1740,Wii,2009.0,Sports,Electronic Arts,0.78,0.28,0.0,1.16
+1755,PSP,2007.0,Shooter,Electronic Arts,0.5,0.39,0.02,1.16
+1759,PSP,2009.0,Sports,Electronic Arts,0.15,0.68,0.01,1.16
+1761,PC,2008.0,Simulation,Sega,0.0,1.14,0.0,1.15
+1768,Wii,2009.0,Platform,Sega,0.69,0.35,0.01,1.15
+1769,PC,2007.0,Shooter,Activision,0.0,1.12,0.0,1.15
+1789,Wii,2009.0,Platform,Ubisoft,0.26,0.75,0.0,1.14
+1825,PSP,2005.0,Shooter,Sony Computer Entertainment,1.03,0.0,0.01,1.12
+1842,Wii,2007.0,Racing,Electronic Arts,0.54,0.46,0.0,1.11
+1845,PSP,2004.0,Puzzle,Ubisoft,0.52,0.35,0.0,1.11
+1854,DS,2007.0,Simulation,Ubisoft,0.47,0.52,0.0,1.1
+1862,Wii,2008.0,Shooter,Electronic Arts,0.92,0.09,0.0,1.1
+1867,PSP,2005.0,Role-Playing,Activision,0.54,0.33,0.01,1.1
+1871,DS,2008.0,Simulation,Ubisoft,0.63,0.36,0.0,1.09
+1872,PSP,2007.0,Action,Electronic Arts,0.24,0.55,0.0,1.09
+1879,PSP,2005.0,Misc,Sony Computer Entertainment,0.75,0.18,0.0,1.09
+1882,PC,2009.0,Strategy,Sega,0.01,0.97,0.0,1.09
+1884,Wii,2009.0,Sports,Electronic Arts,0.61,0.37,0.0,1.09
+1888,DS,2010.0,Racing,Sega,0.44,0.54,0.0,1.09
+1890,Wii,2007.0,Adventure,Nintendo,0.44,0.47,0.09,1.09
+1897,Wii,2009.0,Sports,THQ,0.87,0.12,0.0,1.08
+1899,DS,2009.0,Adventure,Electronic Arts,0.55,0.43,0.0,1.08
+1903,Wii,2010.0,Sports,Electronic Arts,0.26,0.69,0.0,1.08
+1910,DS,2008.0,Simulation,Electronic Arts,0.67,0.3,0.0,1.08
+1920,DS,2008.0,Simulation,Ubisoft,0.65,0.32,0.0,1.07
+1927,DS,2005.0,Platform,Nintendo,0.72,0.06,0.21,1.07
+1932,PSP,2005.0,Sports,Sony Computer Entertainment,0.1,0.63,0.0,1.07
+1944,DS,2007.0,Shooter,Activision,0.96,0.02,0.01,1.06
+1946,Wii,2008.0,Sports,Sega,0.28,0.65,0.0,1.06
+1966,PSP,2006.0,Shooter,Sony Computer Entertainment,0.81,0.11,0.0,1.05
+1967,Wii,2014.0,Action,Activision,0.42,0.54,0.0,1.05
+1970,Wii,2010.0,Misc,Ubisoft,0.27,0.66,0.0,1.05
+1980,DS,2007.0,Simulation,Ubisoft,0.45,0.49,0.0,1.05
+1984,Wii,2009.0,Adventure,Electronic Arts,0.62,0.32,0.0,1.05
+1986,DS,2012.0,Role-Playing,Nintendo,0.58,0.06,0.37,1.05
+2006,DS,2011.0,Platform,Nintendo,0.52,0.06,0.41,1.04
+2008,DS,2010.0,Simulation,Activision,0.68,0.27,0.0,1.04
+2010,PSP,2009.0,Racing,Sony Computer Entertainment,0.16,0.58,0.0,1.04
+2011,PSP,2005.0,Racing,Sony Computer Entertainment,0.47,0.34,0.0,1.04
+2015,Wii,2007.0,Sports,Electronic Arts,0.94,0.02,0.0,1.03
+2021,Wii,2007.0,Action,Electronic Arts,0.45,0.47,0.0,1.03
+2026,Wii,2007.0,Sports,Electronic Arts,0.32,0.59,0.01,1.02
+2031,DS,2007.0,Simulation,Ubisoft,0.51,0.4,0.0,1.02
+2034,Wii,2008.0,Platform,THQ,0.51,0.4,0.0,1.02
+2043,PSP,2010.0,Action,Sony Computer Entertainment,0.41,0.36,0.03,1.01
+2048,Wii,2010.0,Misc,Activision,0.48,0.44,0.0,1.01
+2049,DS,2006.0,Misc,Sega,0.0,0.0,1.01,1.01
+2054,Wii,2009.0,Shooter,Electronic Arts,0.93,0.0,0.0,1.0
+2073,DS,2005.0,Strategy,THQ,0.86,0.04,0.01,1.0
+2076,Wii,2010.0,Misc,THQ,0.89,0.04,0.0,1.0
+2079,DS,2008.0,Puzzle,Ubisoft,0.17,0.78,0.0,1.0
+2085,DS,2008.0,Simulation,Electronic Arts,0.59,0.31,0.0,0.99
+2088,PSP,2006.0,Simulation,Namco Bandai Games,0.37,0.31,0.12,0.99
+2091,Wii,2009.0,Misc,Activision,0.6,0.3,0.0,0.99
+2092,Wii,2009.0,Racing,THQ,0.61,0.3,0.0,0.99
+2099,Wii,2007.0,Fighting,THQ,0.38,0.5,0.0,0.99
+2100,Wii,2009.0,Sports,Electronic Arts,0.23,0.65,0.0,0.99
+2104,DS,2006.0,Racing,THQ,0.85,0.05,0.0,0.98
+2105,PSP,2008.0,Sports,Konami Digital Entertainment,0.02,0.53,0.19,0.98
+2106,PC,2012.0,Shooter,Ubisoft,0.21,0.62,0.0,0.98
+2107,Wii,2010.0,Role-Playing,Nintendo,0.49,0.26,0.16,0.98
+2126,DS,2006.0,Simulation,Namco Bandai Games,0.09,0.02,0.86,0.98
+2129,Wii,2008.0,Platform,THQ,0.5,0.37,0.0,0.97
+2131,PC,2012.0,Role-Playing,Electronic Arts,0.4,0.44,0.0,0.97
+2148,DS,2005.0,Simulation,Electronic Arts,0.82,0.07,0.0,0.96
+2153,DS,2011.0,Misc,THQ,0.72,0.17,0.0,0.96
+2156,PSP,2006.0,Adventure,Sony Computer Entertainment,0.3,0.44,0.0,0.96
+2163,DS,2008.0,Sports,Ubisoft,0.3,0.54,0.0,0.96
+2168,PC,2011.0,Action,Namco Bandai Games,0.25,0.56,0.0,0.96
+2187,Wii,2009.0,Misc,Activision,0.41,0.43,0.0,0.95
+2191,Wii,2009.0,Sports,Activision,0.7,0.17,0.0,0.95
+2193,Wii,2011.0,Misc,Nintendo,0.24,0.43,0.18,0.95
+2201,Wii,2006.0,Racing,THQ,0.83,0.04,0.0,0.94
+2202,PC,2012.0,Action,Ubisoft,0.28,0.53,0.0,0.94
+2215,PSP,2008.0,Role-Playing,Sega,0.19,0.06,0.63,0.94
+2225,Wii,2009.0,Sports,Electronic Arts,0.29,0.52,0.02,0.93
+2228,Wii,2008.0,Racing,Sega,0.5,0.32,0.02,0.93
+2252,PSP,2006.0,Action,THQ,0.55,0.21,0.0,0.92
+2257,Wii,2008.0,Action,Activision,0.5,0.32,0.0,0.92
+2260,PC,2008.0,Adventure,Ubisoft,0.01,0.83,0.0,0.92
+2288,DS,2008.0,Shooter,Activision,0.57,0.26,0.0,0.91
+2308,PSP,2009.0,Shooter,Sony Computer Entertainment,0.27,0.36,0.05,0.9
+2314,Wii,2008.0,Misc,Sega,0.42,0.37,0.01,0.9
+2317,Wii,2008.0,Sports,Electronic Arts,0.29,0.52,0.0,0.9
+2318,DS,2008.0,Role-Playing,Nintendo,0.84,0.0,0.0,0.9
+2326,PSP,2006.0,Shooter,Sony Computer Entertainment,0.44,0.28,0.0,0.89
+2327,Wii,2007.0,Sports,Electronic Arts,0.82,0.01,0.0,0.89
+2331,DS,2008.0,Role-Playing,Sega,0.51,0.29,0.01,0.89
+2338,Wii,2008.0,Adventure,Ubisoft,0.36,0.43,0.0,0.89
+2346,Wii,2006.0,Racing,Ubisoft,0.81,0.0,0.01,0.89
+2347,PC,2009.0,Shooter,Activision,0.01,0.79,0.0,0.89
+2350,Wii,2011.0,Shooter,Activision,0.6,0.21,0.0,0.89
+2365,Wii,2009.0,Simulation,Nintendo,0.47,0.22,0.12,0.88
+2368,PSP,2004.0,Strategy,Konami Digital Entertainment,0.32,0.26,0.12,0.88
+2373,PSP,2009.0,Role-Playing,Sega,0.08,0.11,0.62,0.88
+2380,Wii,2010.0,Sports,Ubisoft,0.71,0.11,0.0,0.87
+2386,Wii,2010.0,Puzzle,THQ,0.61,0.19,0.0,0.87
+2391,Wii,2009.0,Shooter,Sega,0.46,0.31,0.02,0.87
+2395,PSP,2008.0,Misc,Sony Computer Entertainment,0.2,0.44,0.0,0.87
+2403,PSP,2006.0,Puzzle,Sony Computer Entertainment,0.12,0.52,0.0,0.87
+2411,PSP,2006.0,Sports,Konami Digital Entertainment,0.01,0.72,0.12,0.86
+2423,DS,2008.0,Platform,Nintendo,0.61,0.0,0.2,0.86
+2429,DS,2007.0,Sports,Electronic Arts,0.1,0.65,0.0,0.85
+2431,Wii,2009.0,Racing,Electronic Arts,0.46,0.31,0.0,0.85
+2432,Wii,2008.0,Sports,Electronic Arts,0.78,0.01,0.0,0.85
+2438,Wii,2007.0,Simulation,Ubisoft,0.74,0.04,0.0,0.85
+2440,DS,2007.0,Action,Electronic Arts,0.28,0.47,0.0,0.85
+2442,PSP,2005.0,Racing,Electronic Arts,0.7,0.06,0.0,0.85
+2450,Wii,2010.0,Misc,Konami Digital Entertainment,0.52,0.25,0.0,0.85
+2454,DS,2010.0,Role-Playing,Nintendo,0.56,0.11,0.13,0.84
+2460,DS,2008.0,Simulation,Ubisoft,0.46,0.3,0.0,0.84
+2480,Wii,2008.0,Fighting,THQ,0.44,0.31,0.0,0.83
+2483,DS,2008.0,Strategy,Ubisoft,0.38,0.37,0.0,0.83
+2495,Wii,2008.0,Misc,Ubisoft,0.77,0.0,0.0,0.83
+2506,PSP,2005.0,Sports,Activision,0.46,0.21,0.0,0.82
+2517,PSP,2005.0,Adventure,Sony Computer Entertainment,0.19,0.41,0.0,0.82
+2522,Wii,2010.0,Misc,Electronic Arts,0.47,0.28,0.0,0.82
+2525,DS,2008.0,Simulation,Ubisoft,0.4,0.33,0.0,0.82
+2535,PSP,2007.0,Misc,Sony Computer Entertainment,0.33,0.25,0.07,0.81
+2539,Wii,2010.0,Sports,Electronic Arts,0.77,0.0,0.0,0.81
+2562,Wii,2009.0,Action,Sega,0.46,0.25,0.02,0.8
+2567,Wii,2011.0,Misc,Ubisoft,0.19,0.5,0.0,0.8
+2570,PSP,2006.0,Simulation,Electronic Arts,0.19,0.39,0.0,0.8
+2573,PSP,2009.0,Sports,Konami Digital Entertainment,0.09,0.33,0.2,0.8
+2578,Wii,2008.0,Sports,THQ,0.43,0.29,0.0,0.8
+2579,PSP,2007.0,Simulation,Electronic Arts,0.08,0.46,0.0,0.8
+2584,DS,2007.0,Misc,Ubisoft,0.73,0.01,0.0,0.8
+2595,PSP,2010.0,Sports,Konami Digital Entertainment,0.05,0.3,0.29,0.79
+2605,PSP,2009.0,Strategy,Sony Computer Entertainment,0.17,0.51,0.0,0.79
+2615,Wii,2007.0,Shooter,Sega,0.42,0.21,0.08,0.79
+2617,DS,2007.0,Action,THQ,0.71,0.02,0.0,0.79
+2619,Wii,2011.0,Sports,Electronic Arts,0.16,0.52,0.0,0.79
+2624,DS,2008.0,Sports,Nintendo,0.22,0.32,0.17,0.79
+2626,Wii,2011.0,Action,Nintendo,0.27,0.2,0.27,0.79
+2632,DS,2006.0,Shooter,Nintendo,0.58,0.04,0.11,0.78
+2636,DS,2009.0,Puzzle,Ubisoft,0.41,0.3,0.0,0.78
+2637,DS,2008.0,Adventure,THQ,0.72,0.0,0.0,0.78
+2642,DS,2010.0,Puzzle,Nintendo,0.29,0.3,0.12,0.78
+2644,PSP,2006.0,Strategy,THQ,0.11,0.43,0.0,0.78
+2649,PSP,2008.0,Racing,Electronic Arts,0.24,0.33,0.01,0.78
+2657,Wii,2009.0,Action,Electronic Arts,0.28,0.4,0.0,0.77
+2658,Wii,2009.0,Misc,Activision,0.47,0.23,0.0,0.77
+2665,PSP,2008.0,Racing,Electronic Arts,0.23,0.32,0.03,0.77
+2678,PSP,2005.0,Action,Sony Computer Entertainment,0.71,0.0,0.0,0.77
+2681,DS,2004.0,Racing,Nintendo,0.21,0.14,0.38,0.77
+2689,Wii,2010.0,Adventure,Ubisoft,0.22,0.47,0.0,0.76
+2700,DS,2005.0,Misc,Sega,0.7,0.01,0.0,0.76
+2702,Wii,2009.0,Puzzle,THQ,0.29,0.39,0.0,0.76
+2712,PC,2011.0,Action,Ubisoft,0.14,0.48,0.0,0.76
+2716,Wii,2014.0,Sports,Electronic Arts,0.24,0.46,0.0,0.76
+2718,PSP,2009.0,Racing,Electronic Arts,0.16,0.38,0.01,0.76
+2724,Wii,2010.0,Misc,Electronic Arts,0.24,0.44,0.0,0.76
+2728,PC,2013.0,Strategy,Sega,0.12,0.53,0.0,0.76
+2732,PSP,2008.0,Fighting,THQ,0.41,0.21,0.0,0.75
+2738,Wii,2009.0,Fighting,THQ,0.51,0.17,0.0,0.75
+2747,PSP,2005.0,Sports,Electronic Arts,0.69,0.0,0.0,0.75
+2748,PSP,2005.0,Shooter,Konami Digital Entertainment,0.28,0.29,0.0,0.75
+2752,DS,2008.0,Action,Activision,0.42,0.26,0.0,0.75
+2760,DS,2008.0,Sports,Sega,0.29,0.37,0.0,0.75
+2763,DS,2006.0,Fighting,Nintendo,0.0,0.0,0.74,0.74
+2767,PSP,2007.0,Shooter,Ubisoft,0.42,0.19,0.0,0.74
+2779,PC,2011.0,Action,Electronic Arts,0.16,0.45,0.0,0.74
+2782,Wii,2009.0,Action,Activision,0.36,0.3,0.0,0.74
+2793,DS,2007.0,Simulation,Electronic Arts,0.63,0.05,0.0,0.73
+2797,PC,2013.0,Shooter,Activision,0.23,0.41,0.0,0.73
+2801,Wii,2009.0,Sports,Electronic Arts,0.63,0.04,0.0,0.73
+2802,DS,2005.0,Platform,Nintendo,0.37,0.0,0.32,0.73
+2804,DS,2007.0,Misc,Nintendo,0.0,0.0,0.73,0.73
+2808,PC,2014.0,Role-Playing,Electronic Arts,0.32,0.34,0.0,0.73
+2809,DS,2009.0,Adventure,Activision,0.67,0.01,0.0,0.73
+2812,Wii,2011.0,Misc,Nintendo,0.0,0.0,0.73,0.73
+2817,Wii,2009.0,Action,Ubisoft,0.33,0.32,0.0,0.73
+2820,DS,2008.0,Simulation,Ubisoft,0.34,0.31,0.0,0.73
+2825,DS,2009.0,Platform,Ubisoft,0.35,0.3,0.0,0.72
+2828,Wii,2012.0,Action,Electronic Arts,0.19,0.46,0.0,0.72
+2854,DS,2010.0,Sports,Electronic Arts,0.13,0.5,0.0,0.72
+2855,PC,2007.0,Shooter,Electronic Arts,0.0,0.69,0.0,0.72
+2856,PC,2010.0,Shooter,Electronic Arts,0.19,0.53,0.0,0.71
+2869,PSP,2007.0,Sports,Electronic Arts,0.6,0.04,0.0,0.71
+2874,PSP,2008.0,Sports,Electronic Arts,0.65,0.0,0.0,0.71
+2889,PC,2013.0,Sports,Sega,0.0,0.6,0.0,0.71
+2891,PSP,2010.0,Fighting,THQ,0.22,0.31,0.0,0.71
+2900,PSP,2005.0,Action,Activision,0.35,0.21,0.0,0.71
+2908,DS,2008.0,Simulation,Electronic Arts,0.32,0.31,0.0,0.7
+2912,DS,2011.0,Simulation,Activision,0.54,0.1,0.0,0.7
+2919,DS,2010.0,Simulation,Electronic Arts,0.39,0.25,0.0,0.7
+2925,DS,2009.0,Simulation,THQ,0.43,0.2,0.0,0.7
+2926,PSP,2005.0,Platform,Sony Computer Entertainment,0.52,0.01,0.12,0.7
+2944,PSP,2007.0,Action,Konami Digital Entertainment,0.26,0.01,0.26,0.69
+2952,PSP,2006.0,Racing,THQ,0.64,0.0,0.0,0.69
+2961,PC,2013.0,Action,Ubisoft,0.22,0.38,0.0,0.69
+2969,PC,2011.0,Simulation,Electronic Arts,0.27,0.32,0.0,0.69
+2973,Wii,2012.0,Action,Nintendo,0.34,0.0,0.33,0.68
+2974,Wii,2009.0,Action,Activision,0.6,0.03,0.0,0.68
+2976,Wii,2011.0,Role-Playing,Nintendo,0.32,0.13,0.18,0.68
+2986,PSP,2007.0,Sports,Sony Computer Entertainment,0.21,0.11,0.28,0.68
+2988,DS,2010.0,Role-Playing,Nintendo,0.32,0.0,0.34,0.68
+2995,DS,2007.0,Racing,THQ,0.63,0.01,0.0,0.68
+2998,Wii,2006.0,Shooter,Ubisoft,0.55,0.04,0.04,0.68
+3001,PC,2008.0,Role-Playing,Electronic Arts,0.0,0.59,0.0,0.68
+3006,DS,2008.0,Misc,Nintendo,0.13,0.52,0.0,0.67
+3019,Wii,2010.0,Sports,THQ,0.49,0.13,0.0,0.67
+3024,Wii,2008.0,Racing,Electronic Arts,0.27,0.32,0.0,0.67
+3025,Wii,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.67,0.67
+3026,PC,2015.0,Role-Playing,Namco Bandai Games,0.2,0.42,0.0,0.67
+3027,PSP,2005.0,Sports,Sega,0.16,0.36,0.0,0.67
+3029,PSP,2007.0,Action,THQ,0.22,0.28,0.0,0.67
+3032,Wii,2008.0,Sports,Ubisoft,0.0,0.66,0.0,0.67
+3036,Wii,2008.0,Puzzle,Ubisoft,0.18,0.41,0.0,0.67
+3038,Wii,2008.0,Action,Activision,0.3,0.29,0.01,0.67
+3040,PC,2008.0,Strategy,Electronic Arts,0.01,0.64,0.0,0.67
+3042,PSP,2006.0,Fighting,THQ,0.33,0.2,0.0,0.67
+3043,DS,2010.0,Misc,Ubisoft,0.0,0.58,0.0,0.67
+3048,PC,2010.0,Simulation,Electronic Arts,0.01,0.53,0.0,0.67
+3066,Wii,2012.0,Puzzle,Namco Bandai Games,0.0,0.0,0.66,0.66
+3070,PC,2013.0,Misc,Ubisoft,0.35,0.24,0.0,0.66
+3073,PC,2010.0,Strategy,Sega,0.02,0.52,0.0,0.66
+3075,DS,2007.0,Platform,Nintendo,0.28,0.02,0.33,0.66
+3081,Wii,2008.0,Strategy,Nintendo,0.29,0.14,0.19,0.66
+3084,PSP,2010.0,Action,Namco Bandai Games,0.03,0.0,0.62,0.66
+3088,PSP,2009.0,Sports,Electronic Arts,0.5,0.08,0.0,0.66
+3089,PSP,2007.0,Action,Activision,0.23,0.27,0.0,0.66
+3090,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.66,0.66
+3103,PSP,2008.0,Platform,THQ,0.29,0.22,0.0,0.65
+3105,DS,2009.0,Action,THQ,0.31,0.28,0.0,0.65
+3110,DS,2009.0,Puzzle,THQ,0.45,0.14,0.0,0.65
+3114,DS,2008.0,Role-Playing,Nintendo,0.31,0.03,0.27,0.65
+3123,PSP,2007.0,Racing,THQ,0.35,0.18,0.0,0.65
+3129,Wii,2011.0,Misc,Ubisoft,0.39,0.2,0.0,0.65
+3130,DS,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.65,0.65
+3132,PC,2013.0,Shooter,Electronic Arts,0.17,0.39,0.0,0.64
+3133,DS,2007.0,Simulation,THQ,0.6,0.0,0.0,0.64
+3154,PC,2011.0,Action,Electronic Arts,0.23,0.33,0.0,0.64
+3178,Wii,2007.0,Racing,Nintendo,0.2,0.26,0.11,0.64
+3182,Wii,2009.0,Misc,Ubisoft,0.59,0.0,0.0,0.64
+3183,Wii,2010.0,Shooter,Ubisoft,0.36,0.21,0.01,0.63
+3200,PSP,2008.0,Action,Sega,0.46,0.09,0.0,0.63
+3202,DS,2009.0,Action,Electronic Arts,0.21,0.35,0.0,0.63
+3205,Wii,2010.0,Misc,Activision,0.49,0.09,0.0,0.63
+3208,Wii,2007.0,Sports,Activision,0.58,0.0,0.0,0.63
+3211,DS,2010.0,Shooter,Activision,0.54,0.05,0.0,0.63
+3214,Wii,2009.0,Shooter,Nintendo,0.43,0.05,0.0,0.63
+3218,PC,2011.0,Simulation,Electronic Arts,0.4,0.23,0.0,0.63
+3220,DS,2009.0,Strategy,Ubisoft,0.31,0.25,0.0,0.63
+3230,Wii,2009.0,Simulation,THQ,0.41,0.16,0.0,0.63
+3233,DS,2009.0,Racing,Electronic Arts,0.26,0.29,0.0,0.63
+3247,PC,2014.0,Shooter,Ubisoft,0.15,0.42,0.0,0.62
+3262,DS,2010.0,Misc,Activision,0.58,0.0,0.0,0.62
+3264,Wii,2007.0,Action,THQ,0.57,0.01,0.0,0.62
+3268,PSP,2009.0,Fighting,THQ,0.25,0.23,0.0,0.62
+3301,Wii,2010.0,Sports,Activision,0.58,0.0,0.0,0.61
+3302,DS,2007.0,Misc,Nintendo,0.0,0.0,0.61,0.61
+3304,Wii,2008.0,Platform,Nintendo,0.24,0.17,0.14,0.61
+3307,DS,2008.0,Simulation,Electronic Arts,0.31,0.24,0.0,0.61
+3310,Wii,2010.0,Misc,Namco Bandai Games,0.47,0.09,0.01,0.61
+3311,PSP,2009.0,Platform,Sony Computer Entertainment,0.18,0.27,0.0,0.61
+3313,DS,2007.0,Simulation,Electronic Arts,0.33,0.03,0.21,0.61
+3315,DS,2008.0,Simulation,Ubisoft,0.56,0.0,0.0,0.61
+3323,Wii,2009.0,Misc,Activision,0.33,0.21,0.0,0.61
+3329,DS,2008.0,Simulation,Electronic Arts,0.34,0.2,0.0,0.61
+3333,Wii,2009.0,Strategy,Nintendo,0.11,0.14,0.33,0.6
+3342,DS,2007.0,Action,Sega,0.28,0.25,0.0,0.6
+3347,DS,2009.0,Misc,Nintendo,0.18,0.19,0.2,0.6
+3355,PSP,2009.0,Action,Ubisoft,0.22,0.24,0.0,0.6
+3378,DS,2004.0,Racing,Ubisoft,0.31,0.22,0.0,0.6
+3381,DS,2005.0,Puzzle,Nintendo,0.26,0.0,0.31,0.6
+3382,PC,2008.0,Action,Electronic Arts,0.0,0.53,0.0,0.59
+3388,Wii,2010.0,Misc,THQ,0.56,0.0,0.0,0.59
+3390,PC,2011.0,Action,Ubisoft,0.15,0.34,0.0,0.59
+3395,Wii,2008.0,Action,Sega,0.31,0.22,0.0,0.59
+3398,PC,2011.0,Strategy,Sega,0.19,0.31,0.0,0.59
+3402,PSP,2009.0,Action,Activision,0.21,0.24,0.0,0.59
+3411,Wii,2007.0,Action,Activision,0.52,0.03,0.0,0.59
+3422,Wii,2008.0,Sports,Electronic Arts,0.51,0.04,0.0,0.59
+3434,DS,2009.0,Sports,Electronic Arts,0.14,0.37,0.0,0.59
+3439,Wii,2007.0,Simulation,Ubisoft,0.53,0.01,0.0,0.58
+3441,Wii,2009.0,Shooter,Sega,0.29,0.23,0.0,0.58
+3445,Wii,2010.0,Sports,Activision,0.53,0.02,0.0,0.58
+3451,Wii,2009.0,Misc,Electronic Arts,0.21,0.31,0.0,0.58
+3453,PC,2009.0,Simulation,Electronic Arts,0.02,0.18,0.0,0.58
+3455,Wii,2011.0,Platform,Ubisoft,0.23,0.29,0.0,0.58
+3457,PC,2014.0,Shooter,Electronic Arts,0.21,0.3,0.0,0.58
+3478,DS,2009.0,Simulation,Ubisoft,0.53,0.0,0.0,0.58
+3495,DS,2010.0,Adventure,Nintendo,0.1,0.41,0.01,0.58
+3496,Wii,2009.0,Sports,Activision,0.52,0.02,0.0,0.58
+3498,Wii,2010.0,Puzzle,Nintendo,0.34,0.17,0.02,0.58
+3512,Wii,2009.0,Action,THQ,0.23,0.28,0.0,0.57
+3519,DS,2008.0,Action,THQ,0.53,0.0,0.0,0.57
+3526,PC,2010.0,Action,Ubisoft,0.01,0.45,0.0,0.57
+3527,DS,2008.0,Simulation,Ubisoft,0.52,0.01,0.0,0.57
+3530,DS,2006.0,Simulation,Ubisoft,0.51,0.02,0.0,0.57
+3535,PSP,2011.0,Action,Konami Digital Entertainment,0.1,0.12,0.29,0.57
+3548,DS,2007.0,Adventure,THQ,0.29,0.22,0.0,0.57
+3562,DS,2007.0,Platform,Nintendo,0.26,0.04,0.24,0.56
+3573,PSP,2006.0,Sports,Activision,0.41,0.08,0.0,0.56
+3576,DS,2007.0,Adventure,Nintendo,0.27,0.05,0.22,0.56
+3587,Wii,2010.0,Sports,Activision,0.41,0.11,0.0,0.56
+3595,Wii,2011.0,Misc,THQ,0.44,0.08,0.0,0.56
+3601,DS,2008.0,Simulation,THQ,0.27,0.23,0.0,0.56
+3606,Wii,2008.0,Action,Activision,0.32,0.18,0.0,0.56
+3610,DS,2006.0,Simulation,Ubisoft,0.49,0.02,0.0,0.56
+3612,DS,2008.0,Misc,Nintendo,0.0,0.0,0.56,0.56
+3614,DS,2008.0,Simulation,Ubisoft,0.48,0.04,0.0,0.56
+3617,Wii,2010.0,Sports,Electronic Arts,0.24,0.26,0.0,0.56
+3620,Wii,2010.0,Racing,Activision,0.5,0.02,0.0,0.56
+3621,Wii,2006.0,Sports,Activision,0.51,0.0,0.0,0.56
+3623,DS,2007.0,Simulation,THQ,0.18,0.36,0.0,0.56
+3630,DS,2010.0,Simulation,Activision,0.41,0.11,0.0,0.55
+3637,Wii,2010.0,Action,Electronic Arts,0.22,0.28,0.0,0.55
+3641,DS,2005.0,Fighting,Nintendo,0.0,0.0,0.55,0.55
+3655,PSP,2008.0,Platform,Sony Computer Entertainment,0.33,0.22,0.0,0.55
+3656,PC,2014.0,Action,Ubisoft,0.17,0.33,0.0,0.55
+3659,DS,2008.0,Sports,Activision,0.51,0.0,0.0,0.55
+3675,Wii,2008.0,Sports,Ubisoft,0.49,0.02,0.0,0.55
+3682,Wii,2008.0,Misc,THQ,0.51,0.0,0.0,0.55
+3696,Wii,2006.0,Racing,Nintendo,0.4,0.03,0.08,0.54
+3700,PSP,2010.0,Racing,Sony Computer Entertainment,0.11,0.27,0.02,0.54
+3708,DS,2008.0,Role-Playing,Nintendo,0.0,0.14,0.38,0.54
+3725,DS,2008.0,Misc,Ubisoft,0.24,0.23,0.0,0.54
+3728,PSP,2010.0,Role-Playing,Sega,0.12,0.16,0.18,0.54
+3730,Wii,2012.0,Sports,Electronic Arts,0.51,0.0,0.0,0.54
+3735,DS,2010.0,Action,Activision,0.32,0.17,0.0,0.54
+3737,DS,2009.0,Fighting,THQ,0.35,0.14,0.0,0.54
+3740,DS,2006.0,Shooter,Nintendo,0.39,0.01,0.1,0.54
+3749,DS,2008.0,Role-Playing,Konami Digital Entertainment,0.04,0.01,0.48,0.54
+3752,Wii,2008.0,Role-Playing,Namco Bandai Games,0.22,0.05,0.24,0.54
+3755,PC,2015.0,Shooter,Electronic Arts,0.13,0.37,0.0,0.54
+3761,Wii,2008.0,Action,THQ,0.49,0.0,0.0,0.53
+3771,DS,2006.0,Role-Playing,Sega,0.18,0.0,0.33,0.53
+3772,DS,2009.0,Simulation,Electronic Arts,0.26,0.21,0.0,0.53
+3787,PSP,2011.0,Sports,Electronic Arts,0.12,0.26,0.02,0.53
+3796,PSP,2007.0,Shooter,Ubisoft,0.35,0.1,0.0,0.53
+3799,DS,2010.0,Simulation,Electronic Arts,0.5,0.0,0.0,0.53
+3815,DS,2009.0,Puzzle,Nintendo,0.3,0.03,0.16,0.53
+3817,PSP,2007.0,Action,Konami Digital Entertainment,0.22,0.16,0.04,0.53
+3826,Wii,2006.0,Racing,Ubisoft,0.46,0.01,0.02,0.52
+3829,DS,2009.0,Misc,Ubisoft,0.09,0.37,0.0,0.52
+3830,Wii,2009.0,Fighting,Nintendo,0.45,0.04,0.0,0.52
+3831,PSP,2006.0,Fighting,Electronic Arts,0.46,0.02,0.0,0.52
+3857,Wii,2007.0,Action,THQ,0.44,0.04,0.0,0.52
+3865,DS,2006.0,Misc,Nintendo,0.0,0.0,0.52,0.52
+3869,DS,2007.0,Misc,Ubisoft,0.48,0.0,0.0,0.52
+3871,PC,2006.0,Simulation,Electronic Arts,0.46,0.05,0.0,0.52
+3872,DS,2008.0,Action,Sega,0.35,0.12,0.0,0.52
+3876,Wii,2007.0,Misc,Ubisoft,0.46,0.02,0.0,0.51
+3878,PC,2009.0,Role-Playing,Electronic Arts,0.0,0.46,0.0,0.51
+3886,DS,2009.0,Puzzle,Ubisoft,0.35,0.12,0.0,0.51
+3888,PC,2015.0,Strategy,Activision,0.18,0.29,0.0,0.51
+3890,PSP,2009.0,Fighting,Namco Bandai Games,0.12,0.2,0.07,0.51
+3893,Wii,2009.0,Sports,Konami Digital Entertainment,0.12,0.27,0.06,0.51
+3895,DS,2008.0,Misc,Nintendo,0.0,0.0,0.51,0.51
+3900,PSP,2006.0,Sports,Electronic Arts,0.47,0.0,0.0,0.51
+3901,Wii,2008.0,Sports,Sega,0.46,0.01,0.0,0.51
+3902,Wii,2007.0,Strategy,Nintendo,0.28,0.03,0.17,0.51
+3910,DS,2009.0,Action,Activision,0.33,0.13,0.0,0.51
+3912,Wii,2006.0,Platform,THQ,0.45,0.02,0.0,0.51
+3923,DS,2007.0,Puzzle,Nintendo,0.17,0.02,0.3,0.51
+3926,PSP,2009.0,Action,Electronic Arts,0.18,0.21,0.0,0.51
+3937,DS,2007.0,Simulation,THQ,0.46,0.01,0.0,0.51
+3972,Wii,2007.0,Misc,Electronic Arts,0.43,0.03,0.0,0.5
+3975,Wii,2006.0,Sports,Electronic Arts,0.46,0.0,0.0,0.5
+3980,Wii,2011.0,Misc,Nintendo,0.27,0.04,0.17,0.5
+3984,DS,2004.0,Action,Activision,0.41,0.02,0.03,0.5
+3996,DS,2008.0,Misc,Ubisoft,0.46,0.0,0.0,0.5
+3999,Wii,2009.0,Racing,Activision,0.29,0.16,0.0,0.5
+4018,Wii,2007.0,Racing,THQ,0.46,0.0,0.0,0.49
+4036,DS,2006.0,Platform,THQ,0.45,0.0,0.0,0.49
+4039,DS,2008.0,Sports,Electronic Arts,0.12,0.31,0.0,0.49
+4043,Wii,2009.0,Shooter,Activision,0.24,0.2,0.0,0.49
+4047,DS,2010.0,Action,Activision,0.42,0.02,0.02,0.49
+4048,PC,2010.0,Shooter,Electronic Arts,0.2,0.23,0.0,0.49
+4061,PSP,2008.0,Sports,Sega,0.0,0.47,0.0,0.49
+4069,DS,2008.0,Adventure,Ubisoft,0.08,0.35,0.0,0.49
+4076,PC,2008.0,Action,Ubisoft,0.01,0.45,0.0,0.49
+4078,Wii,2007.0,Action,Electronic Arts,0.38,0.06,0.0,0.49
+4079,DS,2008.0,Misc,Ubisoft,0.44,0.01,0.0,0.49
+4083,Wii,2009.0,Shooter,Electronic Arts,0.33,0.11,0.01,0.48
+4084,DS,2007.0,Puzzle,Ubisoft,0.0,0.48,0.0,0.48
+4087,DS,2006.0,Role-Playing,Nintendo,0.16,0.01,0.29,0.48
+4089,Wii,2009.0,Sports,Namco Bandai Games,0.15,0.27,0.0,0.48
+4090,Wii,2007.0,Simulation,Electronic Arts,0.42,0.03,0.0,0.48
+4095,Wii,2009.0,Action,Konami Digital Entertainment,0.23,0.19,0.01,0.48
+4111,PSP,2010.0,Sports,Electronic Arts,0.09,0.24,0.03,0.48
+4122,PC,2014.0,Simulation,Sega,0.0,0.43,0.0,0.48
+4124,Wii,2010.0,Racing,Electronic Arts,0.18,0.24,0.0,0.48
+4128,Wii,2010.0,Action,Nintendo,0.38,0.01,0.07,0.48
+4130,Wii,2007.0,Platform,Activision,0.42,0.02,0.0,0.48
+4141,Wii,2008.0,Simulation,Electronic Arts,0.37,0.03,0.04,0.48
+4143,DS,2009.0,Racing,THQ,0.35,0.09,0.0,0.48
+4144,Wii,2008.0,Racing,Ubisoft,0.15,0.27,0.0,0.48
+4157,Wii,2009.0,Racing,Electronic Arts,0.19,0.23,0.0,0.47
+4158,DS,2006.0,Action,Ubisoft,0.43,0.01,0.0,0.47
+4162,DS,2005.0,Platform,Konami Digital Entertainment,0.37,0.04,0.03,0.47
+4169,Wii,2010.0,Fighting,THQ,0.3,0.13,0.0,0.47
+4172,Wii,2008.0,Simulation,Ubisoft,0.42,0.01,0.0,0.47
+4180,PC,2009.0,Strategy,THQ,0.0,0.45,0.0,0.47
+4181,PSP,2007.0,Racing,Sega,0.1,0.22,0.02,0.47
+4183,DS,2007.0,Platform,Activision,0.41,0.02,0.0,0.47
+4191,Wii,2009.0,Puzzle,Electronic Arts,0.34,0.09,0.0,0.47
+4192,PC,2010.0,Simulation,Electronic Arts,0.0,0.29,0.0,0.47
+4201,PC,2011.0,Sports,Electronic Arts,0.04,0.33,0.0,0.47
+4203,DS,2007.0,Action,Activision,0.43,0.0,0.0,0.47
+4207,PC,2011.0,Simulation,Electronic Arts,0.0,0.38,0.0,0.47
+4223,DS,2007.0,Sports,Ubisoft,0.46,0.01,0.0,0.47
+4239,PSP,2007.0,Shooter,Sony Computer Entertainment,0.25,0.12,0.0,0.46
+4249,PSP,2006.0,Racing,Sony Computer Entertainment,0.37,0.04,0.0,0.46
+4253,Wii,2010.0,Sports,Konami Digital Entertainment,0.36,0.06,0.0,0.46
+4254,DS,2011.0,Action,Activision,0.34,0.09,0.0,0.46
+4259,PSP,2006.0,Shooter,Ubisoft,0.23,0.14,0.0,0.46
+4260,DS,2008.0,Adventure,THQ,0.42,0.0,0.0,0.46
+4274,DS,2006.0,Fighting,Sega,0.3,0.01,0.12,0.46
+4275,Wii,2011.0,Sports,Electronic Arts,0.43,0.0,0.0,0.46
+4278,DS,2011.0,Misc,THQ,0.37,0.05,0.0,0.46
+4290,PSP,2007.0,Racing,Electronic Arts,0.02,0.38,0.01,0.46
+4298,Wii,2009.0,Adventure,Activision,0.42,0.0,0.0,0.46
+4315,Wii,2007.0,Adventure,Activision,0.42,0.0,0.0,0.45
+4325,DS,2012.0,Misc,Activision,0.03,0.37,0.0,0.45
+4331,DS,2008.0,Misc,Ubisoft,0.41,0.01,0.0,0.45
+4333,PC,2014.0,Action,Ubisoft,0.14,0.26,0.0,0.45
+4334,Wii,2008.0,Misc,Konami Digital Entertainment,0.42,0.0,0.0,0.45
+4349,DS,2007.0,Misc,Ubisoft,0.41,0.01,0.0,0.45
+4354,DS,2009.0,Action,Activision,0.27,0.14,0.0,0.45
+4355,Wii,2009.0,Sports,Konami Digital Entertainment,0.09,0.26,0.05,0.45
+4359,Wii,2009.0,Action,Nintendo,0.1,0.02,0.32,0.45
+4367,Wii,2009.0,Simulation,Konami Digital Entertainment,0.26,0.14,0.0,0.45
+4369,Wii,2007.0,Simulation,Ubisoft,0.41,0.01,0.0,0.45
+4370,DS,2007.0,Action,Activision,0.41,0.0,0.0,0.45
+4374,DS,2009.0,Misc,Activision,0.21,0.19,0.0,0.45
+4382,PSP,2010.0,Shooter,Sony Computer Entertainment,0.17,0.13,0.06,0.45
+4391,PSP,2007.0,Strategy,THQ,0.04,0.26,0.0,0.45
+4401,Wii,2008.0,Sports,Electronic Arts,0.18,0.22,0.0,0.45
+4406,Wii,2009.0,Misc,Konami Digital Entertainment,0.24,0.16,0.0,0.45
+4423,Wii,2009.0,Misc,Namco Bandai Games,0.41,0.0,0.0,0.44
+4426,DS,2004.0,Simulation,Electronic Arts,0.4,0.01,0.02,0.44
+4444,Wii,2008.0,Misc,Ubisoft,0.1,0.29,0.0,0.44
+4445,DS,2007.0,Misc,Ubisoft,0.4,0.01,0.0,0.44
+4453,Wii,2009.0,Shooter,Nintendo,0.2,0.14,0.06,0.44
+4459,DS,2007.0,Simulation,Ubisoft,0.41,0.0,0.0,0.44
+4460,DS,2007.0,Simulation,Activision,0.4,0.0,0.0,0.44
+4461,PSP,2009.0,Strategy,Konami Digital Entertainment,0.19,0.07,0.12,0.44
+4466,DS,2010.0,Action,THQ,0.26,0.14,0.0,0.44
+4482,Wii,2007.0,Platform,THQ,0.4,0.0,0.0,0.44
+4484,DS,2010.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.44,0.44
+4486,Wii,2011.0,Misc,Ubisoft,0.41,0.0,0.0,0.44
+4489,DS,2006.0,Puzzle,Nintendo,0.16,0.0,0.26,0.44
+4503,PC,2013.0,Sports,Electronic Arts,0.01,0.36,0.0,0.43
+4506,DS,2010.0,Misc,THQ,0.41,0.0,0.0,0.43
+4509,PC,2016.0,Shooter,Activision,0.22,0.18,0.0,0.43
+4511,Wii,2010.0,Sports,Electronic Arts,0.38,0.03,0.0,0.43
+4523,Wii,2010.0,Sports,Electronic Arts,0.23,0.15,0.01,0.43
+4529,Wii,2010.0,Action,Activision,0.24,0.15,0.0,0.43
+4534,DS,2008.0,Simulation,Ubisoft,0.39,0.01,0.0,0.43
+4535,DS,2006.0,Platform,Konami Digital Entertainment,0.33,0.03,0.04,0.43
+4538,Wii,2013.0,Sports,Electronic Arts,0.0,0.38,0.0,0.43
+4545,PSP,2006.0,Role-Playing,Ubisoft,0.17,0.01,0.23,0.43
+4551,Wii,2009.0,Racing,Electronic Arts,0.39,0.0,0.0,0.43
+4557,DS,2009.0,Shooter,Activision,0.37,0.02,0.0,0.43
+4558,Wii,2007.0,Simulation,Ubisoft,0.39,0.0,0.0,0.43
+4559,DS,2011.0,Action,Ubisoft,0.24,0.14,0.0,0.43
+4565,PSP,2006.0,Racing,THQ,0.11,0.2,0.0,0.43
+4590,Wii,2007.0,Shooter,Electronic Arts,0.34,0.04,0.01,0.42
+4591,PSP,2007.0,Strategy,Konami Digital Entertainment,0.03,0.2,0.1,0.42
+4596,DS,2010.0,Action,Electronic Arts,0.2,0.19,0.0,0.42
+4597,DS,2006.0,Simulation,Ubisoft,0.38,0.01,0.0,0.42
+4598,DS,2009.0,Action,THQ,0.42,0.0,0.0,0.42
+4606,Wii,2007.0,Platform,Sega,0.33,0.03,0.04,0.42
+4610,DS,2009.0,Fighting,THQ,0.37,0.02,0.0,0.42
+4613,PSP,2005.0,Sports,Electronic Arts,0.39,0.0,0.0,0.42
+4616,PSP,2008.0,Fighting,Namco Bandai Games,0.0,0.0,0.42,0.42
+4637,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.42,0.42
+4641,DS,2009.0,Simulation,Ubisoft,0.35,0.03,0.0,0.42
+4644,Wii,2008.0,Racing,Activision,0.39,0.0,0.0,0.42
+4653,Wii,2007.0,Adventure,Nintendo,0.18,0.17,0.03,0.42
+4660,Wii,2011.0,Sports,Namco Bandai Games,0.16,0.0,0.25,0.42
+4663,PSP,2010.0,Sports,Sega,0.0,0.28,0.0,0.42
+4668,PSP,2007.0,Platform,Konami Digital Entertainment,0.22,0.09,0.04,0.42
+4694,PSP,2009.0,Fighting,Namco Bandai Games,0.0,0.0,0.41,0.41
+4701,PSP,2009.0,Shooter,Activision,0.17,0.15,0.0,0.41
+4703,DS,2009.0,Adventure,THQ,0.15,0.22,0.0,0.41
+4707,DS,2008.0,Platform,Konami Digital Entertainment,0.31,0.03,0.04,0.41
+4713,Wii,2009.0,Misc,Ubisoft,0.28,0.1,0.0,0.41
+4714,Wii,2009.0,Simulation,Electronic Arts,0.36,0.03,0.0,0.41
+4719,PSP,2009.0,Action,THQ,0.24,0.1,0.0,0.41
+4722,Wii,2011.0,Misc,THQ,0.36,0.03,0.0,0.41
+4723,PSP,2009.0,Racing,THQ,0.29,0.07,0.0,0.41
+4740,PC,2014.0,Shooter,Activision,0.14,0.23,0.0,0.41
+4741,Wii,2011.0,Misc,THQ,0.26,0.11,0.0,0.41
+4750,Wii,2006.0,Role-Playing,Activision,0.37,0.01,0.0,0.41
+4752,PSP,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.41,0.41
+4759,Wii,2008.0,Simulation,Electronic Arts,0.34,0.04,0.0,0.41
+4763,PSP,2010.0,Misc,Sega,0.0,0.0,0.41,0.41
+4773,PC,2012.0,Action,Electronic Arts,0.02,0.31,0.0,0.41
+4775,DS,2009.0,Action,Ubisoft,0.19,0.18,0.0,0.41
+4785,Wii,2010.0,Action,Sega,0.17,0.2,0.0,0.4
+4798,Wii,2012.0,Action,Activision,0.38,0.0,0.0,0.4
+4799,Wii,2009.0,Misc,Namco Bandai Games,0.0,0.0,0.4,0.4
+4804,DS,2005.0,Strategy,Nintendo,0.3,0.03,0.04,0.4
+4805,DS,2009.0,Action,Konami Digital Entertainment,0.27,0.01,0.09,0.4
+4807,PSP,2005.0,Fighting,THQ,0.36,0.01,0.0,0.4
+4817,Wii,2007.0,Action,Ubisoft,0.34,0.03,0.0,0.4
+4825,PSP,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.4,0.4
+4841,Wii,2009.0,Action,THQ,0.38,0.01,0.0,0.4
+4844,DS,2009.0,Action,Sega,0.22,0.14,0.0,0.4
+4867,PC,2010.0,Role-Playing,Electronic Arts,0.01,0.32,0.0,0.4
+4890,DS,2008.0,Racing,Activision,0.37,0.0,0.0,0.39
+4903,PSP,2009.0,Action,THQ,0.39,0.0,0.0,0.39
+4905,DS,2008.0,Sports,Ubisoft,0.36,0.0,0.0,0.39
+4907,PSP,2008.0,Sports,Electronic Arts,0.23,0.07,0.03,0.39
+4909,DS,2008.0,Misc,Activision,0.36,0.0,0.0,0.39
+4910,PSP,2006.0,Platform,Sony Computer Entertainment,0.14,0.05,0.16,0.39
+4912,DS,2008.0,Misc,THQ,0.36,0.0,0.0,0.39
+4920,DS,2009.0,Racing,Electronic Arts,0.22,0.13,0.0,0.39
+4921,Wii,2011.0,Adventure,Nintendo,0.19,0.17,0.0,0.39
+4922,DS,2005.0,Platform,Nintendo,0.34,0.02,0.0,0.39
+4925,Wii,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.39,0.39
+4936,PC,2009.0,Simulation,Ubisoft,0.0,0.32,0.0,0.39
+4938,Wii,2008.0,Misc,Activision,0.36,0.0,0.0,0.39
+4947,DS,2009.0,Adventure,THQ,0.24,0.11,0.0,0.39
+4949,Wii,2008.0,Simulation,Ubisoft,0.34,0.02,0.0,0.39
+4955,Wii,2007.0,Adventure,Ubisoft,0.35,0.01,0.0,0.39
+4971,DS,2009.0,Action,Activision,0.2,0.15,0.0,0.39
+4974,DS,2007.0,Misc,Ubisoft,0.38,0.0,0.0,0.38
+4978,DS,2008.0,Role-Playing,Sega,0.16,0.0,0.2,0.38
+4987,DS,2009.0,Simulation,Ubisoft,0.24,0.11,0.0,0.38
+4999,PSP,2009.0,Fighting,Namco Bandai Games,0.13,0.04,0.19,0.38
+5028,DS,2006.0,Misc,Nintendo,0.31,0.03,0.0,0.38
+5034,Wii,2009.0,Sports,Sega,0.13,0.21,0.0,0.38
+5038,Wii,2011.0,Sports,Activision,0.34,0.02,0.0,0.38
+5040,PSP,2010.0,Action,Sega,0.18,0.12,0.0,0.38
+5044,DS,2009.0,Misc,Activision,0.13,0.2,0.0,0.38
+5049,PSP,2007.0,Sports,Electronic Arts,0.14,0.15,0.0,0.38
+5051,PSP,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.38,0.38
+5057,PC,2011.0,Action,THQ,0.16,0.16,0.0,0.38
+5060,Wii,2010.0,Simulation,Activision,0.32,0.03,0.0,0.38
+5062,DS,2008.0,Simulation,Ubisoft,0.35,0.0,0.0,0.38
+5065,DS,2010.0,Racing,Activision,0.35,0.0,0.0,0.38
+5071,PC,2010.0,Racing,Electronic Arts,0.12,0.2,0.0,0.38
+5075,DS,2009.0,Role-Playing,Namco Bandai Games,0.13,0.02,0.21,0.38
+5076,Wii,2009.0,Fighting,THQ,0.31,0.03,0.0,0.38
+5081,DS,2008.0,Adventure,Ubisoft,0.35,0.0,0.0,0.37
+5083,DS,2008.0,Simulation,Ubisoft,0.35,0.0,0.0,0.37
+5085,DS,2009.0,Simulation,THQ,0.35,0.0,0.0,0.37
+5104,PC,2016.0,Shooter,Ubisoft,0.2,0.14,0.0,0.37
+5105,PSP,2011.0,Role-Playing,Sega,0.0,0.0,0.37,0.37
+5106,DS,2008.0,Simulation,Ubisoft,0.34,0.01,0.0,0.37
+5111,PSP,2010.0,Action,Ubisoft,0.09,0.18,0.01,0.37
+5114,PSP,2010.0,Sports,Electronic Arts,0.35,0.0,0.0,0.37
+5117,Wii,2011.0,Sports,Electronic Arts,0.21,0.13,0.0,0.37
+5122,PSP,2007.0,Racing,THQ,0.06,0.2,0.0,0.37
+5129,PSP,2012.0,Action,Electronic Arts,0.05,0.19,0.02,0.37
+5131,PSP,2007.0,Action,Electronic Arts,0.1,0.17,0.0,0.37
+5132,PC,2008.0,Strategy,Sega,0.0,0.33,0.0,0.37
+5134,DS,2007.0,Puzzle,Namco Bandai Games,0.0,0.0,0.37,0.37
+5140,PSP,2006.0,Role-Playing,Activision,0.33,0.0,0.0,0.37
+5141,PSP,2005.0,Sports,Electronic Arts,0.34,0.0,0.0,0.37
+5146,DS,2005.0,Simulation,Nintendo,0.3,0.01,0.02,0.37
+5151,PC,2011.0,Action,Electronic Arts,0.09,0.21,0.0,0.37
+5160,PSP,2006.0,Sports,Electronic Arts,0.34,0.0,0.0,0.37
+5163,DS,2009.0,Racing,Activision,0.25,0.08,0.0,0.36
+5179,DS,2010.0,Fighting,Namco Bandai Games,0.0,0.0,0.36,0.36
+5181,PSP,2008.0,Sports,Electronic Arts,0.07,0.19,0.0,0.36
+5184,PSP,2008.0,Platform,Sony Computer Entertainment,0.21,0.09,0.01,0.36
+5193,Wii,2009.0,Misc,Ubisoft,0.33,0.0,0.0,0.36
+5221,Wii,2009.0,Fighting,Ubisoft,0.33,0.0,0.0,0.36
+5227,DS,2007.0,Strategy,THQ,0.07,0.25,0.0,0.36
+5232,PSP,2012.0,Strategy,Namco Bandai Games,0.0,0.0,0.36,0.36
+5233,Wii,2011.0,Fighting,THQ,0.24,0.09,0.0,0.36
+5242,PC,2013.0,Strategy,THQ,0.06,0.25,0.0,0.36
+5247,Wii,2010.0,Simulation,Konami Digital Entertainment,0.29,0.04,0.0,0.36
+5250,PSP,2011.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.36,0.36
+5256,PSP,2009.0,Action,Electronic Arts,0.24,0.07,0.0,0.36
+5258,PSP,2009.0,Sports,Sega,0.0,0.26,0.0,0.36
+5263,DS,2009.0,Adventure,Ubisoft,0.16,0.16,0.0,0.35
+5264,PSP,2007.0,Shooter,Sony Computer Entertainment,0.32,0.01,0.0,0.35
+5266,Wii,2006.0,Simulation,Nintendo,0.28,0.02,0.03,0.35
+5274,Wii,2007.0,Strategy,Nintendo,0.22,0.03,0.08,0.35
+5276,Wii,2010.0,Misc,THQ,0.25,0.07,0.0,0.35
+5296,DS,2011.0,Fighting,Namco Bandai Games,0.0,0.0,0.35,0.35
+5298,Wii,2010.0,Misc,Konami Digital Entertainment,0.31,0.02,0.0,0.35
+5299,DS,2008.0,Simulation,Electronic Arts,0.3,0.03,0.0,0.35
+5301,Wii,2013.0,Strategy,Activision,0.21,0.1,0.0,0.35
+5307,Wii,2011.0,Action,Electronic Arts,0.18,0.14,0.0,0.35
+5312,DS,2005.0,Action,THQ,0.32,0.0,0.0,0.35
+5322,PSP,2010.0,Strategy,Konami Digital Entertainment,0.13,0.05,0.14,0.35
+5341,PSP,2006.0,Sports,Sony Computer Entertainment,0.32,0.0,0.0,0.35
+5344,PSP,2011.0,Fighting,Namco Bandai Games,0.09,0.07,0.15,0.35
+5350,DS,2009.0,Simulation,Ubisoft,0.32,0.0,0.0,0.34
+5352,PSP,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.34,0.34
+5359,DS,2007.0,Role-Playing,Nintendo,0.2,0.03,0.09,0.34
+5363,DS,2007.0,Action,THQ,0.31,0.0,0.0,0.34
+5369,DS,2010.0,Action,Sega,0.15,0.16,0.0,0.34
+5385,Wii,2011.0,Action,Namco Bandai Games,0.29,0.03,0.0,0.34
+5390,Wii,2011.0,Action,Ubisoft,0.13,0.17,0.0,0.34
+5391,Wii,2007.0,Action,Activision,0.31,0.01,0.0,0.34
+5399,Wii,2008.0,Racing,THQ,0.29,0.03,0.0,0.34
+5401,PSP,2007.0,Sports,Sega,0.0,0.34,0.0,0.34
+5417,DS,2008.0,Simulation,Ubisoft,0.31,0.0,0.0,0.34
+5421,PC,2011.0,Simulation,Electronic Arts,0.11,0.17,0.0,0.34
+5431,DS,2011.0,Action,Namco Bandai Games,0.27,0.04,0.0,0.34
+5434,DS,2006.0,Adventure,THQ,0.3,0.01,0.0,0.34
+5443,DS,2009.0,Action,Activision,0.17,0.13,0.0,0.33
+5446,Wii,2011.0,Role-Playing,Nintendo,0.13,0.1,0.08,0.33
+5453,DS,2007.0,Role-Playing,Namco Bandai Games,0.14,0.0,0.18,0.33
+5455,PSP,2006.0,Role-Playing,Ubisoft,0.14,0.12,0.0,0.33
+5458,PSP,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.33,0.33
+5459,Wii,2011.0,Misc,Activision,0.31,0.0,0.0,0.33
+5460,Wii,2010.0,Action,Sega,0.15,0.15,0.0,0.33
+5461,PSP,2004.0,Misc,Sony Computer Entertainment,0.13,0.15,0.0,0.33
+5464,Wii,2009.0,Role-Playing,Activision,0.26,0.05,0.0,0.33
+5467,DS,2007.0,Puzzle,Nintendo,0.14,0.01,0.16,0.33
+5476,Wii,2008.0,Simulation,Ubisoft,0.3,0.0,0.0,0.33
+5479,PSP,2006.0,Role-Playing,Sony Computer Entertainment,0.21,0.0,0.1,0.33
+5485,PC,2012.0,Action,Electronic Arts,0.14,0.15,0.0,0.33
+5497,DS,2008.0,Sports,Electronic Arts,0.3,0.0,0.0,0.33
+5510,PSP,2011.0,Misc,Sega,0.0,0.0,0.33,0.33
+5521,Wii,2006.0,Action,Konami Digital Entertainment,0.22,0.01,0.08,0.33
+5522,PSP,2007.0,Strategy,THQ,0.11,0.14,0.0,0.33
+5526,Wii,2007.0,Sports,Electronic Arts,0.29,0.01,0.0,0.33
+5527,PSP,2009.0,Racing,Sony Computer Entertainment,0.09,0.16,0.0,0.33
+5531,PSP,2008.0,Sports,Sony Computer Entertainment,0.3,0.0,0.0,0.33
+5544,DS,2010.0,Action,Electronic Arts,0.22,0.08,0.0,0.33
+5550,DS,2007.0,Sports,Electronic Arts,0.29,0.01,0.0,0.33
+5563,Wii,2008.0,Misc,Konami Digital Entertainment,0.3,0.0,0.0,0.33
+5568,Wii,2006.0,Fighting,Sega,0.22,0.01,0.08,0.33
+5573,PC,2011.0,Shooter,Electronic Arts,0.13,0.15,0.0,0.33
+5581,PSP,2012.0,Fighting,Namco Bandai Games,0.0,0.0,0.32,0.32
+5589,DS,2008.0,Action,THQ,0.18,0.11,0.0,0.32
+5596,PSP,2009.0,Fighting,Namco Bandai Games,0.15,0.04,0.1,0.32
+5603,PSP,2010.0,Shooter,Electronic Arts,0.12,0.13,0.0,0.32
+5619,PC,2010.0,Strategy,Ubisoft,0.0,0.26,0.0,0.32
+5622,DS,2009.0,Sports,THQ,0.18,0.11,0.0,0.32
+5627,Wii,2009.0,Simulation,Electronic Arts,0.15,0.14,0.0,0.32
+5641,PSP,2008.0,Sports,Ubisoft,0.26,0.03,0.0,0.32
+5643,Wii,2008.0,Sports,Ubisoft,0.0,0.3,0.0,0.32
+5649,PSP,2005.0,Fighting,Electronic Arts,0.29,0.0,0.0,0.32
+5677,DS,2009.0,Simulation,Electronic Arts,0.29,0.0,0.0,0.32
+5684,PSP,2007.0,Action,Activision,0.08,0.15,0.0,0.32
+5689,PSP,2007.0,Racing,Sony Computer Entertainment,0.13,0.12,0.0,0.32
+5690,DS,2008.0,Misc,Konami Digital Entertainment,0.0,0.0,0.32,0.32
+5700,PC,2011.0,Role-Playing,Ubisoft,0.12,0.14,0.0,0.31
+5702,Wii,2010.0,Sports,Namco Bandai Games,0.1,0.18,0.0,0.31
+5708,Wii,2007.0,Misc,Konami Digital Entertainment,0.29,0.0,0.0,0.31
+5711,DS,2007.0,Shooter,Konami Digital Entertainment,0.28,0.0,0.01,0.31
+5717,PSP,2008.0,Sports,Konami Digital Entertainment,0.0,0.0,0.31,0.31
+5719,Wii,2008.0,Action,Sega,0.28,0.01,0.0,0.31
+5723,DS,2007.0,Adventure,Activision,0.28,0.01,0.0,0.31
+5724,DS,2005.0,Action,Ubisoft,0.25,0.03,0.0,0.31
+5727,DS,2010.0,Platform,Activision,0.19,0.1,0.0,0.31
+5759,PC,2015.0,Simulation,Sega,0.0,0.29,0.0,0.31
+5760,DS,2006.0,Fighting,Namco Bandai Games,0.31,0.0,0.0,0.31
+5765,Wii,2010.0,Action,Electronic Arts,0.18,0.1,0.0,0.31
+5767,Wii,2008.0,Misc,Activision,0.28,0.0,0.0,0.31
+5770,DS,2010.0,Strategy,Konami Digital Entertainment,0.18,0.02,0.09,0.31
+5775,DS,2005.0,Platform,Activision,0.25,0.04,0.0,0.31
+5780,Wii,2010.0,Sports,Activision,0.23,0.05,0.0,0.31
+5785,DS,2006.0,Puzzle,Ubisoft,0.28,0.0,0.0,0.31
+5786,PC,2012.0,Role-Playing,Electronic Arts,0.14,0.13,0.0,0.31
+5788,PSP,2012.0,Strategy,Namco Bandai Games,0.0,0.0,0.31,0.31
+5793,PSP,2007.0,Sports,Electronic Arts,0.28,0.0,0.0,0.31
+5805,Wii,2009.0,Sports,Ubisoft,0.25,0.04,0.0,0.31
+5810,PSP,2010.0,Action,Konami Digital Entertainment,0.09,0.13,0.01,0.31
+5820,DS,2009.0,Simulation,Ubisoft,0.28,0.01,0.0,0.3
+5823,DS,2006.0,Action,THQ,0.28,0.0,0.0,0.3
+5831,PSP,2005.0,Misc,Sega,0.0,0.0,0.3,0.3
+5832,Wii,2011.0,Misc,Konami Digital Entertainment,0.24,0.04,0.0,0.3
+5837,Wii,2007.0,Simulation,Nintendo,0.22,0.04,0.01,0.3
+5850,DS,2009.0,Puzzle,Sega,0.0,0.0,0.3,0.3
+5851,Wii,2010.0,Platform,Activision,0.19,0.09,0.0,0.3
+5858,PSP,2010.0,Strategy,Sony Computer Entertainment,0.05,0.16,0.0,0.3
+5860,PSP,2007.0,Platform,Activision,0.01,0.23,0.0,0.3
+5863,DS,2011.0,Misc,Activision,0.27,0.02,0.0,0.3
+5864,DS,2008.0,Strategy,THQ,0.24,0.03,0.0,0.3
+5869,PC,2004.0,Simulation,Electronic Arts,0.02,0.24,0.0,0.3
+5880,DS,2008.0,Role-Playing,Nintendo,0.0,0.0,0.3,0.3
+5884,DS,2008.0,Role-Playing,Nintendo,0.2,0.0,0.08,0.3
+5889,DS,2009.0,Simulation,Electronic Arts,0.15,0.12,0.0,0.3
+5900,PC,2005.0,Racing,Electronic Arts,0.02,0.23,0.0,0.3
+5905,DS,2007.0,Simulation,Ubisoft,0.23,0.04,0.0,0.3
+5911,PC,2014.0,Sports,Electronic Arts,0.0,0.27,0.0,0.3
+5918,DS,2011.0,Shooter,Activision,0.21,0.07,0.0,0.3
+5919,PC,2003.0,Simulation,Electronic Arts,0.01,0.24,0.0,0.3
+5926,Wii,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.3,0.3
+5934,DS,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.3,0.3
+5947,DS,2005.0,Adventure,Nintendo,0.15,0.01,0.12,0.3
+5955,Wii,2011.0,Misc,Ubisoft,0.28,0.0,0.0,0.29
+5957,DS,2020.0,Simulation,Ubisoft,0.27,0.0,0.0,0.29
+5959,PSP,2006.0,Shooter,Sony Computer Entertainment,0.26,0.01,0.0,0.29
+5965,PSP,2005.0,Role-Playing,Activision,0.25,0.01,0.0,0.29
+5974,Wii,2007.0,Sports,Konami Digital Entertainment,0.23,0.0,0.04,0.29
+5981,PSP,2010.0,Adventure,Sega,0.0,0.0,0.29,0.29
+5982,Wii,2007.0,Action,Ubisoft,0.24,0.03,0.0,0.29
+5983,Wii,2009.0,Action,Namco Bandai Games,0.0,0.1,0.17,0.29
+5988,Wii,2007.0,Sports,Nintendo,0.02,0.22,0.05,0.29
+5994,Wii,2009.0,Misc,Activision,0.14,0.12,0.0,0.29
+6004,Wii,2011.0,Action,Electronic Arts,0.13,0.13,0.01,0.29
+6008,DS,2009.0,Simulation,Ubisoft,0.27,0.0,0.0,0.29
+6010,Wii,2011.0,Misc,Ubisoft,0.22,0.04,0.0,0.29
+6012,PSP,2010.0,Simulation,Namco Bandai Games,0.06,0.05,0.15,0.29
+6017,Wii,2009.0,Adventure,Ubisoft,0.13,0.13,0.0,0.29
+6044,Wii,2012.0,Misc,Nintendo,0.0,0.0,0.29,0.29
+6061,DS,2004.0,Simulation,Electronic Arts,0.27,0.0,0.0,0.29
+6063,DS,2004.0,Puzzle,Sega,0.17,0.0,0.1,0.29
+6067,Wii,2007.0,Action,Activision,0.26,0.01,0.0,0.29
+6078,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.29,0.29
+6083,DS,2011.0,Simulation,Activision,0.27,0.0,0.0,0.29
+6087,PC,2016.0,Role-Playing,Activision,0.14,0.12,0.0,0.29
+6089,DS,2008.0,Sports,Konami Digital Entertainment,0.0,0.0,0.29,0.29
+6094,DS,2007.0,Puzzle,THQ,0.26,0.0,0.0,0.29
+6097,DS,2008.0,Action,THQ,0.26,0.0,0.0,0.29
+6098,DS,2011.0,Misc,Nintendo,0.0,0.0,0.29,0.29
+6099,DS,2010.0,Action,Activision,0.26,0.0,0.0,0.29
+6104,DS,2008.0,Sports,THQ,0.26,0.0,0.0,0.28
+6106,Wii,2009.0,Action,Activision,0.11,0.14,0.0,0.28
+6116,DS,2007.0,Simulation,THQ,0.26,0.01,0.0,0.28
+6141,DS,2009.0,Action,Ubisoft,0.15,0.11,0.0,0.28
+6143,Wii,2006.0,Adventure,THQ,0.24,0.02,0.0,0.28
+6148,DS,2010.0,Action,Konami Digital Entertainment,0.16,0.1,0.0,0.28
+6156,DS,2007.0,Strategy,Konami Digital Entertainment,0.13,0.02,0.12,0.28
+6160,PSP,2011.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.28,0.28
+6168,DS,2007.0,Sports,Ubisoft,0.26,0.0,0.0,0.28
+6178,PSP,2007.0,Sports,Sony Computer Entertainment,0.26,0.0,0.0,0.28
+6182,DS,2007.0,Simulation,Activision,0.26,0.0,0.0,0.28
+6183,DS,2010.0,Misc,Electronic Arts,0.16,0.1,0.0,0.28
+6184,DS,2010.0,Racing,THQ,0.18,0.08,0.0,0.28
+6212,DS,2006.0,Platform,Activision,0.25,0.01,0.0,0.28
+6214,DS,2010.0,Adventure,Activision,0.26,0.01,0.0,0.28
+6218,PSP,2011.0,Misc,Sony Computer Entertainment,0.05,0.04,0.17,0.28
+6224,Wii,2010.0,Action,Activision,0.15,0.1,0.0,0.28
+6232,DS,2006.0,Puzzle,Sega,0.0,0.0,0.28,0.28
+6235,PC,2012.0,Action,Electronic Arts,0.09,0.16,0.0,0.28
+6238,DS,2008.0,Misc,Ubisoft,0.25,0.0,0.0,0.28
+6245,Wii,2008.0,Adventure,Namco Bandai Games,0.0,0.07,0.19,0.28
+6246,Wii,2010.0,Action,THQ,0.22,0.04,0.0,0.28
+6252,PC,2010.0,Strategy,Ubisoft,0.04,0.19,0.0,0.28
+6257,Wii,2009.0,Racing,Nintendo,0.26,0.0,0.0,0.28
+6258,PSP,2012.0,Sports,Konami Digital Entertainment,0.0,0.07,0.18,0.28
+6263,DS,2007.0,Misc,Nintendo,0.0,0.0,0.27,0.27
+6267,DS,2007.0,Misc,Electronic Arts,0.25,0.0,0.0,0.27
+6278,DS,2005.0,Racing,Electronic Arts,0.24,0.01,0.0,0.27
+6284,DS,2009.0,Simulation,Electronic Arts,0.25,0.0,0.0,0.27
+6286,DS,2008.0,Role-Playing,Konami Digital Entertainment,0.09,0.01,0.15,0.27
+6295,DS,2005.0,Puzzle,Namco Bandai Games,0.16,0.0,0.1,0.27
+6297,PSP,2010.0,Simulation,Sony Computer Entertainment,0.02,0.17,0.0,0.27
+6301,PSP,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.27
+6302,PSP,2006.0,Strategy,Namco Bandai Games,0.0,0.0,0.27,0.27
+6313,PSP,2006.0,Sports,Electronic Arts,0.2,0.04,0.0,0.27
+6327,DS,2010.0,Strategy,Ubisoft,0.09,0.15,0.0,0.27
+6336,Wii,2007.0,Simulation,THQ,0.24,0.01,0.0,0.27
+6350,PSP,2005.0,Role-Playing,Ubisoft,0.0,0.01,0.25,0.27
+6353,PC,2013.0,Racing,Electronic Arts,0.04,0.19,0.0,0.27
+6358,DS,2010.0,Action,THQ,0.13,0.12,0.0,0.27
+6377,DS,2010.0,Simulation,Nintendo,0.25,0.0,0.0,0.27
+6379,DS,2010.0,Strategy,Nintendo,0.0,0.0,0.27,0.27
+6396,DS,2007.0,Sports,Electronic Arts,0.24,0.0,0.0,0.27
+6398,DS,2009.0,Misc,Ubisoft,0.25,0.0,0.0,0.27
+6402,Wii,2009.0,Puzzle,THQ,0.25,0.0,0.0,0.27
+6405,DS,2011.0,Misc,Activision,0.25,0.0,0.0,0.27
+6408,DS,2010.0,Adventure,THQ,0.19,0.05,0.0,0.27
+6409,PSP,2006.0,Sports,Electronic Arts,0.24,0.0,0.0,0.27
+6428,Wii,2008.0,Sports,Ubisoft,0.24,0.0,0.0,0.27
+6429,Wii,2009.0,Simulation,Ubisoft,0.25,0.0,0.0,0.27
+6431,Wii,2009.0,Misc,Konami Digital Entertainment,0.16,0.08,0.0,0.27
+6436,PSP,2010.0,Fighting,Namco Bandai Games,0.11,0.04,0.09,0.27
+6446,Wii,2011.0,Misc,THQ,0.23,0.01,0.0,0.26
+6448,DS,2005.0,Platform,Ubisoft,0.21,0.04,0.0,0.26
+6451,Wii,2010.0,Action,Electronic Arts,0.22,0.03,0.0,0.26
+6453,Wii,2009.0,Simulation,Electronic Arts,0.22,0.02,0.0,0.26
+6465,Wii,2015.0,Action,Activision,0.05,0.19,0.0,0.26
+6468,DS,2009.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.26,0.26
+6469,DS,2007.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.26,0.26
+6477,DS,2007.0,Misc,Nintendo,0.0,0.0,0.26,0.26
+6478,Wii,2009.0,Simulation,Namco Bandai Games,0.24,0.0,0.0,0.26
+6482,DS,2010.0,Misc,Ubisoft,0.22,0.03,0.0,0.26
+6488,PSP,2006.0,Fighting,Namco Bandai Games,0.26,0.0,0.0,0.26
+6489,Wii,2011.0,Role-Playing,Nintendo,0.0,0.01,0.25,0.26
+6503,Wii,2010.0,Sports,Ubisoft,0.14,0.09,0.0,0.26
+6507,DS,2004.0,Sports,Electronic Arts,0.24,0.0,0.0,0.26
+6515,DS,2009.0,Action,Activision,0.17,0.07,0.0,0.26
+6518,PSP,2009.0,Misc,Sega,0.0,0.0,0.26,0.26
+6520,PSP,2008.0,Fighting,Namco Bandai Games,0.0,0.0,0.26,0.26
+6532,PSP,2009.0,Action,Activision,0.11,0.1,0.0,0.26
+6539,DS,2007.0,Strategy,Namco Bandai Games,0.0,0.0,0.26,0.26
+6541,Wii,2009.0,Action,Activision,0.14,0.09,0.0,0.26
+6550,PSP,2009.0,Sports,Sony Computer Entertainment,0.24,0.0,0.0,0.26
+6551,DS,2004.0,Puzzle,Nintendo,0.13,0.01,0.11,0.26
+6555,Wii,2007.0,Action,THQ,0.24,0.0,0.0,0.26
+6564,PSP,2007.0,Racing,Sega,0.03,0.15,0.0,0.26
+6573,Wii,2008.0,Simulation,Ubisoft,0.23,0.0,0.0,0.26
+6592,PC,2010.0,Simulation,Ubisoft,0.0,0.21,0.0,0.26
+6601,DS,2005.0,Misc,Nintendo,0.21,0.0,0.02,0.26
+6612,DS,2008.0,Simulation,Ubisoft,0.23,0.01,0.0,0.25
+6614,DS,2010.0,Role-Playing,Activision,0.22,0.01,0.0,0.25
+6637,DS,2009.0,Misc,Ubisoft,0.21,0.02,0.0,0.25
+6640,PSP,2010.0,Misc,Sega,0.0,0.0,0.25,0.25
+6644,Wii,2007.0,Sports,Activision,0.22,0.01,0.0,0.25
+6665,Wii,2008.0,Action,Activision,0.22,0.01,0.0,0.25
+6672,PSP,2008.0,Sports,Electronic Arts,0.06,0.13,0.0,0.25
+6703,DS,2006.0,Role-Playing,Nintendo,0.0,0.01,0.24,0.25
+6709,PSP,2009.0,Role-Playing,Activision,0.17,0.04,0.0,0.25
+6720,Wii,2009.0,Action,Activision,0.19,0.04,0.0,0.25
+6725,Wii,2010.0,Action,Ubisoft,0.11,0.11,0.0,0.25
+6727,DS,2009.0,Simulation,Ubisoft,0.16,0.06,0.0,0.25
+6734,DS,2009.0,Simulation,Electronic Arts,0.23,0.0,0.0,0.25
+6735,Wii,2010.0,Platform,THQ,0.22,0.01,0.0,0.25
+6743,PC,2015.0,Strategy,Ubisoft,0.02,0.22,0.0,0.25
+6761,PSP,2007.0,Racing,Ubisoft,0.03,0.14,0.0,0.25
+6771,DS,2008.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.24,0.24
+6776,DS,2010.0,Shooter,Activision,0.22,0.01,0.0,0.24
+6783,DS,2011.0,Action,Konami Digital Entertainment,0.0,0.0,0.24,0.24
+6785,Wii,2009.0,Adventure,Ubisoft,0.12,0.1,0.0,0.24
+6788,PSP,2005.0,Sports,Sony Computer Entertainment,0.23,0.0,0.0,0.24
+6794,PC,2011.0,Shooter,THQ,0.11,0.1,0.0,0.24
+6805,DS,2008.0,Action,Sega,0.22,0.0,0.0,0.24
+6808,PSP,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.24,0.24
+6809,DS,2009.0,Adventure,Ubisoft,0.1,0.12,0.0,0.24
+6811,DS,2006.0,Adventure,Ubisoft,0.11,0.01,0.12,0.24
+6818,Wii,2010.0,Action,Activision,0.13,0.09,0.0,0.24
+6823,DS,2005.0,Action,Electronic Arts,0.21,0.02,0.0,0.24
+6829,Wii,2008.0,Misc,Electronic Arts,0.2,0.02,0.0,0.24
+6837,PC,2010.0,Shooter,THQ,0.0,0.19,0.0,0.24
+6840,Wii,2007.0,Misc,Activision,0.22,0.0,0.0,0.24
+6842,PSP,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.24,0.24
+6844,Wii,2010.0,Adventure,THQ,0.16,0.06,0.0,0.24
+6852,DS,2008.0,Simulation,THQ,0.22,0.0,0.0,0.24
+6857,Wii,2009.0,Misc,Ubisoft,0.22,0.0,0.0,0.24
+6861,PSP,2009.0,Sports,Electronic Arts,0.21,0.0,0.01,0.24
+6864,PSP,2009.0,Racing,THQ,0.18,0.03,0.0,0.24
+6876,DS,2011.0,Action,Electronic Arts,0.12,0.1,0.0,0.24
+6883,DS,2007.0,Racing,THQ,0.22,0.0,0.0,0.24
+6884,DS,2009.0,Puzzle,THQ,0.22,0.0,0.0,0.24
+6899,Wii,2010.0,Adventure,Namco Bandai Games,0.16,0.06,0.0,0.24
+6908,DS,2009.0,Puzzle,Ubisoft,0.0,0.24,0.0,0.24
+6915,PSP,2009.0,Sports,Electronic Arts,0.12,0.07,0.0,0.24
+6916,DS,2008.0,Misc,Activision,0.22,0.0,0.0,0.24
+6930,DS,2009.0,Puzzle,Nintendo,0.0,0.21,0.0,0.24
+6936,PSP,2013.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.24,0.24
+6944,DS,2008.0,Role-Playing,Sega,0.09,0.0,0.13,0.24
+6945,Wii,2011.0,Racing,Activision,0.22,0.0,0.0,0.24
+6947,DS,2006.0,Role-Playing,Konami Digital Entertainment,0.17,0.01,0.04,0.24
+6954,DS,2008.0,Racing,Electronic Arts,0.18,0.03,0.0,0.23
+6960,DS,2010.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.23,0.23
+6964,DS,2013.0,Platform,Ubisoft,0.0,0.21,0.0,0.23
+6965,Wii,2009.0,Misc,THQ,0.0,0.22,0.0,0.23
+6967,DS,2007.0,Racing,Activision,0.22,0.0,0.0,0.23
+6978,DS,2005.0,Puzzle,Nintendo,0.15,0.01,0.06,0.23
+6980,DS,2011.0,Action,THQ,0.16,0.05,0.0,0.23
+6985,PSP,2005.0,Puzzle,Namco Bandai Games,0.13,0.02,0.08,0.23
+6987,PC,2015.0,Strategy,Sega,0.09,0.13,0.0,0.23
+6988,PSP,2005.0,Sports,Electronic Arts,0.19,0.02,0.0,0.23
+7010,Wii,2008.0,Adventure,Activision,0.2,0.02,0.0,0.23
+7012,Wii,2010.0,Strategy,THQ,0.11,0.1,0.0,0.23
+7015,DS,2009.0,Simulation,Ubisoft,0.16,0.01,0.0,0.23
+7024,DS,2008.0,Sports,Ubisoft,0.21,0.0,0.0,0.23
+7028,DS,2006.0,Strategy,THQ,0.19,0.02,0.0,0.23
+7034,PSP,2013.0,Sports,Electronic Arts,0.0,0.16,0.0,0.23
+7037,DS,2010.0,Adventure,Nintendo,0.0,0.12,0.09,0.23
+7038,PSP,2008.0,Strategy,Konami Digital Entertainment,0.0,0.03,0.18,0.23
+7043,Wii,2011.0,Misc,Konami Digital Entertainment,0.15,0.06,0.0,0.23
+7050,PC,2015.0,Shooter,Activision,0.0,0.22,0.0,0.23
+7053,Wii,2009.0,Action,THQ,0.08,0.12,0.0,0.23
+7062,Wii,2008.0,Action,Ubisoft,0.2,0.01,0.0,0.23
+7063,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.23,0.23
+7064,DS,2007.0,Sports,Activision,0.21,0.01,0.0,0.23
+7070,DS,2007.0,Action,Nintendo,0.09,0.0,0.13,0.23
+7074,PSP,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.23,0.23
+7077,Wii,2008.0,Simulation,Ubisoft,0.21,0.0,0.0,0.23
+7078,PSP,2009.0,Fighting,Namco Bandai Games,0.0,0.0,0.23,0.23
+7079,DS,2008.0,Sports,Sega,0.0,0.0,0.23,0.23
+7080,Wii,2006.0,Sports,Nintendo,0.14,0.01,0.07,0.23
+7083,Wii,2009.0,Adventure,Activision,0.21,0.0,0.0,0.23
+7088,Wii,2010.0,Sports,Konami Digital Entertainment,0.08,0.1,0.03,0.23
+7100,Wii,2009.0,Simulation,Electronic Arts,0.18,0.03,0.0,0.23
+7110,PSP,2008.0,Sports,Electronic Arts,0.21,0.0,0.0,0.23
+7115,DS,2007.0,Strategy,Sega,0.2,0.0,0.0,0.23
+7118,Wii,2010.0,Action,THQ,0.14,0.07,0.0,0.23
+7125,DS,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.23,0.23
+7129,PSP,2005.0,Sports,Electronic Arts,0.2,0.0,0.0,0.23
+7132,DS,2008.0,Simulation,Ubisoft,0.2,0.0,0.0,0.23
+7135,Wii,2008.0,Fighting,Electronic Arts,0.2,0.01,0.0,0.22
+7139,DS,2006.0,Misc,Konami Digital Entertainment,0.18,0.03,0.0,0.22
+7141,PSP,2013.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.22,0.22
+7152,DS,2010.0,Action,THQ,0.17,0.03,0.0,0.22
+7153,PSP,2007.0,Action,Namco Bandai Games,0.0,0.0,0.22,0.22
+7166,DS,2009.0,Platform,Ubisoft,0.2,0.01,0.0,0.22
+7168,PSP,2011.0,Sports,Electronic Arts,0.21,0.0,0.0,0.22
+7176,DS,2008.0,Adventure,Ubisoft,0.21,0.0,0.0,0.22
+7191,Wii,2008.0,Misc,Ubisoft,0.2,0.0,0.0,0.22
+7193,Wii,2008.0,Sports,Activision,0.2,0.0,0.0,0.22
+7196,Wii,2011.0,Action,THQ,0.19,0.01,0.0,0.22
+7197,DS,2006.0,Sports,Activision,0.2,0.0,0.0,0.22
+7203,Wii,2010.0,Action,THQ,0.19,0.02,0.0,0.22
+7205,Wii,2008.0,Action,Ubisoft,0.16,0.01,0.03,0.22
+7207,Wii,2010.0,Adventure,Ubisoft,0.12,0.08,0.0,0.22
+7211,PC,2015.0,Shooter,Ubisoft,0.12,0.08,0.0,0.22
+7215,DS,2009.0,Simulation,Ubisoft,0.2,0.0,0.0,0.22
+7228,Wii,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.22,0.22
+7229,DS,2008.0,Strategy,THQ,0.17,0.03,0.0,0.22
+7231,DS,2009.0,Adventure,Ubisoft,0.2,0.0,0.0,0.22
+7242,Wii,2009.0,Action,Electronic Arts,0.17,0.03,0.0,0.22
+7251,Wii,2008.0,Sports,Electronic Arts,0.19,0.01,0.0,0.22
+7252,DS,2009.0,Role-Playing,Sega,0.07,0.06,0.07,0.22
+7255,DS,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.22,0.22
+7257,Wii,2011.0,Misc,THQ,0.2,0.0,0.0,0.22
+7267,DS,2009.0,Puzzle,Electronic Arts,0.01,0.19,0.0,0.22
+7272,PSP,2005.0,Sports,Sony Computer Entertainment,0.2,0.0,0.0,0.22
+7277,DS,2006.0,Sports,Electronic Arts,0.2,0.0,0.0,0.22
+7282,DS,2005.0,Platform,Nintendo,0.0,0.0,0.22,0.22
+7284,DS,2008.0,Misc,THQ,0.2,0.0,0.0,0.22
+7307,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.22,0.22
+7317,Wii,2010.0,Misc,Nintendo,0.2,0.0,0.0,0.21
+7324,PSP,2005.0,Sports,Sony Computer Entertainment,0.2,0.0,0.0,0.21
+7330,DS,2007.0,Sports,Namco Bandai Games,0.0,0.0,0.21,0.21
+7335,Wii,2011.0,Action,Konami Digital Entertainment,0.08,0.08,0.03,0.21
+7343,PSP,2010.0,Fighting,THQ,0.11,0.07,0.0,0.21
+7355,DS,2005.0,Sports,Activision,0.19,0.01,0.0,0.21
+7361,Wii,2008.0,Action,THQ,0.19,0.0,0.0,0.21
+7367,PSP,2005.0,Sports,Electronic Arts,0.2,0.0,0.0,0.21
+7373,DS,2011.0,Strategy,Konami Digital Entertainment,0.1,0.03,0.07,0.21
+7388,PSP,2009.0,Fighting,THQ,0.17,0.02,0.0,0.21
+7394,Wii,2011.0,Sports,Activision,0.15,0.05,0.0,0.21
+7395,PSP,2005.0,Adventure,Ubisoft,0.18,0.01,0.0,0.21
+7400,Wii,2010.0,Misc,Namco Bandai Games,0.2,0.0,0.0,0.21
+7402,PSP,2010.0,Sports,Sony Computer Entertainment,0.06,0.0,0.13,0.21
+7410,PSP,2005.0,Misc,Activision,0.19,0.0,0.0,0.21
+7436,Wii,2012.0,Misc,Ubisoft,0.15,0.04,0.0,0.21
+7439,DS,2010.0,Role-Playing,Nintendo,0.08,0.04,0.07,0.21
+7440,PSP,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.21,0.21
+7443,Wii,2010.0,Action,THQ,0.12,0.07,0.0,0.21
+7449,DS,2008.0,Sports,Activision,0.19,0.0,0.0,0.21
+7450,DS,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.21,0.21
+7454,DS,2007.0,Role-Playing,Namco Bandai Games,0.19,0.0,0.0,0.21
+7465,DS,2008.0,Misc,Activision,0.19,0.0,0.0,0.21
+7466,PSP,2005.0,Sports,Electronic Arts,0.19,0.0,0.0,0.21
+7469,DS,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.21,0.21
+7472,Wii,2008.0,Misc,THQ,0.19,0.0,0.0,0.21
+7475,DS,2012.0,Action,Activision,0.15,0.04,0.0,0.21
+7476,PSP,2009.0,Sports,Electronic Arts,0.19,0.0,0.0,0.21
+7478,Wii,2009.0,Simulation,Ubisoft,0.13,0.06,0.0,0.21
+7485,PSP,2011.0,Sports,Sega,0.0,0.0,0.21,0.21
+7488,DS,2006.0,Racing,Electronic Arts,0.17,0.02,0.0,0.21
+7496,Wii,2010.0,Strategy,Ubisoft,0.15,0.04,0.0,0.2
+7501,Wii,2010.0,Sports,Activision,0.19,0.0,0.0,0.2
+7504,Wii,2011.0,Fighting,THQ,0.11,0.07,0.0,0.2
+7515,Wii,2009.0,Action,Sega,0.17,0.02,0.0,0.2
+7529,Wii,2011.0,Misc,Ubisoft,0.0,0.17,0.0,0.2
+7532,PC,2011.0,Shooter,THQ,0.09,0.09,0.0,0.2
+7536,PSP,2012.0,Role-Playing,Sega,0.0,0.0,0.2,0.2
+7547,PSP,2010.0,Sports,Sony Computer Entertainment,0.19,0.0,0.0,0.2
+7555,Wii,2009.0,Action,Namco Bandai Games,0.13,0.03,0.03,0.2
+7559,DS,2009.0,Role-Playing,Activision,0.16,0.03,0.0,0.2
+7561,PC,2015.0,Action,Ubisoft,0.1,0.08,0.0,0.2
+7567,Wii,2009.0,Misc,THQ,0.17,0.02,0.0,0.2
+7578,PSP,2012.0,Action,Sega,0.0,0.0,0.2,0.2
+7581,PSP,2011.0,Role-Playing,Sega,0.0,0.0,0.2,0.2
+7584,DS,2009.0,Simulation,Ubisoft,0.19,0.0,0.0,0.2
+7593,DS,2009.0,Misc,Ubisoft,0.19,0.0,0.0,0.2
+7610,DS,2010.0,Adventure,Ubisoft,0.13,0.06,0.0,0.2
+7625,PSP,2006.0,Sports,Sony Computer Entertainment,0.18,0.0,0.0,0.2
+7627,PSP,2010.0,Role-Playing,Sega,0.0,0.0,0.2,0.2
+7628,DS,2011.0,Simulation,Activision,0.14,0.04,0.0,0.2
+7631,PSP,2005.0,Fighting,Sony Computer Entertainment,0.18,0.0,0.0,0.2
+7638,Wii,2010.0,Racing,THQ,0.15,0.04,0.0,0.2
+7639,Wii,2010.0,Misc,Namco Bandai Games,0.0,0.17,0.0,0.2
+7641,PC,2012.0,Strategy,Sega,0.07,0.1,0.0,0.2
+7657,Wii,2011.0,Sports,THQ,0.12,0.06,0.0,0.2
+7661,PSP,2013.0,Sports,Konami Digital Entertainment,0.0,0.0,0.2,0.2
+7663,DS,2008.0,Misc,Ubisoft,0.0,0.2,0.0,0.2
+7666,DS,2008.0,Role-Playing,Sega,0.1,0.02,0.07,0.2
+7668,Wii,2011.0,Misc,Ubisoft,0.19,0.0,0.0,0.2
+7670,DS,2009.0,Simulation,Electronic Arts,0.18,0.0,0.0,0.2
+7671,PSP,2012.0,Sports,Konami Digital Entertainment,0.0,0.0,0.2,0.2
+7680,PSP,2005.0,Action,Electronic Arts,0.17,0.01,0.0,0.2
+7682,PC,2014.0,Role-Playing,Ubisoft,0.07,0.1,0.0,0.2
+7683,PSP,2006.0,Shooter,Ubisoft,0.17,0.01,0.0,0.2
+7689,Wii,2008.0,Sports,Activision,0.18,0.0,0.0,0.2
+7694,Wii,2011.0,Racing,Activision,0.18,0.0,0.0,0.2
+7697,PSP,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.2,0.2
+7698,Wii,2008.0,Role-Playing,Sega,0.08,0.0,0.11,0.2
+7699,PSP,2011.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.2,0.2
+7701,PSP,2005.0,Sports,Electronic Arts,0.18,0.0,0.0,0.2
+7711,DS,2009.0,Action,Activision,0.15,0.03,0.0,0.2
+7712,PSP,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.2,0.2
+7719,Wii,2011.0,Action,THQ,0.15,0.03,0.0,0.2
+7723,Wii,2009.0,Action,Konami Digital Entertainment,0.15,0.0,0.03,0.2
+7727,DS,2008.0,Misc,THQ,0.18,0.0,0.0,0.2
+7754,DS,2005.0,Action,Sega,0.0,0.0,0.19,0.19
+7756,DS,2009.0,Simulation,Ubisoft,0.18,0.0,0.0,0.19
+7761,PC,2010.0,Shooter,Sega,0.0,0.17,0.0,0.19
+7766,DS,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.19,0.19
+7768,PC,2015.0,Simulation,Electronic Arts,0.05,0.13,0.0,0.19
+7775,Wii,2011.0,Misc,THQ,0.14,0.04,0.0,0.19
+7777,DS,2010.0,Misc,Konami Digital Entertainment,0.11,0.07,0.0,0.19
+7779,PSP,2005.0,Action,Ubisoft,0.16,0.01,0.0,0.19
+7781,PSP,2009.0,Action,Activision,0.13,0.03,0.0,0.19
+7791,PSP,2010.0,Action,Electronic Arts,0.12,0.03,0.01,0.19
+7807,DS,2009.0,Role-Playing,Ubisoft,0.16,0.02,0.0,0.19
+7808,Wii,2008.0,Adventure,THQ,0.17,0.01,0.0,0.19
+7813,Wii,2009.0,Action,Activision,0.18,0.0,0.0,0.19
+7817,DS,2010.0,Action,Activision,0.17,0.01,0.0,0.19
+7824,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.19,0.19
+7826,PC,2013.0,Action,Ubisoft,0.04,0.13,0.0,0.19
+7835,Wii,2011.0,Misc,THQ,0.08,0.09,0.0,0.19
+7836,DS,2006.0,Fighting,Namco Bandai Games,0.02,0.01,0.16,0.19
+7843,PSP,2005.0,Platform,Konami Digital Entertainment,0.17,0.0,0.0,0.19
+7851,PC,2011.0,Racing,Electronic Arts,0.05,0.11,0.0,0.19
+7852,Wii,2009.0,Racing,Ubisoft,0.18,0.0,0.0,0.19
+7857,PSP,2009.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.19,0.19
+7868,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.19,0.19
+7869,Wii,2009.0,Adventure,Ubisoft,0.18,0.0,0.0,0.19
+7870,Wii,2011.0,Misc,Electronic Arts,0.13,0.04,0.0,0.19
+7880,DS,2008.0,Sports,Sega,0.0,0.0,0.19,0.19
+7882,DS,2010.0,Misc,THQ,0.18,0.0,0.0,0.19
+7887,Wii,2006.0,Misc,Namco Bandai Games,0.12,0.0,0.06,0.19
+7894,Wii,2010.0,Sports,Ubisoft,0.14,0.03,0.0,0.19
+7901,DS,2009.0,Sports,Nintendo,0.0,0.18,0.0,0.19
+7915,DS,2006.0,Puzzle,Nintendo,0.0,0.0,0.19,0.19
+7925,DS,2010.0,Puzzle,THQ,0.1,0.07,0.0,0.19
+7926,Wii,2007.0,Action,Namco Bandai Games,0.16,0.01,0.0,0.19
+7927,DS,2004.0,Misc,Nintendo,0.0,0.0,0.19,0.19
+7934,Wii,2009.0,Action,Namco Bandai Games,0.17,0.0,0.0,0.19
+7941,Wii,2007.0,Adventure,Namco Bandai Games,0.07,0.0,0.11,0.19
+7945,DS,2007.0,Misc,Nintendo,0.0,0.0,0.19,0.19
+7949,PC,2008.0,Shooter,Activision,0.02,0.13,0.0,0.19
+7955,DS,2009.0,Action,Konami Digital Entertainment,0.0,0.0,0.19,0.19
+7968,DS,2008.0,Fighting,THQ,0.15,0.02,0.0,0.19
+7977,DS,2006.0,Role-Playing,Nintendo,0.16,0.03,0.0,0.19
+7979,Wii,2009.0,Racing,Activision,0.17,0.0,0.0,0.19
+7992,PSP,2011.0,Fighting,THQ,0.12,0.04,0.0,0.19
+7999,DS,2010.0,Adventure,Namco Bandai Games,0.06,0.11,0.0,0.18
+8001,Wii,2009.0,Simulation,Konami Digital Entertainment,0.17,0.0,0.0,0.18
+8005,DS,2010.0,Action,THQ,0.13,0.04,0.0,0.18
+8006,DS,2006.0,Simulation,Ubisoft,0.17,0.0,0.0,0.18
+8011,Wii,2007.0,Sports,Electronic Arts,0.17,0.0,0.0,0.18
+8030,Wii,2011.0,Platform,THQ,0.11,0.06,0.0,0.18
+8035,DS,2009.0,Action,Activision,0.17,0.0,0.0,0.18
+8040,PC,2009.0,Strategy,THQ,0.0,0.15,0.0,0.18
+8056,PC,2011.0,Racing,Ubisoft,0.05,0.1,0.0,0.18
+8057,PSP,2005.0,Strategy,Konami Digital Entertainment,0.11,0.01,0.05,0.18
+8059,Wii,2008.0,Misc,Sega,0.09,0.06,0.01,0.18
+8061,PSP,2005.0,Misc,Sony Computer Entertainment,0.0,0.0,0.18,0.18
+8062,Wii,2011.0,Misc,Activision,0.15,0.02,0.0,0.18
+8065,DS,2005.0,Action,Activision,0.17,0.0,0.0,0.18
+8069,DS,2011.0,Simulation,Activision,0.13,0.04,0.0,0.18
+8070,Wii,2010.0,Misc,Ubisoft,0.0,0.16,0.0,0.18
+8090,PSP,2007.0,Action,Activision,0.16,0.0,0.0,0.18
+8094,PC,2010.0,Sports,Electronic Arts,0.0,0.14,0.0,0.18
+8107,DS,2005.0,Racing,Electronic Arts,0.15,0.02,0.0,0.18
+8114,PC,2013.0,Shooter,Sega,0.1,0.06,0.0,0.18
+8117,PC,2014.0,Role-Playing,Namco Bandai Games,0.08,0.08,0.0,0.18
+8123,Wii,2008.0,Sports,Activision,0.17,0.0,0.0,0.18
+8125,Wii,2011.0,Action,Activision,0.1,0.07,0.0,0.18
+8127,PC,2012.0,Shooter,Ubisoft,0.05,0.1,0.0,0.18
+8129,DS,2011.0,Action,Sega,0.1,0.06,0.0,0.18
+8134,PC,2015.0,Sports,Electronic Arts,0.04,0.13,0.0,0.18
+8141,Wii,2008.0,Adventure,Activision,0.08,0.08,0.0,0.18
+8165,DS,2008.0,Sports,Electronic Arts,0.14,0.02,0.0,0.18
+8166,PSP,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.18,0.18
+8168,PSP,2008.0,Strategy,Namco Bandai Games,0.0,0.0,0.18,0.18
+8172,DS,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.18,0.18
+8173,DS,2008.0,Simulation,Electronic Arts,0.0,0.0,0.18,0.18
+8176,Wii,2011.0,Racing,Ubisoft,0.06,0.09,0.0,0.18
+8182,DS,2005.0,Platform,Namco Bandai Games,0.16,0.0,0.0,0.18
+8184,DS,2008.0,Adventure,THQ,0.16,0.0,0.0,0.18
+8191,DS,2010.0,Adventure,THQ,0.17,0.0,0.0,0.18
+8202,DS,2007.0,Misc,Ubisoft,0.15,0.02,0.0,0.18
+8205,Wii,2008.0,Fighting,Konami Digital Entertainment,0.13,0.02,0.01,0.18
+8211,DS,2009.0,Adventure,Ubisoft,0.16,0.0,0.0,0.17
+8215,DS,2006.0,Sports,Konami Digital Entertainment,0.0,0.0,0.17,0.17
+8218,DS,2009.0,Adventure,Ubisoft,0.07,0.09,0.0,0.17
+8236,DS,2007.0,Adventure,Konami Digital Entertainment,0.09,0.02,0.06,0.17
+8245,DS,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.17,0.17
+8254,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.17,0.17
+8258,Wii,2008.0,Sports,Electronic Arts,0.16,0.0,0.0,0.17
+8267,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.17,0.17
+8274,DS,2006.0,Puzzle,Nintendo,0.13,0.03,0.0,0.17
+8278,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.17,0.17
+8295,DS,2006.0,Action,THQ,0.12,0.04,0.0,0.17
+8309,PSP,2009.0,Action,Namco Bandai Games,0.0,0.0,0.17,0.17
+8310,PSP,2008.0,Sports,Activision,0.16,0.0,0.0,0.17
+8312,PSP,2007.0,Action,Sony Computer Entertainment,0.07,0.07,0.0,0.17
+8316,PSP,2006.0,Sports,Electronic Arts,0.13,0.02,0.0,0.17
+8317,PSP,2013.0,Action,Konami Digital Entertainment,0.0,0.03,0.14,0.17
+8325,PSP,2008.0,Sports,Sony Computer Entertainment,0.16,0.0,0.0,0.17
+8336,PSP,2004.0,Misc,Konami Digital Entertainment,0.0,0.0,0.17,0.17
+8346,PSP,2010.0,Action,Namco Bandai Games,0.0,0.0,0.17,0.17
+8351,PSP,2013.0,Sports,Konami Digital Entertainment,0.0,0.0,0.17,0.17
+8353,Wii,2010.0,Misc,Ubisoft,0.16,0.0,0.0,0.17
+8359,DS,2008.0,Action,THQ,0.16,0.0,0.0,0.17
+8362,Wii,2009.0,Puzzle,Konami Digital Entertainment,0.1,0.06,0.0,0.17
+8393,Wii,2010.0,Action,Activision,0.15,0.01,0.0,0.17
+8396,DS,2006.0,Fighting,Nintendo,0.02,0.02,0.12,0.17
+8399,Wii,2007.0,Sports,Ubisoft,0.15,0.0,0.0,0.17
+8403,PSP,2005.0,Racing,Sony Computer Entertainment,0.14,0.01,0.0,0.17
+8404,DS,2006.0,Platform,Nintendo,0.0,0.0,0.17,0.17
+8432,DS,2008.0,Action,Activision,0.15,0.01,0.0,0.17
+8438,Wii,2008.0,Platform,Namco Bandai Games,0.11,0.02,0.03,0.17
+8451,PC,2012.0,Simulation,Electronic Arts,0.0,0.13,0.0,0.17
+8479,PSP,2008.0,Action,Activision,0.12,0.02,0.0,0.16
+8481,DS,2011.0,Misc,THQ,0.12,0.03,0.0,0.16
+8487,Wii,2011.0,Action,Sega,0.11,0.04,0.0,0.16
+8490,DS,2009.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.16,0.16
+8494,DS,2005.0,Sports,Nintendo,0.11,0.0,0.04,0.16
+8501,Wii,2007.0,Racing,Activision,0.15,0.0,0.0,0.16
+8504,Wii,2012.0,Action,Activision,0.11,0.04,0.0,0.16
+8520,DS,2007.0,Strategy,Sega,0.0,0.0,0.16,0.16
+8541,DS,2005.0,Misc,Nintendo,0.0,0.0,0.16,0.16
+8545,Wii,2007.0,Platform,Konami Digital Entertainment,0.14,0.0,0.01,0.16
+8547,PSP,2011.0,Strategy,Konami Digital Entertainment,0.0,0.0,0.16,0.16
+8569,Wii,2009.0,Sports,Activision,0.15,0.0,0.0,0.16
+8573,DS,2008.0,Sports,Ubisoft,0.15,0.0,0.0,0.16
+8594,DS,2009.0,Puzzle,Ubisoft,0.0,0.15,0.0,0.16
+8595,DS,2010.0,Action,Namco Bandai Games,0.05,0.02,0.08,0.16
+8598,PC,2014.0,Racing,Ubisoft,0.0,0.15,0.0,0.16
+8599,PSP,2008.0,Simulation,Namco Bandai Games,0.0,0.0,0.16,0.16
+8606,DS,2010.0,Simulation,THQ,0.15,0.0,0.0,0.16
+8608,DS,2008.0,Sports,Ubisoft,0.14,0.01,0.0,0.16
+8609,DS,2008.0,Adventure,Konami Digital Entertainment,0.03,0.01,0.11,0.16
+8613,DS,2009.0,Action,THQ,0.08,0.07,0.0,0.16
+8616,PC,2011.0,Shooter,Electronic Arts,0.07,0.07,0.0,0.16
+8619,PSP,2011.0,Sports,Sony Computer Entertainment,0.15,0.0,0.0,0.16
+8629,Wii,2008.0,Action,THQ,0.15,0.0,0.0,0.16
+8635,DS,2007.0,Misc,Ubisoft,0.12,0.03,0.0,0.16
+8636,Wii,2010.0,Strategy,Konami Digital Entertainment,0.11,0.02,0.02,0.16
+8648,Wii,2011.0,Misc,Electronic Arts,0.1,0.04,0.0,0.16
+8650,PSP,2009.0,Sports,Sega,0.0,0.0,0.16,0.16
+8665,PSP,2010.0,Misc,Ubisoft,0.11,0.03,0.0,0.16
+8666,Wii,2007.0,Adventure,Electronic Arts,0.14,0.0,0.0,0.16
+8668,PSP,2008.0,Strategy,Namco Bandai Games,0.0,0.0,0.16,0.16
+8670,DS,2006.0,Adventure,THQ,0.14,0.01,0.0,0.16
+8674,Wii,2009.0,Misc,Activision,0.14,0.0,0.0,0.16
+8675,DS,2010.0,Misc,THQ,0.14,0.01,0.0,0.16
+8681,Wii,2012.0,Action,THQ,0.12,0.02,0.0,0.16
+8685,DS,2005.0,Puzzle,Ubisoft,0.1,0.02,0.03,0.16
+8689,PSP,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.16,0.16
+8690,PSP,2005.0,Shooter,THQ,0.14,0.0,0.0,0.16
+8695,Wii,2008.0,Misc,Activision,0.14,0.0,0.0,0.16
+8701,DS,2009.0,Action,Activision,0.14,0.0,0.0,0.16
+8702,DS,2009.0,Simulation,Ubisoft,0.15,0.0,0.0,0.16
+8705,DS,2005.0,Action,Activision,0.14,0.0,0.0,0.16
+8714,DS,2010.0,Action,Ubisoft,0.14,0.01,0.0,0.16
+8719,DS,2007.0,Fighting,Sega,0.12,0.02,0.0,0.15
+8728,DS,2009.0,Racing,Activision,0.13,0.02,0.0,0.15
+8731,PSP,2006.0,Puzzle,Konami Digital Entertainment,0.14,0.0,0.0,0.15
+8739,DS,2007.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.15,0.15
+8744,PSP,2006.0,Sports,Electronic Arts,0.07,0.06,0.0,0.15
+8761,PSP,2006.0,Sports,Konami Digital Entertainment,0.0,0.0,0.15,0.15
+8771,PSP,2009.0,Fighting,Namco Bandai Games,0.14,0.0,0.0,0.15
+8780,Wii,2009.0,Shooter,Activision,0.14,0.0,0.0,0.15
+8792,DS,2005.0,Action,THQ,0.13,0.01,0.0,0.15
+8793,PC,2010.0,Action,THQ,0.07,0.06,0.0,0.15
+8796,Wii,2010.0,Sports,Namco Bandai Games,0.14,0.0,0.0,0.15
+8807,DS,2010.0,Action,Activision,0.11,0.03,0.0,0.15
+8808,PSP,2012.0,Action,Konami Digital Entertainment,0.0,0.0,0.15,0.15
+8819,PSP,2005.0,Role-Playing,Sony Computer Entertainment,0.14,0.0,0.0,0.15
+8822,PC,2011.0,Simulation,Electronic Arts,0.05,0.08,0.0,0.15
+8830,PSP,2007.0,Adventure,Namco Bandai Games,0.0,0.0,0.15,0.15
+8837,Wii,2007.0,Action,Activision,0.13,0.01,0.0,0.15
+8853,PSP,2010.0,Action,Activision,0.09,0.04,0.0,0.15
+8855,PSP,2011.0,Role-Playing,Sony Computer Entertainment,0.0,0.04,0.09,0.15
+8868,DS,2009.0,Simulation,Ubisoft,0.14,0.0,0.0,0.15
+8874,Wii,2011.0,Sports,Sega,0.05,0.08,0.0,0.15
+8878,Wii,2007.0,Racing,Activision,0.13,0.0,0.0,0.15
+8892,Wii,2011.0,Racing,Activision,0.1,0.04,0.0,0.15
+8901,Wii,2009.0,Misc,Electronic Arts,0.14,0.0,0.0,0.15
+8905,DS,2004.0,Racing,Namco Bandai Games,0.14,0.0,0.0,0.15
+8907,Wii,2008.0,Adventure,Sega,0.14,0.0,0.0,0.15
+8913,DS,2006.0,Sports,Konami Digital Entertainment,0.0,0.0,0.15,0.15
+8915,Wii,2008.0,Sports,THQ,0.14,0.0,0.0,0.15
+8930,DS,2007.0,Misc,Ubisoft,0.13,0.01,0.0,0.15
+8944,DS,2005.0,Action,Konami Digital Entertainment,0.15,0.0,0.0,0.15
+8949,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.15,0.15
+8960,PC,2014.0,Shooter,Sega,0.0,0.13,0.0,0.15
+8962,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.15,0.15
+8972,DS,2010.0,Misc,Activision,0.14,0.0,0.0,0.15
+8973,PSP,2013.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.15,0.15
+8976,DS,2008.0,Misc,Electronic Arts,0.13,0.0,0.0,0.15
+8979,DS,2004.0,Sports,Electronic Arts,0.13,0.0,0.0,0.15
+8984,Wii,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.15,0.15
+8985,DS,2010.0,Misc,THQ,0.14,0.0,0.0,0.15
+8989,DS,2013.0,Action,Activision,0.0,0.13,0.0,0.15
+8993,DS,2007.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.14,0.14
+9000,DS,2006.0,Misc,Namco Bandai Games,0.02,0.0,0.13,0.14
+9018,Wii,2011.0,Action,THQ,0.08,0.05,0.0,0.14
+9022,DS,2009.0,Adventure,Nintendo,0.0,0.0,0.14,0.14
+9028,DS,2008.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.14,0.14
+9034,PSP,2009.0,Action,Electronic Arts,0.11,0.02,0.0,0.14
+9035,PC,2010.0,Role-Playing,Electronic Arts,0.0,0.12,0.0,0.14
+9039,DS,2006.0,Racing,Ubisoft,0.09,0.04,0.0,0.14
+9042,DS,2011.0,Action,Activision,0.12,0.01,0.0,0.14
+9054,Wii,2008.0,Action,THQ,0.13,0.0,0.0,0.14
+9055,PC,2000.0,Strategy,Ubisoft,0.02,0.1,0.0,0.14
+9062,PC,2007.0,Shooter,Electronic Arts,0.0,0.11,0.0,0.14
+9064,Wii,2007.0,Fighting,Ubisoft,0.07,0.0,0.06,0.14
+9074,PSP,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.14,0.14
+9082,PSP,2004.0,Role-Playing,Namco Bandai Games,0.03,0.0,0.11,0.14
+9083,Wii,2007.0,Misc,Ubisoft,0.13,0.0,0.0,0.14
+9099,PSP,2005.0,Sports,Sony Computer Entertainment,0.13,0.0,0.0,0.14
+9113,DS,2004.0,Puzzle,Nintendo,0.08,0.0,0.05,0.14
+9116,DS,2009.0,Racing,THQ,0.13,0.0,0.0,0.14
+9138,PSP,2005.0,Strategy,Electronic Arts,0.11,0.02,0.0,0.14
+9142,PSP,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.14,0.14
+9172,DS,2007.0,Racing,Activision,0.13,0.0,0.0,0.14
+9187,DS,2005.0,Sports,Konami Digital Entertainment,0.0,0.0,0.14,0.14
+9194,DS,2011.0,Misc,Activision,0.1,0.02,0.0,0.14
+9203,Wii,2011.0,Action,Electronic Arts,0.08,0.04,0.0,0.14
+9209,Wii,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.14,0.14
+9227,Wii,2009.0,Misc,Activision,0.12,0.01,0.0,0.14
+9228,DS,2005.0,Action,Konami Digital Entertainment,0.0,0.04,0.1,0.14
+9229,Wii,2010.0,Misc,Electronic Arts,0.13,0.0,0.0,0.14
+9231,PSP,2011.0,Sports,Sega,0.0,0.1,0.0,0.14
+9232,PSP,2004.0,Misc,Sony Computer Entertainment,0.0,0.0,0.13,0.14
+9235,PSP,2006.0,Misc,Sony Computer Entertainment,0.1,0.0,0.02,0.14
+9242,DS,2011.0,Puzzle,Sega,0.0,0.0,0.14,0.14
+9247,DS,2009.0,Simulation,Electronic Arts,0.12,0.0,0.0,0.14
+9248,Wii,2010.0,Misc,Ubisoft,0.13,0.0,0.0,0.14
+9250,PC,2016.0,Action,Ubisoft,0.04,0.09,0.0,0.14
+9252,DS,2005.0,Racing,Electronic Arts,0.11,0.02,0.0,0.14
+9269,DS,2007.0,Simulation,THQ,0.13,0.0,0.0,0.14
+9270,DS,2009.0,Action,Electronic Arts,0.11,0.01,0.0,0.14
+9276,DS,2009.0,Role-Playing,Sega,0.0,0.0,0.14,0.14
+9280,PSP,2006.0,Strategy,Konami Digital Entertainment,0.09,0.03,0.0,0.14
+9281,DS,2008.0,Misc,Ubisoft,0.13,0.0,0.0,0.14
+9283,Wii,2008.0,Racing,Ubisoft,0.11,0.01,0.0,0.14
+9284,DS,2006.0,Puzzle,Nintendo,0.08,0.01,0.03,0.14
+9289,PC,2010.0,Role-Playing,Electronic Arts,0.01,0.1,0.0,0.14
+9298,DS,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.14,0.14
+9301,Wii,2006.0,Puzzle,Nintendo,0.08,0.02,0.03,0.14
+9302,DS,2006.0,Platform,Ubisoft,0.12,0.0,0.0,0.14
+9304,PC,2015.0,Shooter,Electronic Arts,0.0,0.13,0.0,0.14
+9311,Wii,2011.0,Shooter,Activision,0.13,0.0,0.0,0.14
+9312,DS,2010.0,Simulation,Ubisoft,0.13,0.0,0.0,0.14
+9316,Wii,2011.0,Misc,THQ,0.11,0.01,0.0,0.14
+9317,Wii,2010.0,Shooter,Ubisoft,0.11,0.01,0.0,0.14
+9318,DS,2008.0,Action,Activision,0.11,0.01,0.0,0.14
+9321,Wii,2011.0,Adventure,Ubisoft,0.08,0.04,0.0,0.14
+9322,DS,2009.0,Sports,Activision,0.13,0.0,0.0,0.14
+9325,PSP,2011.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.14,0.14
+9327,DS,2008.0,Sports,THQ,0.12,0.0,0.0,0.14
+9328,DS,2008.0,Misc,Ubisoft,0.13,0.0,0.0,0.14
+9329,DS,2009.0,Misc,Ubisoft,0.13,0.0,0.0,0.13
+9332,Wii,2010.0,Misc,Ubisoft,0.0,0.12,0.0,0.13
+9341,Wii,2008.0,Sports,Konami Digital Entertainment,0.12,0.0,0.01,0.13
+9352,PSP,2012.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.13,0.13
+9374,DS,2005.0,Action,Ubisoft,0.12,0.0,0.0,0.13
+9375,DS,2007.0,Misc,Sega,0.12,0.0,0.0,0.13
+9378,Wii,2009.0,Action,Activision,0.12,0.0,0.0,0.13
+9380,DS,2010.0,Action,Activision,0.12,0.0,0.0,0.13
+9384,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.13,0.13
+9398,PSP,2008.0,Misc,Ubisoft,0.12,0.0,0.0,0.13
+9400,DS,2006.0,Platform,Activision,0.12,0.0,0.0,0.13
+9413,PSP,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.13,0.13
+9414,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.13,0.13
+9416,DS,2006.0,Action,Sega,0.0,0.0,0.13,0.13
+9423,PSP,2006.0,Action,Ubisoft,0.11,0.01,0.0,0.13
+9425,Wii,2009.0,Sports,THQ,0.12,0.0,0.0,0.13
+9429,DS,2011.0,Action,THQ,0.11,0.02,0.0,0.13
+9439,DS,2010.0,Sports,Sega,0.0,0.0,0.13,0.13
+9441,PSP,2010.0,Adventure,THQ,0.08,0.03,0.0,0.13
+9443,PSP,2005.0,Shooter,Electronic Arts,0.12,0.0,0.0,0.13
+9456,PSP,2010.0,Action,Namco Bandai Games,0.04,0.02,0.05,0.13
+9463,Wii,2009.0,Sports,Ubisoft,0.1,0.02,0.0,0.13
+9465,DS,2011.0,Misc,THQ,0.08,0.04,0.0,0.13
+9482,Wii,2012.0,Misc,Ubisoft,0.01,0.1,0.0,0.13
+9491,DS,2009.0,Adventure,Activision,0.12,0.0,0.0,0.13
+9492,PSP,2008.0,Platform,Sony Computer Entertainment,0.04,0.03,0.04,0.13
+9494,DS,2011.0,Racing,Activision,0.09,0.03,0.0,0.13
+9512,Wii,2006.0,Action,Ubisoft,0.1,0.01,0.0,0.13
+9519,DS,2006.0,Platform,Activision,0.12,0.0,0.0,0.13
+9521,PSP,2010.0,Misc,Konami Digital Entertainment,0.0,0.0,0.13,0.13
+9525,DS,2009.0,Misc,Ubisoft,0.12,0.0,0.0,0.13
+9553,DS,2010.0,Action,Activision,0.11,0.01,0.0,0.13
+9563,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.13,0.13
+9565,Wii,2008.0,Shooter,Ubisoft,0.11,0.0,0.0,0.13
+9572,DS,2007.0,Racing,Electronic Arts,0.11,0.01,0.0,0.13
+9592,DS,2011.0,Action,Sega,0.09,0.03,0.0,0.13
+9594,Wii,2011.0,Misc,Ubisoft,0.12,0.0,0.0,0.13
+9596,Wii,2008.0,Simulation,Namco Bandai Games,0.09,0.02,0.01,0.13
+9597,DS,2008.0,Adventure,THQ,0.11,0.01,0.0,0.13
+9602,Wii,2009.0,Simulation,Electronic Arts,0.1,0.01,0.0,0.13
+9608,Wii,2008.0,Adventure,Sega,0.0,0.0,0.13,0.13
+9615,DS,2010.0,Sports,Activision,0.12,0.0,0.0,0.13
+9617,PSP,2013.0,Role-Playing,Sega,0.0,0.0,0.13,0.13
+9620,Wii,2009.0,Platform,Ubisoft,0.11,0.0,0.0,0.13
+9624,DS,2009.0,Action,Ubisoft,0.12,0.0,0.0,0.13
+9633,DS,2011.0,Misc,Ubisoft,0.12,0.0,0.0,0.13
+9648,DS,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.13,0.13
+9652,Wii,2011.0,Shooter,Sega,0.07,0.04,0.0,0.13
+9660,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,0.12
+9661,Wii,2008.0,Action,Electronic Arts,0.11,0.01,0.0,0.12
+9663,Wii,2009.0,Adventure,Konami Digital Entertainment,0.07,0.04,0.0,0.12
+9686,DS,2006.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.12,0.12
+9696,PSP,2006.0,Action,Namco Bandai Games,0.0,0.0,0.12,0.12
+9707,DS,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,0.12
+9720,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.12,0.12
+9736,DS,2006.0,Role-Playing,Nintendo,0.0,0.0,0.12,0.12
+9737,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,0.12
+9739,DS,2005.0,Sports,Electronic Arts,0.11,0.0,0.0,0.12
+9745,DS,2007.0,Fighting,THQ,0.11,0.01,0.0,0.12
+9750,PSP,2007.0,Shooter,Namco Bandai Games,0.0,0.0,0.12,0.12
+9760,PSP,2011.0,Action,Namco Bandai Games,0.0,0.0,0.12,0.12
+9762,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.12,0.12
+9763,PSP,2006.0,Adventure,Sony Computer Entertainment,0.11,0.0,0.0,0.12
+9775,Wii,2009.0,Sports,Activision,0.11,0.0,0.0,0.12
+9776,PSP,2009.0,Action,Ubisoft,0.03,0.03,0.05,0.12
+9779,PSP,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.12,0.12
+9786,PSP,2005.0,Puzzle,Sony Computer Entertainment,0.11,0.0,0.0,0.12
+9787,PC,2011.0,Adventure,Electronic Arts,0.0,0.1,0.0,0.12
+9789,DS,2008.0,Misc,Ubisoft,0.11,0.01,0.0,0.12
+9791,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.12,0.12
+9799,DS,2010.0,Puzzle,Konami Digital Entertainment,0.11,0.0,0.0,0.12
+9802,Wii,2010.0,Platform,Konami Digital Entertainment,0.1,0.0,0.01,0.12
+9805,Wii,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.12,0.12
+9808,PSP,2011.0,Action,Namco Bandai Games,0.0,0.0,0.12,0.12
+9809,PSP,2008.0,Misc,Ubisoft,0.11,0.0,0.0,0.12
+9810,DS,2010.0,Simulation,Ubisoft,0.11,0.0,0.0,0.12
+9813,PSP,2010.0,Action,Sony Computer Entertainment,0.08,0.02,0.0,0.12
+9814,DS,2008.0,Misc,Electronic Arts,0.09,0.03,0.0,0.12
+9823,DS,2007.0,Puzzle,Ubisoft,0.11,0.0,0.0,0.12
+9834,DS,2007.0,Racing,THQ,0.11,0.0,0.0,0.12
+9835,PSP,2007.0,Action,Ubisoft,0.08,0.02,0.0,0.12
+9836,PSP,2011.0,Fighting,Namco Bandai Games,0.0,0.0,0.12,0.12
+9845,DS,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.12,0.12
+9853,PSP,2010.0,Strategy,Sony Computer Entertainment,0.11,0.0,0.0,0.12
+9854,PSP,2008.0,Strategy,Ubisoft,0.1,0.01,0.0,0.12
+9858,DS,2006.0,Role-Playing,Ubisoft,0.09,0.0,0.02,0.12
+9870,Wii,2011.0,Sports,Ubisoft,0.11,0.0,0.0,0.12
+9871,PSP,2010.0,Shooter,Namco Bandai Games,0.0,0.0,0.12,0.12
+9891,DS,2007.0,Misc,Konami Digital Entertainment,0.11,0.0,0.0,0.12
+9893,DS,2011.0,Action,THQ,0.07,0.03,0.0,0.12
+9895,DS,2005.0,Strategy,Ubisoft,0.1,0.01,0.0,0.12
+9903,PSP,2011.0,Simulation,Namco Bandai Games,0.0,0.0,0.12,0.12
+9927,DS,2009.0,Simulation,Electronic Arts,0.11,0.0,0.0,0.12
+9948,PSP,2007.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,0.12
+9950,DS,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.12,0.12
+9952,Wii,2008.0,Puzzle,THQ,0.11,0.0,0.0,0.12
+9953,DS,2011.0,Action,Electronic Arts,0.07,0.03,0.0,0.12
+9960,PSP,2007.0,Action,Ubisoft,0.1,0.01,0.0,0.12
+9965,DS,2011.0,Platform,THQ,0.09,0.02,0.0,0.12
+9970,PC,2011.0,Role-Playing,Electronic Arts,0.07,0.03,0.0,0.12
+9976,DS,2009.0,Simulation,Ubisoft,0.07,0.03,0.0,0.12
+9977,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.12,0.12
+9980,DS,2007.0,Role-Playing,Nintendo,0.0,0.0,0.12,0.12
+9984,DS,2009.0,Sports,Namco Bandai Games,0.0,0.0,0.12,0.12
+9987,DS,2010.0,Puzzle,Ubisoft,0.02,0.07,0.0,0.12
+9991,Wii,2011.0,Misc,Electronic Arts,0.11,0.0,0.0,0.12
+9992,PSP,2005.0,Sports,Electronic Arts,0.11,0.0,0.0,0.12
+10001,Wii,2010.0,Misc,Ubisoft,0.11,0.0,0.0,0.11
+10013,DS,2005.0,Platform,Namco Bandai Games,0.09,0.0,0.02,0.11
+10025,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.11,0.11
+10030,DS,2008.0,Misc,Electronic Arts,0.11,0.0,0.0,0.11
+10032,DS,2009.0,Simulation,THQ,0.11,0.0,0.0,0.11
+10039,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.11,0.11
+10046,PSP,2005.0,Sports,Electronic Arts,0.1,0.01,0.0,0.11
+10056,DS,2009.0,Strategy,THQ,0.11,0.0,0.0,0.11
+10058,PC,2013.0,Action,Konami Digital Entertainment,0.0,0.09,0.0,0.11
+10060,DS,2007.0,Action,Ubisoft,0.1,0.0,0.0,0.11
+10062,DS,2008.0,Misc,Ubisoft,0.1,0.0,0.0,0.11
+10067,DS,2009.0,Adventure,Sega,0.11,0.0,0.0,0.11
+10071,DS,2004.0,Misc,THQ,0.1,0.0,0.0,0.11
+10079,DS,2006.0,Role-Playing,Namco Bandai Games,0.1,0.0,0.0,0.11
+10088,PSP,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.11,0.11
+10094,DS,2005.0,Shooter,Electronic Arts,0.1,0.0,0.0,0.11
+10099,Wii,2010.0,Action,Nintendo,0.0,0.0,0.11,0.11
+10102,Wii,2009.0,Sports,Ubisoft,0.1,0.01,0.0,0.11
+10105,Wii,2008.0,Racing,Activision,0.1,0.0,0.0,0.11
+10106,PSP,2007.0,Sports,Ubisoft,0.02,0.06,0.0,0.11
+10107,PSP,2011.0,Action,Sony Computer Entertainment,0.0,0.08,0.0,0.11
+10114,DS,2009.0,Adventure,Konami Digital Entertainment,0.1,0.0,0.0,0.11
+10116,DS,2009.0,Misc,THQ,0.1,0.0,0.0,0.11
+10137,DS,2005.0,Adventure,Konami Digital Entertainment,0.07,0.02,0.02,0.11
+10143,DS,2007.0,Strategy,Nintendo,0.0,0.0,0.11,0.11
+10146,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.11,0.11
+10154,DS,2007.0,Adventure,THQ,0.1,0.0,0.0,0.11
+10157,Wii,2007.0,Shooter,Activision,0.1,0.0,0.0,0.11
+10161,Wii,2007.0,Simulation,Namco Bandai Games,0.0,0.0,0.11,0.11
+10180,Wii,2008.0,Misc,Ubisoft,0.09,0.01,0.0,0.11
+10188,PSP,2006.0,Role-Playing,Sony Computer Entertainment,0.11,0.0,0.0,0.11
+10190,PSP,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.11,0.11
+10191,DS,2007.0,Action,Sega,0.0,0.0,0.11,0.11
+10195,PSP,2006.0,Adventure,THQ,0.1,0.0,0.0,0.11
+10201,DS,2008.0,Role-Playing,Nintendo,0.0,0.0,0.11,0.11
+10205,PSP,2005.0,Puzzle,Sony Computer Entertainment,0.0,0.0,0.11,0.11
+10206,PSP,2006.0,Action,Electronic Arts,0.09,0.0,0.0,0.11
+10207,DS,2009.0,Simulation,THQ,0.1,0.0,0.0,0.11
+10210,DS,2011.0,Action,THQ,0.09,0.01,0.0,0.11
+10235,PSP,2011.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.11,0.11
+10241,PSP,2005.0,Platform,Konami Digital Entertainment,0.1,0.0,0.0,0.11
+10246,PC,2011.0,Shooter,Ubisoft,0.05,0.05,0.0,0.11
+10249,Wii,2009.0,Action,Konami Digital Entertainment,0.1,0.0,0.0,0.11
+10261,DS,2006.0,Adventure,THQ,0.1,0.0,0.0,0.11
+10262,DS,2009.0,Simulation,Electronic Arts,0.08,0.02,0.0,0.11
+10266,PC,2011.0,Platform,Sega,0.02,0.07,0.0,0.11
+10268,PSP,2013.0,Role-Playing,Sega,0.0,0.0,0.11,0.11
+10273,DS,2009.0,Simulation,Activision,0.1,0.0,0.0,0.11
+10274,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.11,0.11
+10292,PSP,2006.0,Action,Electronic Arts,0.09,0.01,0.0,0.11
+10295,PSP,2007.0,Sports,Ubisoft,0.01,0.09,0.0,0.11
+10296,DS,2009.0,Action,Electronic Arts,0.09,0.01,0.0,0.11
+10303,DS,2009.0,Adventure,Nintendo,0.0,0.0,0.11,0.11
+10307,Wii,2011.0,Action,Activision,0.08,0.02,0.0,0.11
+10316,PSP,2004.0,Puzzle,Namco Bandai Games,0.0,0.0,0.11,0.11
+10322,PSP,2008.0,Misc,Sony Computer Entertainment,0.0,0.03,0.06,0.11
+10330,DS,2006.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.11,0.11
+10337,PSP,2005.0,Action,Konami Digital Entertainment,0.1,0.0,0.0,0.11
+10339,Wii,2009.0,Simulation,THQ,0.1,0.0,0.0,0.11
+10342,DS,2009.0,Misc,Activision,0.09,0.01,0.0,0.11
+10347,PC,2010.0,Action,Ubisoft,0.0,0.08,0.0,0.11
+10350,DS,2005.0,Role-Playing,Nintendo,0.0,0.0,0.11,0.11
+10361,PSP,2006.0,Sports,Electronic Arts,0.1,0.0,0.0,0.11
+10366,DS,2008.0,Misc,Konami Digital Entertainment,0.1,0.0,0.0,0.11
+10367,DS,2009.0,Sports,Activision,0.1,0.0,0.0,0.11
+10368,Wii,2010.0,Action,Ubisoft,0.07,0.03,0.0,0.11
+10371,DS,2009.0,Sports,Sega,0.0,0.0,0.11,0.11
+10376,DS,2007.0,Adventure,Activision,0.09,0.01,0.0,0.11
+10385,PSP,2006.0,Misc,Activision,0.1,0.0,0.0,0.11
+10395,PSP,2012.0,Sports,Namco Bandai Games,0.0,0.0,0.11,0.11
+10399,PSP,2010.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.11,0.11
+10401,DS,2006.0,Action,Activision,0.1,0.0,0.0,0.11
+10403,DS,2009.0,Simulation,Ubisoft,0.1,0.0,0.0,0.11
+10405,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.11,0.11
+10410,PSP,2011.0,Action,Konami Digital Entertainment,0.0,0.0,0.11,0.11
+10412,PSP,2010.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.11,0.11
+10418,Wii,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.1,0.1
+10419,DS,2011.0,Platform,Activision,0.1,0.0,0.0,0.1
+10421,DS,2005.0,Sports,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10435,DS,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10437,DS,2009.0,Sports,Ubisoft,0.1,0.0,0.0,0.1
+10446,Wii,2013.0,Platform,Ubisoft,0.0,0.09,0.0,0.1
+10448,Wii,2012.0,Action,Nintendo,0.0,0.0,0.1,0.1
+10450,DS,2009.0,Sports,Namco Bandai Games,0.0,0.0,0.1,0.1
+10456,DS,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.1,0.1
+10470,Wii,2010.0,Misc,Ubisoft,0.1,0.0,0.0,0.1
+10471,PSP,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.1,0.1
+10472,DS,2009.0,Adventure,Konami Digital Entertainment,0.1,0.0,0.0,0.1
+10475,Wii,2009.0,Racing,Konami Digital Entertainment,0.09,0.01,0.0,0.1
+10477,PSP,2005.0,Sports,Sony Computer Entertainment,0.1,0.0,0.0,0.1
+10480,DS,2007.0,Puzzle,Sega,0.1,0.0,0.0,0.1
+10482,PSP,2006.0,Racing,Sony Computer Entertainment,0.0,0.03,0.07,0.1
+10487,PC,2004.0,Strategy,Activision,0.0,0.08,0.0,0.1
+10502,PSP,2004.0,Misc,Sony Computer Entertainment,0.0,0.0,0.1,0.1
+10505,PSP,2007.0,Simulation,Konami Digital Entertainment,0.09,0.0,0.0,0.1
+10514,Wii,2007.0,Shooter,Electronic Arts,0.06,0.03,0.0,0.1
+10522,DS,2008.0,Strategy,Sega,0.0,0.0,0.1,0.1
+10527,Wii,2010.0,Misc,THQ,0.04,0.05,0.0,0.1
+10528,PSP,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.1,0.1
+10529,DS,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10541,PSP,2007.0,Action,Activision,0.09,0.0,0.0,0.1
+10548,Wii,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.1,0.1
+10549,Wii,2008.0,Misc,Activision,0.09,0.0,0.0,0.1
+10558,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10571,PSP,2013.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.1,0.1
+10572,PC,2004.0,Shooter,Activision,0.05,0.04,0.0,0.1
+10577,DS,2006.0,Action,Nintendo,0.0,0.0,0.1,0.1
+10584,Wii,2008.0,Sports,Activision,0.09,0.0,0.0,0.1
+10589,DS,2012.0,Action,Namco Bandai Games,0.0,0.0,0.1,0.1
+10591,PC,2016.0,Strategy,Sega,0.0,0.1,0.0,0.1
+10592,PSP,2010.0,Shooter,Ubisoft,0.07,0.02,0.0,0.1
+10594,DS,2009.0,Role-Playing,Namco Bandai Games,0.06,0.0,0.03,0.1
+10596,PC,2012.0,Action,Activision,0.07,0.02,0.0,0.1
+10605,DS,2006.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10611,DS,2008.0,Action,Activision,0.09,0.0,0.0,0.1
+10620,Wii,2008.0,Racing,Activision,0.09,0.0,0.0,0.1
+10624,Wii,2008.0,Sports,Activision,0.09,0.01,0.0,0.1
+10626,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.1,0.1
+10643,PC,2010.0,Action,Electronic Arts,0.08,0.02,0.0,0.1
+10651,PC,2011.0,Action,Electronic Arts,0.05,0.04,0.0,0.1
+10665,DS,2007.0,Fighting,Sega,0.0,0.0,0.1,0.1
+10674,Wii,2012.0,Sports,Konami Digital Entertainment,0.0,0.03,0.06,0.1
+10682,DS,2006.0,Action,Ubisoft,0.08,0.01,0.0,0.1
+10685,PSP,2006.0,Racing,Sega,0.0,0.0,0.1,0.1
+10688,DS,2009.0,Simulation,Ubisoft,0.09,0.0,0.0,0.1
+10692,PC,2010.0,Strategy,THQ,0.08,0.01,0.0,0.1
+10701,DS,2010.0,Puzzle,THQ,0.09,0.0,0.0,0.1
+10705,DS,2009.0,Misc,Nintendo,0.0,0.0,0.1,0.1
+10718,Wii,2010.0,Adventure,Activision,0.08,0.01,0.0,0.1
+10719,PC,2009.0,Racing,Electronic Arts,0.0,0.08,0.0,0.1
+10727,Wii,2009.0,Simulation,Activision,0.09,0.0,0.0,0.1
+10739,DS,2007.0,Action,Namco Bandai Games,0.1,0.0,0.0,0.1
+10745,DS,2010.0,Sports,Activision,0.09,0.0,0.0,0.1
+10759,DS,2008.0,Action,Electronic Arts,0.09,0.0,0.0,0.1
+10760,PSP,2009.0,Fighting,Namco Bandai Games,0.09,0.0,0.0,0.1
+10774,DS,2007.0,Role-Playing,Namco Bandai Games,0.09,0.0,0.0,0.1
+10776,DS,2007.0,Sports,Namco Bandai Games,0.0,0.0,0.1,0.1
+10780,PC,2011.0,Action,Activision,0.05,0.03,0.0,0.1
+10781,Wii,2009.0,Simulation,THQ,0.09,0.0,0.0,0.1
+10782,DS,2008.0,Simulation,Nintendo,0.09,0.0,0.0,0.1
+10797,DS,2011.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.1,0.1
+10798,DS,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10799,PSP,2006.0,Action,Ubisoft,0.08,0.01,0.0,0.1
+10804,DS,2010.0,Simulation,Ubisoft,0.08,0.01,0.0,0.1
+10807,DS,2009.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.1,0.1
+10815,PSP,2006.0,Racing,Electronic Arts,0.09,0.0,0.0,0.1
+10818,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.09,0.09
+10835,Wii,2009.0,Sports,Activision,0.09,0.0,0.0,0.09
+10846,PC,2006.0,Strategy,Sega,0.0,0.08,0.0,0.09
+10851,Wii,2011.0,Misc,Electronic Arts,0.02,0.07,0.0,0.09
+10854,DS,2008.0,Sports,Electronic Arts,0.07,0.02,0.0,0.09
+10857,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.09,0.09
+10867,PSP,2010.0,Sports,Activision,0.08,0.0,0.0,0.09
+10877,DS,2006.0,Adventure,THQ,0.08,0.01,0.0,0.09
+10881,DS,2005.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.09,0.09
+10883,PSP,2005.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.09,0.09
+10888,PSP,2005.0,Role-Playing,Namco Bandai Games,0.08,0.0,0.0,0.09
+10899,DS,2005.0,Platform,THQ,0.07,0.02,0.0,0.09
+10906,PSP,2008.0,Puzzle,Sony Computer Entertainment,0.0,0.01,0.08,0.09
+10908,Wii,2011.0,Action,Activision,0.07,0.01,0.0,0.09
+10921,DS,2011.0,Fighting,Namco Bandai Games,0.0,0.0,0.09,0.09
+10924,DS,2009.0,Puzzle,Electronic Arts,0.08,0.01,0.0,0.09
+10944,DS,2008.0,Strategy,Ubisoft,0.08,0.01,0.0,0.09
+10946,DS,2005.0,Platform,THQ,0.09,0.0,0.0,0.09
+10948,PSP,2006.0,Action,Electronic Arts,0.08,0.0,0.0,0.09
+10950,PC,2005.0,Strategy,Electronic Arts,0.01,0.07,0.0,0.09
+10951,PSP,2005.0,Racing,Ubisoft,0.08,0.0,0.0,0.09
+10960,DS,2008.0,Strategy,THQ,0.08,0.0,0.0,0.09
+10985,PC,2011.0,Action,Konami Digital Entertainment,0.0,0.07,0.0,0.09
+11004,DS,2010.0,Misc,Konami Digital Entertainment,0.0,0.0,0.09,0.09
+11012,Wii,2010.0,Shooter,Electronic Arts,0.09,0.0,0.0,0.09
+11014,DS,2005.0,Misc,Sega,0.08,0.0,0.0,0.09
+11022,DS,2008.0,Platform,Sega,0.0,0.0,0.09,0.09
+11025,DS,2010.0,Misc,THQ,0.08,0.0,0.0,0.09
+11037,PSP,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.09,0.09
+11039,PSP,2006.0,Misc,Sega,0.0,0.0,0.09,0.09
+11060,PSP,2007.0,Action,Ubisoft,0.08,0.0,0.0,0.09
+11067,Wii,2009.0,Simulation,Sega,0.07,0.01,0.0,0.09
+11070,PSP,2009.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.09,0.09
+11074,PSP,2009.0,Misc,Electronic Arts,0.08,0.0,0.0,0.09
+11082,PC,2008.0,Simulation,Electronic Arts,0.0,0.07,0.0,0.09
+11092,Wii,2011.0,Misc,Ubisoft,0.08,0.0,0.0,0.09
+11096,PSP,2014.0,Sports,Konami Digital Entertainment,0.0,0.0,0.09,0.09
+11099,Wii,2011.0,Action,Activision,0.06,0.02,0.0,0.09
+11106,DS,2011.0,Strategy,Activision,0.06,0.02,0.0,0.09
+11113,PC,2009.0,Shooter,Electronic Arts,0.0,0.07,0.0,0.09
+11114,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.09,0.09
+11115,Wii,2009.0,Sports,Sega,0.08,0.0,0.0,0.09
+11116,DS,2007.0,Role-Playing,Nintendo,0.0,0.0,0.09,0.09
+11130,DS,2007.0,Platform,THQ,0.08,0.0,0.0,0.09
+11136,Wii,2010.0,Sports,Activision,0.08,0.0,0.0,0.09
+11149,PSP,2006.0,Racing,Activision,0.08,0.0,0.0,0.09
+11157,DS,2008.0,Misc,Ubisoft,0.07,0.01,0.0,0.09
+11172,Wii,2009.0,Misc,Ubisoft,0.08,0.0,0.0,0.09
+11179,PC,2011.0,Shooter,THQ,0.05,0.02,0.0,0.09
+11191,DS,2006.0,Misc,Nintendo,0.0,0.0,0.09,0.09
+11198,Wii,2011.0,Action,THQ,0.05,0.03,0.0,0.09
+11205,DS,2008.0,Misc,Ubisoft,0.08,0.0,0.0,0.09
+11210,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.09,0.09
+11212,PC,2015.0,Strategy,Ubisoft,0.0,0.08,0.0,0.09
+11214,PC,2012.0,Sports,Konami Digital Entertainment,0.0,0.07,0.0,0.09
+11222,DS,2006.0,Action,Sega,0.08,0.0,0.0,0.09
+11225,PSP,2008.0,Racing,Activision,0.08,0.0,0.0,0.09
+11235,PSP,2009.0,Simulation,Ubisoft,0.08,0.0,0.0,0.09
+11250,PSP,2009.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.09
+11266,PSP,2008.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.08,0.08
+11274,DS,2009.0,Simulation,Activision,0.08,0.0,0.0,0.08
+11279,DS,2005.0,Fighting,Electronic Arts,0.08,0.0,0.0,0.08
+11288,PC,2005.0,Shooter,Electronic Arts,0.0,0.07,0.0,0.08
+11289,PSP,2005.0,Puzzle,Ubisoft,0.08,0.0,0.0,0.08
+11292,DS,2010.0,Sports,Konami Digital Entertainment,0.0,0.02,0.06,0.08
+11294,DS,2011.0,Simulation,Activision,0.07,0.01,0.0,0.08
+11303,DS,2008.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11309,PSP,2006.0,Action,Electronic Arts,0.07,0.01,0.0,0.08
+11313,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.08,0.08
+11314,PSP,2010.0,Racing,Activision,0.07,0.0,0.0,0.08
+11320,DS,2010.0,Sports,Ubisoft,0.06,0.01,0.0,0.08
+11333,DS,2008.0,Simulation,Ubisoft,0.08,0.0,0.0,0.08
+11359,PSP,2009.0,Simulation,Ubisoft,0.05,0.02,0.0,0.08
+11360,DS,2006.0,Strategy,THQ,0.05,0.03,0.0,0.08
+11371,DS,2007.0,Platform,Konami Digital Entertainment,0.08,0.0,0.0,0.08
+11373,PSP,2006.0,Platform,Sega,0.05,0.02,0.0,0.08
+11375,DS,2009.0,Simulation,THQ,0.08,0.0,0.0,0.08
+11381,PSP,2005.0,Puzzle,Ubisoft,0.07,0.0,0.0,0.08
+11388,PC,2008.0,Simulation,Electronic Arts,0.0,0.07,0.0,0.08
+11390,DS,2008.0,Role-Playing,Namco Bandai Games,0.08,0.0,0.0,0.08
+11391,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.08
+11397,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.08,0.08
+11403,DS,2009.0,Misc,Ubisoft,0.08,0.0,0.0,0.08
+11406,PSP,2007.0,Puzzle,Sega,0.07,0.0,0.0,0.08
+11407,Wii,2012.0,Simulation,Namco Bandai Games,0.0,0.0,0.08,0.08
+11412,Wii,2010.0,Sports,Activision,0.06,0.01,0.0,0.08
+11414,Wii,2008.0,Sports,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11415,PSP,2009.0,Platform,Ubisoft,0.07,0.0,0.0,0.08
+11420,DS,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11421,DS,2010.0,Simulation,Ubisoft,0.07,0.0,0.0,0.08
+11422,DS,2009.0,Action,Ubisoft,0.05,0.02,0.0,0.08
+11431,DS,2010.0,Sports,Activision,0.08,0.0,0.0,0.08
+11434,Wii,2009.0,Misc,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11436,Wii,2008.0,Strategy,THQ,0.06,0.02,0.0,0.08
+11441,Wii,2006.0,Shooter,Ubisoft,0.06,0.01,0.0,0.08
+11446,PSP,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.08
+11449,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.08,0.08
+11451,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.08,0.08
+11461,Wii,2011.0,Racing,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11466,PC,2010.0,Simulation,Electronic Arts,0.01,0.05,0.0,0.08
+11477,PSP,2010.0,Puzzle,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11485,PC,2011.0,Strategy,THQ,0.0,0.06,0.0,0.08
+11494,Wii,2011.0,Action,Namco Bandai Games,0.0,0.0,0.08,0.08
+11510,PSP,2009.0,Sports,Sony Computer Entertainment,0.07,0.0,0.0,0.08
+11513,PC,2005.0,Simulation,Ubisoft,0.0,0.07,0.0,0.08
+11546,DS,2008.0,Puzzle,Ubisoft,0.07,0.0,0.0,0.08
+11560,DS,2008.0,Sports,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11563,Wii,2008.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11570,PC,2008.0,Racing,Electronic Arts,0.0,0.07,0.0,0.08
+11580,Wii,2009.0,Misc,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11582,PSP,2006.0,Adventure,THQ,0.07,0.01,0.0,0.08
+11586,PSP,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11587,PSP,2007.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.08,0.08
+11595,PSP,2007.0,Role-Playing,Sega,0.07,0.0,0.0,0.08
+11603,PC,2012.0,Platform,Ubisoft,0.0,0.06,0.0,0.08
+11607,Wii,2010.0,Shooter,Sega,0.06,0.01,0.0,0.08
+11609,DS,2009.0,Simulation,Ubisoft,0.0,0.07,0.0,0.08
+11613,PSP,2010.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.08,0.08
+11614,Wii,2007.0,Misc,Ubisoft,0.07,0.0,0.0,0.08
+11632,Wii,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11637,DS,2010.0,Action,THQ,0.07,0.0,0.0,0.08
+11661,DS,2010.0,Sports,Namco Bandai Games,0.0,0.0,0.08,0.08
+11664,PC,2004.0,Racing,Electronic Arts,0.0,0.06,0.0,0.08
+11672,PSP,2005.0,Platform,Namco Bandai Games,0.07,0.0,0.0,0.08
+11676,PC,2012.0,Racing,Electronic Arts,0.0,0.06,0.0,0.08
+11678,PC,2004.0,Strategy,Electronic Arts,0.01,0.06,0.0,0.08
+11683,PSP,2006.0,Platform,Ubisoft,0.07,0.0,0.0,0.08
+11690,Wii,2009.0,Misc,Konami Digital Entertainment,0.07,0.0,0.0,0.08
+11691,PSP,2006.0,Sports,Sony Computer Entertainment,0.07,0.0,0.0,0.08
+11695,DS,2007.0,Fighting,Namco Bandai Games,0.0,0.0,0.08,0.08
+11698,Wii,2008.0,Misc,Nintendo,0.0,0.0,0.08,0.08
+11702,PC,2015.0,Action,Konami Digital Entertainment,0.0,0.07,0.0,0.08
+11705,DS,2006.0,Misc,Ubisoft,0.0,0.0,0.08,0.08
+11720,Wii,2008.0,Action,Nintendo,0.0,0.03,0.04,0.08
+11726,DS,2008.0,Misc,Ubisoft,0.07,0.0,0.0,0.08
+11727,DS,2006.0,Action,Electronic Arts,0.07,0.0,0.0,0.08
+11728,DS,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11730,Wii,2008.0,Action,Activision,0.07,0.0,0.0,0.08
+11732,PSP,2011.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.08,0.08
+11741,DS,2010.0,Misc,THQ,0.07,0.0,0.0,0.07
+11745,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.07,0.07
+11754,PSP,2006.0,Misc,Sega,0.0,0.0,0.07,0.07
+11771,PSP,2005.0,Action,Namco Bandai Games,0.0,0.0,0.07,0.07
+11786,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+11789,DS,2005.0,Puzzle,Sega,0.03,0.0,0.04,0.07
+11792,PC,2011.0,Simulation,Electronic Arts,0.07,0.0,0.0,0.07
+11797,PSP,2012.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+11800,DS,2011.0,Misc,Activision,0.07,0.0,0.0,0.07
+11801,PC,2003.0,Simulation,Electronic Arts,0.0,0.06,0.0,0.07
+11805,DS,2007.0,Adventure,Ubisoft,0.05,0.01,0.0,0.07
+11809,DS,2010.0,Puzzle,Ubisoft,0.0,0.06,0.0,0.07
+11825,DS,2011.0,Misc,THQ,0.07,0.0,0.0,0.07
+11833,PSP,2010.0,Action,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+11855,DS,2008.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+11856,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.07
+11862,DS,2008.0,Adventure,THQ,0.07,0.0,0.0,0.07
+11869,Wii,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+11875,PSP,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.07
+11877,PC,2012.0,Role-Playing,Namco Bandai Games,0.0,0.06,0.0,0.07
+11881,DS,2005.0,Role-Playing,Nintendo,0.07,0.0,0.0,0.07
+11886,PSP,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.07,0.07
+11887,DS,2007.0,Strategy,THQ,0.07,0.0,0.0,0.07
+11891,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.07,0.07
+11901,DS,2009.0,Misc,Nintendo,0.0,0.0,0.07,0.07
+11902,PSP,2009.0,Action,THQ,0.02,0.04,0.0,0.07
+11906,DS,2005.0,Action,Ubisoft,0.06,0.0,0.0,0.07
+11922,DS,2007.0,Puzzle,Nintendo,0.0,0.0,0.07,0.07
+11925,DS,2010.0,Adventure,THQ,0.07,0.0,0.0,0.07
+11928,DS,2006.0,Misc,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+11942,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.07
+11950,PSP,2006.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.07,0.07
+11954,Wii,2006.0,Platform,Ubisoft,0.06,0.0,0.0,0.07
+11955,PC,2009.0,Sports,Sega,0.0,0.06,0.0,0.07
+11959,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+11969,DS,2007.0,Simulation,Electronic Arts,0.0,0.03,0.03,0.07
+11975,DS,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+11995,DS,2009.0,Simulation,Konami Digital Entertainment,0.06,0.01,0.0,0.07
+11999,PC,2007.0,Simulation,Electronic Arts,0.01,0.04,0.0,0.07
+12002,PSP,2008.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+12014,DS,2006.0,Action,Namco Bandai Games,0.0,0.0,0.07,0.07
+12018,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.07,0.07
+12031,DS,2008.0,Adventure,Ubisoft,0.06,0.0,0.0,0.07
+12034,DS,2010.0,Misc,Konami Digital Entertainment,0.0,0.0,0.07,0.07
+12038,Wii,2008.0,Shooter,Konami Digital Entertainment,0.06,0.0,0.0,0.07
+12043,DS,2005.0,Strategy,Namco Bandai Games,0.06,0.0,0.0,0.07
+12047,PC,2015.0,Action,Ubisoft,0.04,0.02,0.0,0.07
+12053,Wii,2010.0,Fighting,Sega,0.04,0.02,0.0,0.07
+12056,DS,2008.0,Strategy,Sega,0.0,0.0,0.07,0.07
+12057,DS,2011.0,Action,Activision,0.05,0.01,0.0,0.07
+12066,PC,2007.0,Strategy,Electronic Arts,0.0,0.06,0.0,0.07
+12068,DS,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+12099,Wii,2010.0,Sports,Namco Bandai Games,0.0,0.06,0.0,0.07
+12123,Wii,2010.0,Sports,Nintendo,0.0,0.06,0.0,0.07
+12126,DS,2007.0,Adventure,Konami Digital Entertainment,0.01,0.01,0.05,0.07
+12150,DS,2010.0,Shooter,Activision,0.05,0.01,0.0,0.07
+12151,DS,2008.0,Simulation,Ubisoft,0.05,0.01,0.0,0.07
+12152,DS,2006.0,Misc,Nintendo,0.0,0.0,0.07,0.07
+12158,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.07
+12159,DS,2008.0,Action,Ubisoft,0.06,0.01,0.0,0.07
+12169,PSP,2010.0,Sports,Activision,0.06,0.0,0.0,0.07
+12185,DS,2008.0,Misc,Electronic Arts,0.06,0.0,0.0,0.07
+12186,PSP,2009.0,Simulation,Ubisoft,0.06,0.0,0.0,0.07
+12195,DS,2007.0,Role-Playing,Sega,0.0,0.0,0.07,0.07
+12227,PC,2014.0,Sports,Konami Digital Entertainment,0.0,0.06,0.0,0.07
+12236,DS,2007.0,Strategy,THQ,0.05,0.01,0.0,0.07
+12251,DS,2009.0,Misc,Ubisoft,0.06,0.0,0.0,0.06
+12252,DS,2007.0,Role-Playing,Electronic Arts,0.06,0.0,0.0,0.06
+12260,PSP,2006.0,Shooter,Konami Digital Entertainment,0.04,0.0,0.02,0.06
+12271,Wii,2008.0,Fighting,Sega,0.0,0.0,0.06,0.06
+12277,PSP,2006.0,Shooter,Activision,0.06,0.0,0.0,0.06
+12285,DS,2005.0,Platform,Konami Digital Entertainment,0.06,0.0,0.0,0.06
+12288,DS,2011.0,Simulation,THQ,0.06,0.0,0.0,0.06
+12292,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12293,PSP,2011.0,Misc,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12297,PSP,2006.0,Fighting,Namco Bandai Games,0.0,0.0,0.06,0.06
+12303,DS,2004.0,Adventure,Ubisoft,0.06,0.0,0.0,0.06
+12312,Wii,2009.0,Adventure,Nintendo,0.0,0.03,0.03,0.06
+12320,Wii,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12322,DS,2007.0,Strategy,Ubisoft,0.0,0.06,0.0,0.06
+12325,PSP,2008.0,Role-Playing,Sega,0.06,0.0,0.0,0.06
+12337,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12357,DS,2005.0,Misc,Nintendo,0.0,0.0,0.06,0.06
+12361,Wii,2007.0,Role-Playing,Sega,0.06,0.0,0.0,0.06
+12362,DS,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.06
+12371,PSP,2011.0,Misc,Sony Computer Entertainment,0.0,0.05,0.0,0.06
+12375,PSP,2011.0,Fighting,Namco Bandai Games,0.0,0.0,0.06,0.06
+12377,DS,2006.0,Strategy,Ubisoft,0.05,0.01,0.0,0.06
+12379,PSP,2006.0,Action,Namco Bandai Games,0.05,0.0,0.0,0.06
+12383,PC,2010.0,Racing,Activision,0.01,0.04,0.0,0.06
+12408,PC,2005.0,Shooter,Activision,0.0,0.05,0.0,0.06
+12409,DS,2011.0,Simulation,THQ,0.06,0.0,0.0,0.06
+12424,DS,2006.0,Action,Konami Digital Entertainment,0.03,0.02,0.0,0.06
+12431,Wii,2015.0,Action,Namco Bandai Games,0.0,0.06,0.0,0.06
+12435,Wii,2008.0,Puzzle,Ubisoft,0.05,0.01,0.0,0.06
+12446,DS,2009.0,Simulation,Ubisoft,0.06,0.0,0.0,0.06
+12451,DS,2009.0,Strategy,Sega,0.0,0.0,0.06,0.06
+12452,PC,2009.0,Shooter,Namco Bandai Games,0.0,0.05,0.0,0.06
+12460,PSP,2007.0,Shooter,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12461,DS,2011.0,Action,Activision,0.05,0.01,0.0,0.06
+12467,DS,2008.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12468,Wii,2009.0,Adventure,Ubisoft,0.05,0.01,0.0,0.06
+12475,PSP,2010.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12480,DS,2007.0,Misc,Activision,0.05,0.0,0.0,0.06
+12483,DS,2008.0,Puzzle,THQ,0.06,0.0,0.0,0.06
+12486,DS,2008.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.06,0.06
+12493,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12499,DS,2011.0,Misc,Nintendo,0.0,0.0,0.06,0.06
+12502,Wii,2011.0,Sports,Ubisoft,0.0,0.05,0.0,0.06
+12524,PSP,2006.0,Action,Activision,0.05,0.01,0.0,0.06
+12530,PSP,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12537,PSP,2006.0,Action,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12540,PC,2009.0,Racing,Electronic Arts,0.0,0.05,0.0,0.06
+12542,DS,2008.0,Sports,Activision,0.06,0.0,0.0,0.06
+12547,PC,2010.0,Action,Electronic Arts,0.04,0.01,0.0,0.06
+12565,PSP,2005.0,Sports,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12575,DS,2010.0,Strategy,Ubisoft,0.05,0.0,0.0,0.06
+12581,DS,2005.0,Action,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12587,DS,2006.0,Sports,Electronic Arts,0.05,0.01,0.0,0.06
+12596,PSP,2012.0,Simulation,Namco Bandai Games,0.0,0.0,0.06,0.06
+12605,PC,2010.0,Sports,Konami Digital Entertainment,0.0,0.05,0.0,0.06
+12619,DS,2006.0,Misc,Nintendo,0.0,0.0,0.06,0.06
+12620,DS,2008.0,Adventure,Konami Digital Entertainment,0.03,0.02,0.0,0.06
+12621,DS,2011.0,Simulation,Ubisoft,0.05,0.0,0.0,0.06
+12622,PC,2007.0,Shooter,THQ,0.01,0.04,0.0,0.06
+12627,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12628,DS,2008.0,Strategy,Namco Bandai Games,0.0,0.0,0.06,0.06
+12634,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12637,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.06,0.06
+12647,DS,2007.0,Sports,Electronic Arts,0.05,0.0,0.0,0.06
+12650,PSP,2012.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.06,0.06
+12653,DS,2006.0,Puzzle,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12655,PC,2009.0,Action,Electronic Arts,0.0,0.05,0.0,0.06
+12671,DS,2010.0,Adventure,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12672,PC,2005.0,Simulation,Electronic Arts,0.01,0.04,0.0,0.06
+12676,DS,2008.0,Sports,Ubisoft,0.05,0.0,0.0,0.06
+12684,PC,2001.0,Action,Electronic Arts,0.01,0.04,0.0,0.06
+12685,PSP,2009.0,Sports,Sony Computer Entertainment,0.0,0.0,0.06,0.06
+12703,PC,2009.0,Platform,Electronic Arts,0.0,0.05,0.0,0.06
+12706,PSP,2006.0,Misc,Sega,0.0,0.0,0.06,0.06
+12713,PSP,2011.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12716,PC,2006.0,Role-Playing,THQ,0.01,0.04,0.0,0.06
+12718,PSP,2009.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12738,DS,2005.0,Sports,Electronic Arts,0.05,0.0,0.0,0.06
+12739,Wii,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.06,0.06
+12756,PSP,2013.0,Action,Namco Bandai Games,0.0,0.0,0.06,0.06
+12772,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.06,0.06
+12775,DS,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.06,0.06
+12793,DS,2009.0,Simulation,Ubisoft,0.05,0.0,0.0,0.06
+12817,PSP,2006.0,Misc,Activision,0.05,0.0,0.0,0.06
+12818,PSP,2006.0,Platform,Konami Digital Entertainment,0.05,0.0,0.0,0.06
+12829,PC,2007.0,Shooter,Electronic Arts,0.0,0.04,0.0,0.05
+12836,PC,2011.0,Simulation,Ubisoft,0.0,0.04,0.0,0.05
+12839,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.05,0.05
+12840,PSP,2007.0,Sports,Sega,0.02,0.03,0.0,0.05
+12842,DS,2006.0,Action,Konami Digital Entertainment,0.05,0.0,0.0,0.05
+12874,PSP,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.05,0.05
+12890,DS,2008.0,Adventure,Ubisoft,0.05,0.0,0.0,0.05
+12892,DS,2006.0,Misc,Sega,0.0,0.0,0.05,0.05
+12899,PC,2016.0,Role-Playing,Namco Bandai Games,0.0,0.05,0.0,0.05
+12901,PC,2010.0,Action,Ubisoft,0.0,0.04,0.0,0.05
+12907,Wii,2009.0,Puzzle,Sega,0.0,0.0,0.05,0.05
+12908,DS,2010.0,Simulation,Activision,0.05,0.0,0.0,0.05
+12909,DS,2010.0,Simulation,Ubisoft,0.05,0.0,0.0,0.05
+12914,Wii,2013.0,Misc,Namco Bandai Games,0.0,0.0,0.05,0.05
+12924,DS,2010.0,Racing,Ubisoft,0.03,0.02,0.0,0.05
+12938,PC,2016.0,Sports,Electronic Arts,0.0,0.05,0.0,0.05
+13015,DS,2008.0,Role-Playing,Sega,0.0,0.0,0.05,0.05
+13022,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.05,0.05
+13024,DS,2006.0,Puzzle,Nintendo,0.0,0.0,0.05,0.05
+13034,DS,2006.0,Role-Playing,Sega,0.0,0.0,0.05,0.05
+13049,DS,2004.0,Sports,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13052,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.05,0.05
+13061,DS,2009.0,Misc,Ubisoft,0.05,0.0,0.0,0.05
+13063,DS,2005.0,Adventure,Activision,0.05,0.0,0.0,0.05
+13068,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.05
+13071,PSP,2006.0,Platform,Activision,0.05,0.0,0.0,0.05
+13073,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.05,0.05
+13076,DS,2006.0,Misc,Nintendo,0.0,0.0,0.05,0.05
+13082,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.05,0.05
+13100,PC,2016.0,Platform,Electronic Arts,0.01,0.03,0.0,0.05
+13105,Wii,2009.0,Strategy,Namco Bandai Games,0.0,0.0,0.05,0.05
+13128,DS,2012.0,Action,Namco Bandai Games,0.0,0.0,0.05,0.05
+13135,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.05
+13139,PC,2004.0,Strategy,THQ,0.01,0.03,0.0,0.05
+13140,PSP,2006.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.05
+13151,PC,2006.0,Racing,Electronic Arts,0.0,0.04,0.0,0.05
+13153,DS,2008.0,Platform,Ubisoft,0.03,0.01,0.0,0.05
+13163,Wii,2011.0,Misc,Namco Bandai Games,0.04,0.01,0.0,0.05
+13165,DS,2006.0,Misc,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13177,DS,2007.0,Strategy,Konami Digital Entertainment,0.0,0.01,0.04,0.05
+13189,PC,2009.0,Action,Activision,0.02,0.03,0.0,0.05
+13190,Wii,2012.0,Misc,Nintendo,0.0,0.05,0.0,0.05
+13191,PSP,2006.0,Racing,Activision,0.04,0.0,0.0,0.05
+13193,DS,2008.0,Misc,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13205,Wii,2006.0,Strategy,Namco Bandai Games,0.0,0.0,0.05,0.05
+13214,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13225,PC,2003.0,Racing,Electronic Arts,0.0,0.04,0.0,0.05
+13231,DS,2007.0,Platform,THQ,0.04,0.0,0.0,0.05
+13245,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13250,PC,2004.0,Shooter,Ubisoft,0.0,0.04,0.0,0.05
+13253,DS,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.05
+13268,PSP,2011.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.05,0.05
+13271,DS,2011.0,Sports,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13274,PC,2009.0,Sports,Electronic Arts,0.0,0.04,0.0,0.05
+13281,PSP,2007.0,Sports,Namco Bandai Games,0.01,0.01,0.01,0.05
+13283,DS,2008.0,Action,Konami Digital Entertainment,0.0,0.0,0.05,0.05
+13287,PC,2000.0,Simulation,Electronic Arts,0.01,0.03,0.0,0.05
+13289,DS,2008.0,Simulation,Ubisoft,0.04,0.0,0.0,0.05
+13296,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.05,0.05
+13301,PC,2006.0,Strategy,THQ,0.0,0.04,0.0,0.05
+13306,PC,2007.0,Simulation,Ubisoft,0.0,0.04,0.0,0.05
+13314,Wii,2009.0,Adventure,Nintendo,0.0,0.0,0.05,0.05
+13317,PSP,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.05
+13320,PSP,2006.0,Adventure,Namco Bandai Games,0.04,0.0,0.0,0.05
+13323,Wii,2006.0,Misc,Activision,0.04,0.0,0.0,0.05
+13335,Wii,2006.0,Simulation,Konami Digital Entertainment,0.03,0.01,0.01,0.05
+13338,PC,2007.0,Strategy,THQ,0.0,0.04,0.0,0.05
+13341,Wii,2011.0,Strategy,Namco Bandai Games,0.0,0.0,0.05,0.05
+13343,DS,2010.0,Racing,Ubisoft,0.04,0.0,0.0,0.05
+13348,PSP,2006.0,Role-Playing,Konami Digital Entertainment,0.04,0.0,0.0,0.05
+13349,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.05,0.05
+13358,PC,2011.0,Sports,Electronic Arts,0.0,0.03,0.0,0.05
+13362,DS,2007.0,Action,Ubisoft,0.03,0.01,0.0,0.05
+13365,PSP,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.05,0.05
+13377,PSP,2006.0,Misc,Sony Computer Entertainment,0.04,0.0,0.0,0.05
+13406,PC,2009.0,Shooter,Activision,0.01,0.03,0.0,0.05
+13409,PSP,2006.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.05,0.05
+13416,PSP,2008.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.05,0.05
+13425,DS,2006.0,Misc,Nintendo,0.0,0.0,0.05,0.05
+13427,DS,2009.0,Adventure,Ubisoft,0.03,0.01,0.0,0.05
+13430,PC,2009.0,Action,Ubisoft,0.0,0.04,0.0,0.05
+13436,PC,2016.0,Shooter,Electronic Arts,0.0,0.04,0.0,0.05
+13455,DS,2008.0,Simulation,Ubisoft,0.04,0.0,0.0,0.04
+13457,DS,2006.0,Action,THQ,0.04,0.0,0.0,0.04
+13462,PSP,2006.0,Sports,Activision,0.04,0.0,0.0,0.04
+13481,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13483,PC,2009.0,Action,Ubisoft,0.0,0.03,0.0,0.04
+13491,DS,2008.0,Misc,Nintendo,0.0,0.0,0.04,0.04
+13504,PC,2006.0,Simulation,Ubisoft,0.0,0.04,0.0,0.04
+13513,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13516,DS,2006.0,Sports,Electronic Arts,0.04,0.0,0.0,0.04
+13522,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.04
+13523,Wii,2009.0,Misc,Nintendo,0.0,0.0,0.04,0.04
+13532,PSP,2006.0,Misc,Sony Computer Entertainment,0.0,0.0,0.04,0.04
+13542,Wii,2010.0,Adventure,Konami Digital Entertainment,0.04,0.0,0.0,0.04
+13563,PC,2007.0,Racing,Electronic Arts,0.0,0.04,0.0,0.04
+13566,PC,2015.0,Sports,Konami Digital Entertainment,0.0,0.04,0.0,0.04
+13584,PSP,2006.0,Misc,Konami Digital Entertainment,0.02,0.0,0.02,0.04
+13589,Wii,2006.0,Action,THQ,0.04,0.0,0.0,0.04
+13616,PC,2006.0,Simulation,Electronic Arts,0.01,0.02,0.0,0.04
+13619,DS,2007.0,Puzzle,Ubisoft,0.03,0.01,0.0,0.04
+13622,PC,2002.0,Simulation,Electronic Arts,0.01,0.02,0.0,0.04
+13628,DS,2005.0,Misc,Sega,0.0,0.0,0.04,0.04
+13630,PC,2001.0,Strategy,Electronic Arts,0.0,0.04,0.0,0.04
+13631,PC,2011.0,Adventure,Ubisoft,0.01,0.02,0.0,0.04
+13633,PC,2009.0,Strategy,THQ,0.0,0.03,0.0,0.04
+13640,DS,2006.0,Misc,Nintendo,0.0,0.0,0.04,0.04
+13645,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13656,PSP,2006.0,Racing,Namco Bandai Games,0.04,0.0,0.0,0.04
+13658,PC,2006.0,Strategy,Ubisoft,0.0,0.03,0.0,0.04
+13660,DS,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.04,0.04
+13661,PSP,2008.0,Action,Konami Digital Entertainment,0.04,0.0,0.0,0.04
+13662,PC,2011.0,Sports,Sega,0.0,0.03,0.0,0.04
+13669,PSP,2005.0,Puzzle,Sony Computer Entertainment,0.04,0.0,0.0,0.04
+13679,DS,2008.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.04,0.04
+13682,PC,2009.0,Misc,Sega,0.0,0.04,0.0,0.04
+13687,DS,2010.0,Simulation,THQ,0.04,0.0,0.0,0.04
+13691,DS,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.04,0.04
+13700,DS,2009.0,Puzzle,Namco Bandai Games,0.0,0.0,0.04,0.04
+13703,PC,2007.0,Strategy,THQ,0.01,0.03,0.0,0.04
+13712,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13714,PSP,2006.0,Racing,Sega,0.03,0.01,0.0,0.04
+13734,PSP,2009.0,Action,Konami Digital Entertainment,0.0,0.0,0.04,0.04
+13756,DS,2010.0,Misc,Ubisoft,0.04,0.0,0.0,0.04
+13758,PSP,2009.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.04,0.04
+13760,PSP,2013.0,Sports,Sega,0.0,0.0,0.04,0.04
+13768,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.04
+13774,DS,2009.0,Simulation,Ubisoft,0.04,0.0,0.0,0.04
+13788,DS,2007.0,Misc,Ubisoft,0.0,0.04,0.0,0.04
+13791,PC,2010.0,Adventure,Ubisoft,0.0,0.03,0.0,0.04
+13801,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.04,0.04
+13805,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.04
+13807,Wii,2010.0,Fighting,Namco Bandai Games,0.0,0.0,0.04,0.04
+13811,DS,2007.0,Shooter,Ubisoft,0.03,0.0,0.0,0.04
+13813,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.04
+13825,PC,2014.0,Action,Konami Digital Entertainment,0.01,0.03,0.0,0.04
+13831,PC,2010.0,Role-Playing,Electronic Arts,0.0,0.03,0.0,0.04
+13833,PC,2005.0,Simulation,Activision,0.01,0.03,0.0,0.04
+13836,PC,2015.0,Simulation,Electronic Arts,0.0,0.04,0.0,0.04
+13840,DS,2005.0,Misc,Namco Bandai Games,0.0,0.0,0.04,0.04
+13851,DS,2006.0,Sports,Electronic Arts,0.03,0.0,0.0,0.04
+13852,PC,2007.0,Strategy,THQ,0.01,0.02,0.0,0.04
+13860,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13874,PC,2007.0,Action,Electronic Arts,0.0,0.03,0.0,0.04
+13889,Wii,2009.0,Misc,Ubisoft,0.03,0.0,0.0,0.04
+13893,PSP,2005.0,Racing,Sony Computer Entertainment,0.02,0.01,0.0,0.04
+13894,PSP,2006.0,Puzzle,Namco Bandai Games,0.0,0.0,0.04,0.04
+13901,DS,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13904,PC,2009.0,Action,THQ,0.0,0.03,0.0,0.04
+13905,PC,2004.0,Action,Electronic Arts,0.0,0.03,0.0,0.04
+13920,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13922,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+13932,PSP,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.04
+13935,DS,2006.0,Shooter,Activision,0.03,0.0,0.0,0.04
+13941,DS,2007.0,Sports,Ubisoft,0.03,0.0,0.0,0.04
+13947,DS,2006.0,Role-Playing,Nintendo,0.0,0.0,0.04,0.04
+13957,DS,2008.0,Simulation,Konami Digital Entertainment,0.03,0.0,0.0,0.04
+14012,DS,2007.0,Misc,Sega,0.0,0.0,0.04,0.04
+14015,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.04,0.04
+14022,Wii,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.04,0.04
+14028,PC,2009.0,Strategy,Ubisoft,0.0,0.03,0.0,0.04
+14051,PC,2010.0,Role-Playing,Sega,0.0,0.03,0.0,0.04
+14054,PC,2006.0,Simulation,Ubisoft,0.0,0.03,0.0,0.04
+14057,PSP,2006.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.04,0.04
+14058,Wii,2009.0,Misc,Ubisoft,0.03,0.0,0.0,0.04
+14060,DS,2010.0,Simulation,Ubisoft,0.03,0.0,0.0,0.04
+14072,DS,2005.0,Role-Playing,Konami Digital Entertainment,0.03,0.0,0.0,0.04
+14089,PC,2003.0,Shooter,Activision,0.0,0.03,0.0,0.04
+14095,PC,2014.0,Role-Playing,Ubisoft,0.0,0.03,0.0,0.04
+14096,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.04,0.04
+14118,PSP,2009.0,Puzzle,Sega,0.0,0.0,0.03,0.03
+14121,PSP,2006.0,Action,Namco Bandai Games,0.03,0.0,0.0,0.03
+14126,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14131,PSP,2007.0,Racing,THQ,0.03,0.0,0.0,0.03
+14151,Wii,2007.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14166,PSP,2006.0,Racing,Sony Computer Entertainment,0.03,0.0,0.0,0.03
+14174,Wii,2007.0,Misc,Ubisoft,0.0,0.03,0.0,0.03
+14177,PSP,2006.0,Role-Playing,Ubisoft,0.03,0.0,0.0,0.03
+14182,Wii,2007.0,Sports,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14189,DS,2008.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14192,DS,2005.0,Misc,Nintendo,0.01,0.0,0.02,0.03
+14199,PSP,2009.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14204,PC,2009.0,Shooter,THQ,0.0,0.03,0.0,0.03
+14215,Wii,2013.0,Action,Namco Bandai Games,0.0,0.03,0.0,0.03
+14219,PC,2009.0,Shooter,Ubisoft,0.0,0.03,0.0,0.03
+14235,PC,2006.0,Simulation,Electronic Arts,0.0,0.03,0.0,0.03
+14238,PC,2010.0,Action,Ubisoft,0.0,0.03,0.0,0.03
+14239,DS,2010.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14243,PC,2014.0,Racing,Ubisoft,0.0,0.03,0.0,0.03
+14260,DS,2007.0,Strategy,Nintendo,0.0,0.0,0.03,0.03
+14263,PSP,2005.0,Racing,Konami Digital Entertainment,0.03,0.0,0.0,0.03
+14265,PC,2006.0,Strategy,Sega,0.0,0.03,0.0,0.03
+14272,DS,2010.0,Misc,Ubisoft,0.03,0.0,0.0,0.03
+14294,DS,2008.0,Fighting,Namco Bandai Games,0.0,0.0,0.03,0.03
+14305,PSP,2007.0,Platform,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14333,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.03
+14341,DS,2007.0,Misc,Konami Digital Entertainment,0.01,0.0,0.02,0.03
+14343,DS,2010.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14361,PSP,2006.0,Role-Playing,Namco Bandai Games,0.03,0.0,0.0,0.03
+14366,PC,2003.0,Simulation,Ubisoft,0.0,0.03,0.0,0.03
+14367,PSP,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.03
+14376,Wii,2007.0,Role-Playing,Nintendo,0.0,0.0,0.03,0.03
+14388,PC,2003.0,Platform,Ubisoft,0.0,0.03,0.0,0.03
+14395,PC,2007.0,Action,THQ,0.01,0.01,0.0,0.03
+14407,PC,2010.0,Sports,Ubisoft,0.0,0.03,0.0,0.03
+14413,PC,2009.0,Action,Electronic Arts,0.0,0.03,0.0,0.03
+14422,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14423,DS,2008.0,Action,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14435,PSP,2006.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14439,PC,2015.0,Action,Activision,0.0,0.03,0.0,0.03
+14444,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.03,0.03
+14449,DS,2010.0,Action,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14450,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.03,0.03
+14453,Wii,2011.0,Misc,Konami Digital Entertainment,0.0,0.03,0.0,0.03
+14454,Wii,2008.0,Misc,Ubisoft,0.0,0.03,0.0,0.03
+14468,DS,2010.0,Sports,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14478,PSP,2007.0,Sports,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14480,PC,2007.0,Action,Ubisoft,0.0,0.02,0.0,0.03
+14495,DS,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14499,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14506,DS,2009.0,Adventure,Sega,0.0,0.0,0.03,0.03
+14510,PC,2011.0,Misc,THQ,0.03,0.0,0.0,0.03
+14519,DS,2009.0,Simulation,Ubisoft,0.01,0.01,0.0,0.03
+14520,PSP,2006.0,Strategy,Ubisoft,0.02,0.01,0.0,0.03
+14530,PC,2016.0,Racing,Electronic Arts,0.0,0.03,0.0,0.03
+14539,Wii,2010.0,Strategy,Namco Bandai Games,0.0,0.0,0.03,0.03
+14546,PSP,2008.0,Misc,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14547,PC,2008.0,Action,Activision,0.01,0.01,0.0,0.03
+14550,DS,2009.0,Racing,Activision,0.03,0.0,0.0,0.03
+14563,DS,2007.0,Adventure,THQ,0.03,0.0,0.0,0.03
+14565,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.03,0.0,0.03
+14569,PC,2009.0,Simulation,THQ,0.0,0.02,0.0,0.03
+14570,DS,2008.0,Action,Activision,0.02,0.0,0.0,0.03
+14572,PSP,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14573,PSP,2007.0,Sports,Sony Computer Entertainment,0.03,0.0,0.0,0.03
+14586,PC,2004.0,Shooter,Electronic Arts,0.01,0.01,0.0,0.03
+14587,DS,2007.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14598,Wii,2007.0,Racing,Ubisoft,0.01,0.01,0.0,0.03
+14627,PC,2009.0,Action,Activision,0.01,0.01,0.0,0.03
+14629,PSP,2010.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14632,DS,2010.0,Misc,Nintendo,0.0,0.02,0.0,0.03
+14644,DS,2009.0,Action,Sega,0.0,0.0,0.03,0.03
+14654,PC,2008.0,Misc,Ubisoft,0.0,0.02,0.0,0.03
+14655,PC,2004.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.03
+14657,PSP,2011.0,Misc,Sony Computer Entertainment,0.0,0.02,0.0,0.03
+14662,DS,2005.0,Action,Konami Digital Entertainment,0.0,0.0,0.03,0.03
+14663,PC,2006.0,Action,Ubisoft,0.0,0.02,0.0,0.03
+14679,PC,2010.0,Misc,Namco Bandai Games,0.0,0.02,0.0,0.03
+14695,PC,2008.0,Action,Ubisoft,0.0,0.02,0.0,0.03
+14702,PC,2013.0,Action,Namco Bandai Games,0.0,0.02,0.0,0.03
+14717,Wii,2007.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14728,PC,2008.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.03
+14735,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14736,DS,2007.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.03,0.03
+14744,PSP,2009.0,Fighting,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14746,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14767,PC,2007.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.03
+14772,DS,2006.0,Action,Konami Digital Entertainment,0.02,0.0,0.0,0.03
+14783,PC,2006.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.03
+14840,DS,2010.0,Simulation,Ubisoft,0.02,0.0,0.0,0.03
+14854,PC,2009.0,Action,Electronic Arts,0.0,0.02,0.0,0.03
+14862,Wii,2008.0,Sports,Namco Bandai Games,0.0,0.0,0.03,0.03
+14872,PC,2002.0,Shooter,Electronic Arts,0.01,0.01,0.0,0.03
+14875,PC,2009.0,Action,Activision,0.02,0.0,0.0,0.03
+14895,PSP,2009.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.03
+14908,PSP,2006.0,Sports,Sony Computer Entertainment,0.0,0.0,0.03,0.03
+14916,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+14935,DS,2008.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.02
+14940,PC,2007.0,Strategy,Ubisoft,0.01,0.01,0.0,0.02
+14950,PSP,2005.0,Sports,Sega,0.0,0.0,0.02,0.02
+14951,PSP,2007.0,Misc,Activision,0.02,0.0,0.0,0.02
+14967,PSP,2006.0,Action,Konami Digital Entertainment,0.02,0.0,0.0,0.02
+14980,DS,2010.0,Adventure,Sega,0.0,0.0,0.02,0.02
+15004,PC,2008.0,Shooter,Ubisoft,0.0,0.02,0.0,0.02
+15013,DS,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.02
+15014,PC,2007.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.02
+15021,Wii,2014.0,Action,Namco Bandai Games,0.0,0.02,0.0,0.02
+15023,PC,2008.0,Shooter,Ubisoft,0.0,0.02,0.0,0.02
+15032,PC,2008.0,Action,Activision,0.0,0.02,0.0,0.02
+15054,DS,2007.0,Action,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15061,DS,2006.0,Strategy,Namco Bandai Games,0.02,0.0,0.0,0.02
+15064,Wii,2009.0,Adventure,Sega,0.0,0.0,0.02,0.02
+15084,PSP,2010.0,Action,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15087,PC,2009.0,Strategy,Ubisoft,0.0,0.02,0.0,0.02
+15089,PC,2008.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.02
+15105,PC,2008.0,Shooter,THQ,0.0,0.02,0.0,0.02
+15109,PC,2009.0,Adventure,Ubisoft,0.0,0.02,0.0,0.02
+15113,PSP,2005.0,Misc,Sony Computer Entertainment,0.0,0.0,0.02,0.02
+15122,PC,2009.0,Action,Konami Digital Entertainment,0.0,0.02,0.0,0.02
+15127,PC,2009.0,Action,Activision,0.02,0.0,0.0,0.02
+15138,PC,2014.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.02
+15143,PC,2003.0,Simulation,Ubisoft,0.0,0.02,0.0,0.02
+15182,PC,2005.0,Shooter,Activision,0.0,0.02,0.0,0.02
+15205,PC,2008.0,Sports,Electronic Arts,0.0,0.02,0.0,0.02
+15206,PC,2006.0,Strategy,Electronic Arts,0.01,0.01,0.0,0.02
+15221,DS,2008.0,Sports,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15229,PC,2004.0,Role-Playing,Ubisoft,0.0,0.02,0.0,0.02
+15231,PC,2005.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.02
+15232,PC,2008.0,Strategy,Electronic Arts,0.0,0.02,0.0,0.02
+15236,PSP,2007.0,Puzzle,Sega,0.0,0.0,0.02,0.02
+15246,PSP,2006.0,Strategy,Sega,0.0,0.0,0.02,0.02
+15254,DS,2007.0,Action,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15257,PC,2008.0,Action,Activision,0.0,0.02,0.0,0.02
+15272,PC,2006.0,Strategy,Electronic Arts,0.01,0.01,0.0,0.02
+15291,PC,2009.0,Strategy,Sega,0.0,0.02,0.0,0.02
+15299,DS,2006.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15302,PC,2007.0,Platform,Activision,0.02,0.0,0.0,0.02
+15329,PC,2007.0,Role-Playing,Electronic Arts,0.0,0.02,0.0,0.02
+15356,Wii,2008.0,Fighting,Namco Bandai Games,0.0,0.0,0.02,0.02
+15368,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.02
+15370,Wii,2007.0,Adventure,Ubisoft,0.0,0.02,0.0,0.02
+15375,PSP,2006.0,Strategy,Namco Bandai Games,0.0,0.0,0.02,0.02
+15377,PC,2006.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.02
+15386,PSP,2006.0,Misc,Sony Computer Entertainment,0.0,0.0,0.02,0.02
+15389,PC,2012.0,Racing,Namco Bandai Games,0.0,0.02,0.0,0.02
+15391,PSP,2006.0,Misc,Sega,0.0,0.0,0.02,0.02
+15423,PC,2008.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.02
+15427,PC,2006.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.02
+15429,PC,2006.0,Sports,Sega,0.0,0.02,0.0,0.02
+15431,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.02
+15443,PC,2008.0,Sports,Electronic Arts,0.0,0.02,0.0,0.02
+15444,DS,2007.0,Puzzle,Activision,0.02,0.0,0.0,0.02
+15450,DS,2014.0,Action,Namco Bandai Games,0.02,0.0,0.0,0.02
+15459,PSP,2008.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.02,0.02
+15462,PC,2008.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.02
+15477,PSP,2013.0,Fighting,Namco Bandai Games,0.0,0.0,0.02,0.02
+15480,PC,2009.0,Shooter,Activision,0.02,0.0,0.0,0.02
+15485,PC,2008.0,Strategy,THQ,0.0,0.02,0.0,0.02
+15510,PC,2003.0,Adventure,Ubisoft,0.0,0.02,0.0,0.02
+15516,PSP,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.02
+15522,PC,2011.0,Racing,Ubisoft,0.0,0.01,0.0,0.02
+15556,DS,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.02
+15572,PC,2015.0,Action,Ubisoft,0.0,0.02,0.0,0.02
+15588,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.02
+15601,PC,2008.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.02
+15605,PC,2010.0,Shooter,Activision,0.02,0.0,0.0,0.02
+15616,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.02
+15636,Wii,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.02
+15669,PSP,2010.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15680,PSP,2006.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15682,DS,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15699,PC,2008.0,Action,Ubisoft,0.0,0.01,0.0,0.02
+15709,PSP,2013.0,Strategy,Namco Bandai Games,0.0,0.0,0.02,0.02
+15745,PC,2006.0,Action,Activision,0.0,0.01,0.0,0.02
+15747,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.02
+15750,PC,2006.0,Simulation,Ubisoft,0.01,0.0,0.0,0.02
+15751,DS,2007.0,Misc,Konami Digital Entertainment,0.0,0.0,0.02,0.02
+15759,DS,2010.0,Puzzle,Konami Digital Entertainment,0.01,0.0,0.0,0.02
+15795,PC,2006.0,Simulation,Ubisoft,0.0,0.01,0.0,0.02
+15797,PC,2008.0,Platform,THQ,0.0,0.01,0.0,0.02
+15802,DS,2009.0,Sports,Electronic Arts,0.0,0.01,0.0,0.02
+15805,DS,2007.0,Misc,Konami Digital Entertainment,0.02,0.0,0.0,0.02
+15807,DS,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.02
+15818,PC,2010.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.02
+15819,PC,2005.0,Action,THQ,0.01,0.0,0.0,0.02
+15827,DS,2008.0,Misc,Sega,0.0,0.0,0.02,0.02
+15837,PC,2007.0,Sports,Electronic Arts,0.0,0.01,0.0,0.02
+15838,DS,2007.0,Action,THQ,0.02,0.0,0.0,0.02
+15840,PSP,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.02
+15841,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.02
+15843,DS,2010.0,Misc,Nintendo,0.0,0.0,0.02,0.02
+15853,DS,2005.0,Shooter,Konami Digital Entertainment,0.02,0.0,0.0,0.02
+15859,Wii,2012.0,Action,Activision,0.0,0.01,0.0,0.02
+15880,PC,2003.0,Strategy,Electronic Arts,0.01,0.0,0.0,0.02
+15884,Wii,2010.0,Racing,Konami Digital Entertainment,0.01,0.0,0.0,0.02
+15888,PC,2004.0,Sports,Sega,0.0,0.01,0.0,0.02
+15895,PC,2007.0,Shooter,Activision,0.01,0.0,0.0,0.02
+15897,PC,2015.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.02
+15903,PSP,2006.0,Simulation,Namco Bandai Games,0.0,0.0,0.02,0.02
+15921,PSP,2006.0,Misc,Konami Digital Entertainment,0.01,0.0,0.0,0.02
+15933,PSP,2009.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.02,0.02
+15935,DS,2007.0,Simulation,Ubisoft,0.0,0.01,0.0,0.02
+15966,DS,2008.0,Simulation,Sega,0.0,0.0,0.02,0.02
+15983,DS,2007.0,Misc,Electronic Arts,0.0,0.0,0.01,0.01
+15991,Wii,2008.0,Platform,Nintendo,0.0,0.01,0.0,0.01
+15992,PSP,2006.0,Puzzle,Konami Digital Entertainment,0.0,0.0,0.01,0.01
+15995,PC,2009.0,Sports,Sega,0.0,0.01,0.0,0.01
+16001,DS,2008.0,Misc,Konami Digital Entertainment,0.01,0.0,0.0,0.01
+16010,PC,2006.0,Shooter,Ubisoft,0.0,0.01,0.0,0.01
+16012,PSP,2007.0,Sports,Electronic Arts,0.01,0.0,0.0,0.01
+16023,PSP,2006.0,Action,Konami Digital Entertainment,0.0,0.0,0.01,0.01
+16035,DS,2006.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.01
+16047,PC,2006.0,Misc,Ubisoft,0.0,0.01,0.0,0.01
+16077,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.01,0.01
+16080,PC,2007.0,Sports,Sega,0.0,0.01,0.0,0.01
+16102,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.01
+16115,PC,2009.0,Puzzle,Namco Bandai Games,0.0,0.01,0.0,0.01
+16118,PC,2004.0,Sports,Sega,0.0,0.01,0.0,0.01
+16130,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.01
+16143,PC,2002.0,Action,Electronic Arts,0.0,0.01,0.0,0.01
+16150,PSP,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.01
+16151,Wii,2007.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.01
+16162,PC,2004.0,Sports,Electronic Arts,0.0,0.01,0.0,0.01
+16177,PC,2007.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.01
+16186,PC,2009.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.01
+16189,PC,2013.0,Racing,Sega,0.0,0.01,0.0,0.01
+16206,DS,2008.0,Misc,Ubisoft,0.0,0.01,0.0,0.01
+16207,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.01
+16218,Wii,2008.0,Sports,Namco Bandai Games,0.0,0.0,0.01,0.01
+16221,PC,2007.0,Action,Activision,0.01,0.0,0.0,0.01
+16233,PC,2006.0,Role-Playing,Activision,0.01,0.0,0.0,0.01
+16244,PC,2016.0,Racing,Namco Bandai Games,0.0,0.01,0.0,0.01
+16248,DS,2009.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.01,0.01
+16253,Wii,2007.0,Misc,Sega,0.0,0.0,0.01,0.01
+16269,DS,2007.0,Action,Nintendo,0.0,0.0,0.01,0.01
+16293,DS,2009.0,Simulation,Sega,0.01,0.0,0.0,0.01
+16306,PSP,2007.0,Racing,Sega,0.0,0.01,0.0,0.01
+16310,Wii,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.01
+16321,DS,2007.0,Misc,Ubisoft,0.0,0.0,0.01,0.01
+16329,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.01,0.01
+16332,PSP,2010.0,Strategy,Sony Computer Entertainment,0.0,0.0,0.01,0.01
+16339,PC,2002.0,Shooter,Electronic Arts,0.0,0.01,0.0,0.01
+16351,PSP,2005.0,Sports,Sega,0.0,0.01,0.0,0.01
+16352,PC,2007.0,Racing,THQ,0.0,0.01,0.0,0.01
+16354,PC,2007.0,Racing,Activision,0.01,0.0,0.0,0.01
+16384,PC,2008.0,Misc,Electronic Arts,0.0,0.01,0.0,0.01
+16386,PC,2016.0,Action,Ubisoft,0.0,0.01,0.0,0.01
+16394,DS,2007.0,Misc,Konami Digital Entertainment,0.0,0.0,0.01,0.01
+16400,PC,2009.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.01
+16406,PC,2014.0,Action,Activision,0.0,0.01,0.0,0.01
+16407,PSP,2012.0,Fighting,Namco Bandai Games,0.0,0.0,0.01,0.01
+16408,PC,2007.0,Racing,Sega,0.0,0.01,0.0,0.01
+16418,DS,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.01,0.01
+16420,PC,2006.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.01
+16437,Wii,2010.0,Sports,Konami Digital Entertainment,0.01,0.0,0.0,0.01
+16444,PC,2008.0,Action,Activision,0.01,0.0,0.0,0.01
+16459,PC,2015.0,Sports,Ubisoft,0.0,0.01,0.0,0.01
+16473,Wii,2008.0,Adventure,Nintendo,0.0,0.0,0.01,0.01
+16501,PC,2010.0,Shooter,Activision,0.01,0.0,0.0,0.01
+16514,DS,2008.0,Simulation,Ubisoft,0.0,0.0,0.01,0.01
+16517,Wii,2007.0,Action,Konami Digital Entertainment,0.0,0.01,0.0,0.01
+16523,DS,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.01
+16525,DS,2008.0,Role-Playing,Sega,0.0,0.0,0.01,0.01
+16529,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.01
+16537,PC,2012.0,Action,Activision,0.01,0.0,0.0,0.01
+16539,PC,2009.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.01
+16544,DS,2007.0,Sports,Ubisoft,0.0,0.0,0.01,0.01
+16558,PC,2007.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.01
+16568,PSP,2006.0,Puzzle,Sony Computer Entertainment,0.0,0.0,0.01,0.01
+16591,PC,2004.0,Adventure,Ubisoft,0.01,0.0,0.0,0.01
