@@ -24,10 +24,11 @@ This project contains exercises and assignments from the Data Science Basic cour
 | **15** | Evaluation Metrics |
 
 ## How to Use This Repository
-For each lesson, a directory has been created containing:
-- A PDF explaining the assignment, the results and their analysis
-- A Jupyter Notebook containing the code
-- Potential Data files linked to the assigment
+For each assignment X, a directory has been created containing:
+- 'X_Questions_Answers.pdf': a PDF file explaining the assignment, the results, and their analysis,
+- 'X_Code.ipynb': a Jupyter Notebook containing the code written for the assignment,
+- 'X_Data': directory containing datasets linked to the assignment,
+- 'X_Output': figures or other output files generated during the assignment
 
 ## More Information
 For more details about the course, visit: [Course Website](https://sites.google.com/view/gpds-aimd-courses/courses/data-science-basic?authuser=0)
